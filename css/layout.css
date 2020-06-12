@@ -1155,7 +1155,7 @@ call-to-action .button {
 footer {
   padding-top: 48px;
   margin-bottom: 48px;
-  color: #303030;
+  color: #575757;
   font-size: 14px;
   text-align: center;
   position: relative;
@@ -1248,5 +1248,5 @@ footer .social-links li:first-child {
 }
 
 #go-top a:hover {
-  background-color: #0f9095;
+  background-color: #04d9ff;
 }
