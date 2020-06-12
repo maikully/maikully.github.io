@@ -525,7 +525,7 @@ li p {
   color: #313131;
 }
 .stats-tabs li a:hover {
-  color: #04d9ff;
+  color: #11abb0;
 }
 .stats-tabs li a b {
   display: block;
@@ -541,7 +541,7 @@ dl {
 }
 dt {
   margin: 0;
-  color: #04d9ff;
+  color: #11abb0;
 }
 dd {
   margin: 0 0 0 20px;
@@ -619,7 +619,7 @@ dd {
 }
 .pagination .current,
 .pagination .current:hover {
-  background-color: #04d9ff;
+  background-color: #11abb0;
   color: #fff;
 }
 .pagination .inactive,
@@ -653,7 +653,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   font: 16px/30px "opensans-bold", sans-serif;
-  background: #04d9ff;
+  background: #11abb0;
   display: inline-block;
   text-decoration: none;
   letter-spacing: 0;
