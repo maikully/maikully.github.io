@@ -657,13 +657,12 @@ ul#nav li.current a {
 }
 
 .popup-modal a:hover {
-  color: #00cccc;
+  color: #ffffff;
 }
 
 .popup-modal a.popup-modal-dismiss {
   margin-left: 24px;
 }
-
 /* fadein/fadeout effect for modal popup
 /* ------------------------------------------------------------------ */
 
