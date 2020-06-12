@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Michael Li",
+    "image": "profilepic.jpg",
+    "bio": "I'm a ",
+    "email": "michael_s_li@brown.edu",
+    "phone": "908-902-6082",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/zeebli123",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/michael-li-14a4908b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/maikully",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of my skills, either cs-related and music-related",
+    "education": [
+      {
+        "school": "Brown University",
+        "degree": "Sc.B. Computer Science and Music",
+        "graduated": "May 2023",
+        "description": "Studied music theory and composition and computer programming."
+      }
+    ],
+    "work": [
+      {
+        "company": "re:Bloom",
+        "title": "Website Designer",
+        "years": "June 2018",
+        "description": "Contributed to creating a website for re:Bloom in React."
+      },
+      {
+        "company": "New Jersey Performing Arts Center",
+        "title": "Research Intern",
+        "years": "Feb - May 2019",
+        "description": "Intern at NJPAC, doing data entry and analysis of past and potential donors."
+      },
+      {
+        "company": "QuantHouse",
+        "title": "Computer Networking Intern",
+        "years": "May - August 2018",
+        "description": "Paid summer internship at a data center, helping to inventory and migrate over one hundred server machines."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "LaTeX/LilyPond",
+        "level": "100%"
+      },
+      {
+        "name": "Music Theory",
+        "level": "100%"
+      },
+      {
+        "name": "Violin",
+        "level": "100%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Premiere Pro",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Audition",
+        "level": "70%"
+      },
+      {
+        "name": "HTML",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "csProjects": [
+      {
+        "title": "ChordConstructor",
+        "category": "A program in Java that can create a chord given a key and a roman numeral",
+        "image": "chord.png",
+        "url": "https://github.com/maikully/chord-constructor"
+      }
+    ],
+    "musicProjects": [
+      {
+        "title": "Pop Song",
+        "category": "A short \"pop song\" written for my first semester music theory class",
+        "image": "popsong.jpg",
+        "url": "pop_song.pdf"
+      }
+    ]
+  }
+}
