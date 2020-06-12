@@ -21,7 +21,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <ParticlesBg color="#ffa500" num={100} type="cobweb" bg={true} />
+        <ParticlesBg color="#04d9ff" num={100} type="cobweb" bg={true} />
         <Header data={resumeData.main} />
         <About data={resumeData.main} />
         <Resume data={resumeData.resume} />

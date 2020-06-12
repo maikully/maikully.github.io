@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Michael Li",
-    "image": "profilepic.jpeg",
+    "image": "profilepic.jpg",
     "bio": "I'm a ",
     "email": "michael_s_li@brown.edu",
     "phone": "908-902-6082",
@@ -32,13 +32,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "Some of my skills, either cs-related and music-related",
     "education": [
       {
         "school": "Brown University",
         "degree": "Sc.B. Computer Science and Music",
         "graduated": "May 2023",
-        "description": "Studied music theory and composition and computer programming."
+        "description": "Studying music theory and composition and computer programming."
       }
     ],
     "work": [
@@ -116,9 +115,21 @@
     "musicProjects": [
       {
         "title": "Pop Song",
-        "category": "A short \"pop song\" written for my first semester music theory class",
+        "category": "A short \"pop song\" written for my intro music theory class",
         "image": "popsong.jpg",
         "url": "pop_song.pdf"
+      },
+      {
+        "title": "Sonata Exposition",
+        "category": "A short piano sonata exposition written for my intro music theory class",
+        "image": "sonata.jpg",
+        "url": "sonata.pdf"
+      },
+      {
+        "title": "Tanabata Song",
+        "category": "An SATB arrangement of the Japanese folk song \"Tanabata\"",
+        "image": "tanabata.jpg",
+        "url": "Tanabata.pdf"
       }
     ]
   }

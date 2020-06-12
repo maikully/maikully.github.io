@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import DownloadLink from "react-download-link";
 
 class About extends Component {
   calculateAge(birthday) {
@@ -51,7 +52,7 @@ class About extends Component {
               </div>
               <div className="columns download">
                 <p>
-                  <a href={resumeDownload} className="button">
+                  <a href={resumeDownload} target="_blank" className="button">
                     <i className="fa fa-download"></i>Download Resume
                   </a>
                 </p>
