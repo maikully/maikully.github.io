@@ -15,11 +15,6 @@
     "resumedownload": "resume.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/zeebli123",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/michael-li-14a4908b/",
         "className": "fa fa-linkedin"
@@ -38,13 +33,18 @@
         "degree": "Sc.B. Computer Science and Music",
         "graduated": "May 2023",
         "description": "Studying music theory and composition and computer programming."
+      },
+      {
+        "school": "High Technology High School",
+        "graduated": "June 2019",
+        "description": "STEM-based magnet high school in Lincroft, New Jersey."
       }
     ],
     "work": [
       {
         "company": "re:Bloom",
         "title": "Website Designer",
-        "years": "June 2018",
+        "years": "June 2020",
         "description": "Contributed to creating a website for re:Bloom in React."
       },
       {
@@ -82,6 +82,10 @@
         "level": "100%"
       },
       {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
         "name": "Adobe Photoshop",
         "level": "70%"
       },
@@ -107,29 +111,53 @@
     "csProjects": [
       {
         "title": "ChordConstructor",
-        "category": "A program in Java that can create a chord given a key and a roman numeral",
-        "image": "chord.png",
-        "url": "https://github.com/maikully/chord-constructor"
+        "category": "A Java program that can create a chord given a key and a roman numeral",
+        "url": "https://github.com/maikully/chord-constructor",
+        "image": "chord.png"
       }
     ],
     "musicProjects": [
       {
         "title": "Pop Song",
-        "category": "A short \"pop song\" written for my intro music theory class",
-        "image": "popsong.jpg",
-        "url": "pop_song.pdf"
+        "category": "A short \"pop song\" written for my intro music theory class (NB: many of the chord symbols are outdated)",
+        "url": "pop_song.pdf",
+        "image": "popsong.jpg"
       },
       {
         "title": "Sonata Exposition",
-        "category": "A short piano sonata exposition written for my intro music theory class",
-        "image": "sonata.jpg",
-        "url": "sonata.pdf"
+        "category": "A piano sonata exposition written for my intro music theory class",
+        "url": "sonata.pdf",
+        "image": "sonata.jpg"
       },
       {
         "title": "Tanabata Song",
         "category": "An SATB arrangement of the Japanese folk song \"Tanabata\"",
-        "image": "tanabata.jpg",
-        "url": "Tanabata.pdf"
+        "url": "Tanabata.mp3",
+        "image": "tanabata.jpg"
+      },
+      {
+        "title": "In a Sentimental Mood",
+        "category": "An arrangement of the jazz standard \"In a Sentimental Mood\" for melodica and strings of varyingly low octaves",
+        "url": "sentimental.mp3",
+        "image": "sentimental.jpg"
+      },
+      {
+        "title": "God Only Knows re-melodication",
+        "category": "The chords to \"God Only Knows\" but with a new melody, for my intro music theory class",
+        "url": "God_Only_Knows.mp3",
+        "image": "God_Only_Knows.jpg"
+      },
+      {
+        "title": "Because",
+        "category": "Playing the opening vocals of the Beatles' \"Because\" on the violin (disclaimer: sheet music isn't mine)",
+        "url": "Because.mp3",
+        "image": "because.jpg"
+      },
+      {
+        "title": "Nowhere Man",
+        "category": "(Poorly) singing the opening vocals of the Beatles' \"Nowhere Man\" (disclaimer: sheet music isn't mine)",
+        "url": "Nowhere_Man.mp3",
+        "image": "nowhere.jpg"
       }
     ]
   }
