@@ -42,6 +42,12 @@
     ],
     "work": [
       {
+        "company": "Abacus Counselling",
+        "title": "Website Designer",
+        "years": "August 2020",
+        "description": "Created website for Abacus Counselling, a consultation service for student in Sri Lanka applying to American universities."
+      },
+      {
         "company": "re:Bloom",
         "title": "Website Designer",
         "years": "June 2020",
@@ -140,24 +146,6 @@
         "category": "An arrangement of the jazz standard \"In a Sentimental Mood\" for melodica and strings of varyingly low octaves",
         "url": "sentimental.mp3",
         "image": "sentimental.jpg"
-      },
-      {
-        "title": "God Only Knows re-melodication",
-        "category": "The chords to \"God Only Knows\" but with a new melody, for my intro music theory class",
-        "url": "God_Only_Knows.mp3",
-        "image": "God_Only_Knows.jpg"
-      },
-      {
-        "title": "Because",
-        "category": "Playing the opening vocals of the Beatles' \"Because\" on the violin (disclaimer: sheet music isn't mine)",
-        "url": "Because.mp3",
-        "image": "because.jpg"
-      },
-      {
-        "title": "Nowhere Man",
-        "category": "(Poorly) singing the opening vocals of the Beatles' \"Nowhere Man\" (disclaimer: sheet music isn't mine)",
-        "url": "Nowhere_Man.mp3",
-        "image": "nowhere.jpg"
       }
     ]
   }

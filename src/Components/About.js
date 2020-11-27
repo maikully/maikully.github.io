@@ -39,6 +39,9 @@ class About extends Component {
               write about music. Some of my programming and musical works are
               kept here.
             </p>
+            <p>
+            <a href="opinions.html">Opinions</a>
+            </p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
