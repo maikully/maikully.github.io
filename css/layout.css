@@ -351,7 +351,7 @@ ul#nav li.current a {
 /*----------------------------------------------*/
 
 .bars {
-	width: 95%;
+	width: 40%;
 	float: left;
 	padding: 0;
 	text-align: left;
@@ -388,7 +388,7 @@ ul#nav li.current a {
 	padding-right: 24px;
 	background: #313131;
 	display: inline-block;
-	height: 0px;
+	height: 10px;
 	line-height: 42px;
 	border-radius: 3px 0 0 3px;
 }
