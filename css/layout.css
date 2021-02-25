@@ -366,7 +366,7 @@ ul#nav li.current a {
 	position: relative;
 	margin-bottom: 60px;
 	background: #ccc;
-	height: 0px;
+	height: 42px;
 	border-radius: 3px;
 }
 
@@ -388,7 +388,7 @@ ul#nav li.current a {
 	padding-right: 24px;
 	background: #313131;
 	display: inline-block;
-	height: 42px;
+	height: 0px;
 	line-height: 42px;
 	border-radius: 3px 0 0 3px;
 }
