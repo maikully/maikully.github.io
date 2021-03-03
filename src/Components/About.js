@@ -12,6 +12,7 @@ class About extends Component {
     if (this.props.data) {
       var name = this.props.data.name;
       var profilepic = "images/" + this.props.data.image;
+      var lastfm = "images/lastfm.png";
       var bio = this.props.data.bio;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
@@ -40,7 +41,10 @@ class About extends Component {
               kept here.
             </p>
             <p>
-            <a href="opinions.html">Opinions</a>
+            <a href="opinions.html">Some opinions I have about music</a>
+            <br></br>
+            <br></br>
+            <a href="https://www.last.fm/user/maikully">Check out my  <img src={lastfm} width="47"/></a>
             </p>
             <div className="row">
               <div className="columns contact-details">

@@ -40,7 +40,13 @@
         "description": "STEM-based magnet high school in Lincroft, New Jersey."
       }
     ],
-    "work": [
+    "work": [      
+      {
+        "company": "Brown University IT Service Center",
+        "title": "Student Technician",
+        "years": "Feb 2021 - present",
+        "description": "Answers ticket requests and chats to assist students and faculty with technical issues and questions."
+      },
       {
         "company": "Abacus Counselling",
         "title": "Website Designer",
@@ -68,48 +74,49 @@
     ],
     "skills": [
       {
-        "name": "Java",
-        "level": "100%"
+        "name": "Java"
       },
       {
-        "name": "Python",
-        "level": "100%"
+        "name": "Python"
       },
       {
-        "name": "LaTeX/LilyPond",
-        "level": "100%"
+        "name": "C"
+      },      
+      {
+        "name": "x86-64 Assembly"
       },
       {
-        "name": "Music Theory",
-        "level": "100%"
+        "name": "LaTeX/LilyPond"
       },
       {
-        "name": "Violin",
-        "level": "100%"
+        "name": "Music Theory"
       },
       {
-        "name": "Git",
-        "level": "80%"
+        "name": "Violin"
       },
       {
-        "name": "Adobe Photoshop",
-        "level": "70%"
+        "name": "Git"
       },
       {
-        "name": "Adobe Premiere Pro",
-        "level": "70%"
+        "name": "Adobe Photoshop"
       },
       {
-        "name": "Adobe Audition",
-        "level": "70%"
+        "name": "Adobe Premiere Pro"
       },
       {
-        "name": "HTML",
-        "level": "50%"
+        "name": "Adobe Audition"
       },
       {
-        "name": "CSS",
-        "level": "50%"
+        "name": "HTML"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "JS"
+      },
+      {
+        "name": "SQL"
       }
     ]
   },
@@ -146,6 +153,18 @@
         "category": "An arrangement of the jazz standard \"In a Sentimental Mood\" for melodica and strings of varyingly low octaves",
         "url": "sentimental.mp3",
         "image": "sentimental.jpg"
+      },
+      {
+        "title": "Rainbow Funtime",
+        "category": "My first project for my intro to composition class, a short two-movement piece for solo flute",
+        "url": "RainbowFuntime.pdf",
+        "image": "RainbowFuntime.jpg"
+      },
+      {
+        "title": "Crossing the Bar",
+        "category": "My second project for my intro to composition class, a song for soparano and piano set to text by Alfred, Lord Tennyson",
+        "url": "CrossingTheBar.mp3",
+        "image": "CrossingTheBar.jpg"
       }
     ]
   }
