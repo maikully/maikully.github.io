@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import DownloadLink from "react-download-link";
 
 class About extends Component {
   calculateAge(birthday) {
@@ -13,7 +12,6 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic = "images/" + this.props.data.image;
       var lastfm = "images/lastfm.png";
-      var bio = this.props.data.bio;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
@@ -27,7 +25,7 @@ class About extends Component {
             <img
               className="profile-pic"
               src={profilepic}
-              alt="Michael Li Picture"
+              alt="Michael Li"
             />
           </div>
           <div className="nine columns main-col">
@@ -44,7 +42,7 @@ class About extends Component {
             <a href="opinions.html">Some opinions I have about music</a>
             <br></br>
             <br></br>
-            <a href="https://www.last.fm/user/maikully">Check out my  <img src={lastfm} width="47"/></a>
+            <a href="https://www.last.fm/user/maikully">Check out my  <img src={lastfm} width="47" alt="last.fm logo"/></a>
             </p>
             <div className="row">
               <div className="columns contact-details">
@@ -59,7 +57,7 @@ class About extends Component {
               </div>
               <div className="columns download">
                 <p>
-                  <a href={resumeDownload} target="_blank" className="button">
+                  <a href={resumeDownload} target="_blank" rel="noreferrer noopener" className="button">
                     <i className="fa fa-download"></i>Download Resume
                   </a>
                 </p>

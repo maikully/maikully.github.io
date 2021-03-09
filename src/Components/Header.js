@@ -7,7 +7,7 @@ class Header extends Component {
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
-            <a href={network.url} target="_blank">
+            <a href={network.url} target="_blank" rel="noreferrer noopener">
               <i className={network.className}></i>
             </a>
           </li>
@@ -52,7 +52,6 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
-            <h3></h3>
             <hr />
             <ul className="social">{networks}</ul>
           </div>
