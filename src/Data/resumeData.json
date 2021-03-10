@@ -81,21 +81,27 @@
       },
       {
         "name": "C"
-      },      
+      },    
+      {
+        "name": "HTML"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "JS"
+      },
+      {
+        "name": "React"
+      },
+      {
+        "name": "SQL"
+      },  
       {
         "name": "x86-64 Assembly"
       },
       {
         "name": "LaTeX/LilyPond"
-      },
-      {
-        "name": "Music Theory"
-      },
-      {
-        "name": "Violin"
-      },
-      {
-        "name": "Git"
       },
       {
         "name": "Adobe Photoshop"
@@ -107,16 +113,10 @@
         "name": "Adobe Audition"
       },
       {
-        "name": "HTML"
+        "name": "Music Theory"
       },
       {
-        "name": "CSS"
-      },
-      {
-        "name": "JS"
-      },
-      {
-        "name": "SQL"
+        "name": "Violin"
       }
     ]
   },
