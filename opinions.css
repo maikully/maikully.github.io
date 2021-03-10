@@ -1,0 +1,22 @@
+body {
+  background-color: powderblue;
+  font-family: "Candara"
+}
+ul {
+  margin-left: 2em;
+}
+ul.ba {
+  list-style-type: none;
+  margin-left: 1em;
+}
+ul.sec {
+  list-style-type: none;
+  margin-left: 1em;
+  font-family:"Courier New"
+}
+ol li {        
+  margin-left: 1.5em;
+}
+h2 {  
+  font-family: "Times New Roman";
+}
