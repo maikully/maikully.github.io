@@ -17,6 +17,7 @@
   src: url('fonts/Candara/CANDARA.eot'); /* IE9 Compat Modes */
   src: local(''),
        url('fonts/Candara/CANDARA.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/Candara/Candara.woff2') format('woff2'), /* Super Modern Browsers */
        url('fonts/Candara/CANDARA.woff') format('woff'), /* Modern Browsers */
        url('fonts/Candara/CANDARA.ttf') format('truetype'), /* Safari, Android, iOS */
 }
