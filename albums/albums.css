@@ -1,7 +1,14 @@
 body {
-  background-color: powderblue;
+  background-color: #dce1e3;
   font-family: Candara
 }
 ul {
   list-style-type:disc
+}
+h2 {  
+  font-family: "Garamond";
+  display:inline-block;
+  padding-top: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }

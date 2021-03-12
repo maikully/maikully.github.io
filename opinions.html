@@ -9,6 +9,7 @@
 
   <body>
 
+    <script src="js/opinions.js"></script>
     </style>
     <h2>Jump to a section</h2>
     <ul class="sec">
@@ -19,13 +20,14 @@
       <li><a href="#pianists">Pianists</a></li>
     </ul>
     <a id="albums">
-      <h2>Albums</h2>
-      <ul class="ba">
-        <a href="albums/loveless.html">
+      <h2>Albums</h2>      
+      <p style="margin-top:0;"><i>Number of albums rated: <a id="albumCount"></a></i></p>
+      <ul id="album" class="ba">
+        <a class="album" href="albums/loveless.html">
           <li>9.5 -<b> Loveless</b> (1991) - My Bloody Valentine</li>
         </a>
         <li>9.5 -<b> Closer</b> (1980) - Joy Division</li>
-        <a href="albums/vu&n.html">
+        <a class="album" href="albums/vu&n.html">
           <li>9.5 -<b> The Velvet Underground & Nico</b> (1967) - The Velvet Underground & Nico</li>
         </a>
 
@@ -36,26 +38,27 @@
         <li>9 -<b> To Pimp a Butterfly</b> (2015) - Kendrick Lamar</li>
         <li>9 -<b> Unknown Pleasures</b> (1979) - Joy Division</li>
         <li>9 -<b> The Money Store</b> (2012) - Death Grips</li>
-        <a href="albums/doors.html">
+        <a class="album" href="albums/doors.html">
           <li>9 -<b> The Doors</b> (1967) - The Doors</li>
         </a>
         <li>9 -<b> Ys</b> (2006) - Joanna Newsom</li>
-        <a href="albums/titanicrising.html">
+        <a class="album" href="albums/titanicrising.html">
           <li>9 -<b> Titanic Rising</b> (2019) - Weyes Blood</li>
         </a>
-        <a href="albums/lz4.html">
+        <a class="album" href="albums/lz4.html">
           <li>9 -<b> Led Zeppelin IV</b> (1971) - Led Zeppelin</li>
         </a>
 
         <br>
 
-        <a href="albums/itaots.html">
+        <a class="album" href="albums/itaots.html">
           <li>8.5 -<b> In the Aeroplane Over the Sea</b> (1998) - Neutral Milk Hotel</li>
         </a>
         <li></li>
         <li>8.5 -<b> Have One On Me</b> (2010) - Joanna Newsom</li>
         <li>8.5 -<b> A Love Supreme</b> (1965) - John Coltrane</li>
         <li>8.5 -<b> Sung Tongs</b> (2004) - Animal Collective</li>
+        <li>8.5 -<b> Helplessness Blues</b> (2011) - Fleet Foxes</li>
         <li>8.5 -<b> Exmilitary</b> (2011) - Death Grips</li>
         <li>8.5 -<b> Trout Mask Replica</b> (1969) - Captain Beefheart and his Magic Band</li>
         <li>8.5 -<b> Mingus Ah Um</b> (1959) - Charles Mingus</li>
@@ -69,12 +72,11 @@
         <li>8.5 -<b> Some Rap Songs</b> (2018) - Earl Sweatshirt</li>
         <li>8.5 -<b> Clube da Esquina</b> (1972) - Lô Borges and Milton Nascimento</li>
         <li>8.5 -<b> WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</b> (2019) - Billie Eilish</li>
-        <li>8.5 -<b> Helplessness Blues</b> (2011) - Fleet Foxes</li>
         <li>8.5 -<b> Lift Your Skinny Fists Like Antennas to Heaven!</b> (2000) - Godspeed You! Black Emperor</li>
         <li>8.5 -<b> My Beautiful Dark Twisted Fantasy</b> (2010) - Kanye West</li>
         <li>8.5 -<b> In the Court of the Crimson King</b> (1969) - King Crimson</li>
         <li>8.5 -<b> What's Going On</b> (1971) - Marvin Gaye</li>
-        <a href="albums/revolver.html">
+        <a class="album" href="albums/revolver.html">
           <li>8.5 -<b> Revolver</b> (1966) - The Beatles</li>
         </a>
         <li>8.5 -<b> Bridge Over Troubled Water</b> (1970) - Simon & Garfunkel</li>
@@ -84,14 +86,12 @@
         <li>8.5 -<b> White Light/White Heat</b> (1968) - The Velvet Underground</li>
         <li>8.5 -<b> Mellon Collie and the Infinite Sadness</b> (1995) - The Smashing Pumpkins</li>
         <li>8.5 -<b> The Moon & Antarctica</b> (2000) - Modest Mouse</li>
-        <a href="albums/nfr.html">
+        <a class="album" href="albums/nfr.html">
           <li>8.5 -<b> Norman Fucking Rockwell!</b> (2019) - Lana Del Rey</li>
         </a>
         <li>8.5 -<b> Another Green World</b> (1975) - Brian Eno</li>
         <li>8.5 -<b> Ceres & Calypso in the Deep Time</b> (2013) - Candy Claws</li>
 
-
-        <br>
         <br>
 
         <li>8 -<b> Twin Fantasy</b> (2018) - Car Seat Headrest</li>
@@ -127,7 +127,7 @@
         <li>8 -<b> The Modern Lovers</b> (1976) - The Modern Lovers</li>
         <li>8 -<b> RTJ4</b> (2020) - Run the Jewels</li>
         <li>8 -<b> how i'm feeling now</b> (2020) - Charli XCX</li>
-        <a href="albums/mpp.html">
+        <a class="album" href="albums/mpp.html">
           <li>8 -<b> Merriweather Post Pavilion</b> (2009) - Animal Collective</li>
         </a>
         <li>8 -<b> Igor</b> (2019) - Tyler, the Creator</li>
@@ -188,8 +188,8 @@
         <li>7.5 -<b> Pink Moon</b> (1972) - Nick Drake</li>
         <li>7.5 -<b> Daydream Nation</b> (1988) - Sonic Youth</li>
         <li>7.5 -<b> The Miseducation of Lauryn Hill</b> (1998) - Lauryn Hill</li>
-        <li>7.5 -<b> Replica</b> (2011) - Oneohtrix Point Never</li>
         <li>7.5 -<b> Blue</b> (1971) - Joni Mitchell</li>
+        <li>7.5 -<b> Velocity:Design:Comfort</b> (2003) - Sweet Trip</li>
         <li>7.5 -<b> I Sing the Body Electric</b> (1972) - Weather Report</li>
         <li>7.5 -<b> Flying Microtonal Banana</b> (2017) - King Gizzard & The Lizard Wizard</li>
         <li>7.5 -<b> I Talk with the Spirits</b> (1965) - Rahsaan Roland Kirk</li>
@@ -247,6 +247,7 @@
         <li>7 -<b> Tender Buttons</b> (2005) - Broadcast</li>
         <li>7 -<b> The United States of America</b> (1968) - The United States of America</li>
         <li>7 -<b> Souvlaki</b> (1993) - Slowdive</li>
+        <li>7 -<b> Replica</b> (2011) - Oneohtrix Point Never</li>
 
         <br>
 
@@ -279,6 +280,7 @@
         <li>6.5 -<b> Invasion of Privacy</b> (2018) - Cardi B</li>
         <li>6.5 -<b> Froot</b> (2015) - Marina and the Diamonds</li>
         <li>6.5 -<b> Yoshimi Battles the Pink Robots</b> (2002) - The Flaming Lips</li>
+        <li>6.5 -<b> The Three E.P.'s </b> (1998) - The Beta Band</li>
         <li>6.5 -<b> Ladies and Gentlemen We Are Floating in Space </b> (1997) - Spiritualized</li>
 
         <br>
@@ -327,7 +329,7 @@
 
     <a id="classical-albums">
       <h2>Classical Albums</h2>
-      <p style="font-family:Candara">Albums that I believe are a definitive version of their respective works </p>
+      <p style="margin-top:0;"><i>Albums that I believe are a definitive version of their respective works</i> </p>
       <ul>
         <li><b> Strauss - Vier letzte Lieder</b> (1997) - Elisabeth Schwarzkopf, George Szell</li>
         <li><b> Beethoven - Missa Solemnis</b> (1966) - Otto Klemperer, New Philharmonia Orchestra</li>
