@@ -6,7 +6,6 @@
   <link rel="stylesheet" href="css/opinions.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Opinions</title>
-  <script src="https://cdn.anychart.com/releases/8.0.0/js/anychart-base.min.js"></script>
   <script src="chartjs/chart.js/dist/Chart.js"></script>
 </head>
 
@@ -24,6 +23,21 @@
   </ul>
   <script>
     window.onload = function () {
+
+      var liList = document.getElementById("album9.5").getElementsByTagName("li");
+      let albumCount = liList.length
+      albumCount += document.getElementById("album9").getElementsByTagName("li").length
+      albumCount += document.getElementById("album8.5").getElementsByTagName("li").length
+      albumCount += document.getElementById("album8").getElementsByTagName("li").length
+      albumCount += document.getElementById("album7.5").getElementsByTagName("li").length
+      albumCount += document.getElementById("album7").getElementsByTagName("li").length
+      albumCount += document.getElementById("album6.5").getElementsByTagName("li").length
+      albumCount += document.getElementById("album6").getElementsByTagName("li").length
+      albumCount += document.getElementById("album5.5").getElementsByTagName("li").length
+      albumCount += document.getElementById("album5").getElementsByTagName("li").length
+      albumCount += document.getElementById("album4").getElementsByTagName("li").length
+      albumCount += document.getElementById("album2").getElementsByTagName("li").length
+      document.getElementById("albumCount").innerHTML = albumCount
       var ctx = document.getElementById('myChart').getContext('2d');
       var myChart = new Chart(ctx, {
         type: 'bar',
