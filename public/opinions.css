@@ -2,25 +2,17 @@ body {
   background-color: #dce1e3;
   font-family: "Candara"
 }
-ul {
-  margin-left: 2em;
-}
 ul.ba {
   list-style-type: none;
-  margin-left: 1em;
 }
 ul.sec {
   list-style-type: none;
-  margin-left: 1em;
   font-family:"Courier New"
-}
-ol li {        
-  margin-left: 1.5em;
 }
 h2 {  
   font-family: "Garamond";
   border-bottom: maroon solid 2px;
-  display:inline-block;
+  display: inline-block
 }
 a.album {
   color: black;
