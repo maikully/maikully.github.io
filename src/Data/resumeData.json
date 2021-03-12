@@ -12,7 +12,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "",
-    "resumedownload": "resume.pdf",
+    "resumedownload": "portfolio/resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -133,37 +133,37 @@
       {
         "title": "Pop Song",
         "category": "A short \"pop song\" written for my intro music theory class (NB: many of the chord symbols are outdated)",
-        "url": "pop_song.pdf",
+        "url": "portfolio/pop_song.pdf",
         "image": "popsong.jpg"
       },
       {
         "title": "Sonata Exposition",
         "category": "A piano sonata exposition written for my intro music theory class",
-        "url": "sonata.pdf",
+        "url": "portfolio/sonata.pdf",
         "image": "sonata.jpg"
       },
       {
         "title": "Tanabata Song",
         "category": "An SATB arrangement of the Japanese folk song \"Tanabata\"",
-        "url": "Tanabata.mp3",
+        "url": "portfolio/Tanabata.mp3",
         "image": "tanabata.jpg"
       },
       {
         "title": "In a Sentimental Mood",
         "category": "An arrangement of the jazz standard \"In a Sentimental Mood\" for melodica and strings of varyingly low octaves",
-        "url": "sentimental.mp3",
+        "url": "portfolio/sentimental.mp3",
         "image": "sentimental.jpg"
       },
       {
         "title": "Rainbow Funtime",
         "category": "My first project for my intro to composition class, a short two-movement piece for solo flute",
-        "url": "RainbowFuntime.pdf",
+        "url": "portfolio/RainbowFuntime.pdf",
         "image": "RainbowFuntime.jpg"
       },
       {
         "title": "Crossing the Bar",
         "category": "My second project for my intro to composition class, a song for soparano and piano set to text by Alfred, Lord Tennyson",
-        "url": "CrossingTheBar.mp3",
+        "url": "portfolio/CrossingTheBar.mp3",
         "image": "CrossingTheBar.jpg"
       }
     ]
