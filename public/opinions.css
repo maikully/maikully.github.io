@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: #dce1e3;
   font-family: "Candara"
 }
 ul {
@@ -18,5 +18,10 @@ ol li {
   margin-left: 1.5em;
 }
 h2 {  
-  font-family: "Times New Roman";
+  font-family: "Garamond";
+  border-bottom: maroon solid 2px;
+  display:inline-block;
+}
+a.album {
+  color: black;
 }
