@@ -10,6 +10,16 @@
        url('fonts/eb-garamond-v15-latin/eb-garamond-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('fonts/eb-garamond-v15-latin/eb-garamond-v15-latin-regular.svg') format('svg'); /* Legacy iOS */
 }
+@font-face {
+  font-family: 'Candara';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Candara/CANDARA.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/Candara/CANDARA.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/Candara/CANDARA.woff') format('woff'), /* Modern Browsers */
+       url('fonts/Candara/CANDARA.ttf') format('truetype'), /* Safari, Android, iOS */
+}
 
 body {
   background-color: #e9ebec;
