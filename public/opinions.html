@@ -11,7 +11,7 @@
   <link rel="manifest" href="manifest.json" />
   <meta name="Description" content="Page of musical opinions">
 </head>
-
+<!-- TODO: fix mobile fonts -->
 <body>
 
   <script src="js/opinions.js"></script>
@@ -26,9 +26,11 @@
   </ul>
   <script>
     window.onload = function () {
-
-      var liList = document.getElementById("album9.5").getElementsByTagName("li");
-      let albumCount = liList.length
+      var LastUpdated = document.lastModified;
+      document.getElementById("lastUpdated").innerHTML = LastUpdated
+      let albumCount = 0
+      albumCount += document.getElementById("album10").getElementsByTagName("li").length
+      albumCount += document.getElementById("album9.5").getElementsByTagName("li").length
       albumCount += document.getElementById("album9").getElementsByTagName("li").length
       albumCount += document.getElementById("album8.5").getElementsByTagName("li").length
       albumCount += document.getElementById("album8").getElementsByTagName("li").length
@@ -38,8 +40,14 @@
       albumCount += document.getElementById("album6").getElementsByTagName("li").length
       albumCount += document.getElementById("album5.5").getElementsByTagName("li").length
       albumCount += document.getElementById("album5").getElementsByTagName("li").length
+      albumCount += document.getElementById("album4.5").getElementsByTagName("li").length
       albumCount += document.getElementById("album4").getElementsByTagName("li").length
+      albumCount += document.getElementById("album3.5").getElementsByTagName("li").length
+      albumCount += document.getElementById("album3").getElementsByTagName("li").length
+      albumCount += document.getElementById("album2.5").getElementsByTagName("li").length
       albumCount += document.getElementById("album2").getElementsByTagName("li").length
+      albumCount += document.getElementById("album1.5").getElementsByTagName("li").length
+      albumCount += document.getElementById("album1").getElementsByTagName("li").length
       document.getElementById("albumCount").innerHTML = albumCount
       var ctx = document.getElementById('myChart').getContext('2d');
       var myChart = new Chart(ctx, {
@@ -142,6 +150,7 @@
   <a id="albums">
     <h2>Albums</h2>
     <p style="margin-top:0;"><i>Number of albums rated: <a id="albumCount"></a></i></p>
+    <p style="margin-top:0;"><i>Page last updated on <a id="lastUpdated"></a></i></p>
     <ul id="album10" class="ba"></ul>
     <ul id="album9.5" class="ba">
       <li><a class="album" href="albums/loveless.html">9.5 -<b> Loveless</b> (1991) - My Bloody Valentine</a></li>
@@ -197,6 +206,7 @@
     <li>8.5 -<b> Mellon Collie and the Infinite Sadness</b> (1995) - The Smashing Pumpkins</li>
     <li>8.5 -<b> The Moon & Antarctica</b> (2000) - Modest Mouse</li>
     <li><a class="album" href="albums/nfr.html">8.5 -<b> Norman Fucking Rockwell!</b> (2019) - Lana Del Rey</a></li>
+    <li>8.5 -<b> You Will Never Know Why</b> (2009) - Sweet Trip</li>
     <li>8.5 -<b> Another Green World</b> (1975) - Brian Eno</li>
     <li>8.5 -<b> Ceres & Calypso in the Deep Time</b> (2013) - Candy Claws</li>
   </ul>
