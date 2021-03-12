@@ -1,5 +1,5 @@
 body {
-  background-color: #dce1e3;
+  background-color: #e9ebec;
   font-family: "Candara"
 }
 ul.ba {
@@ -12,7 +12,17 @@ ul.sec {
 h2 {  
   font-family: "Garamond";
   border-bottom: maroon solid 2px;
-  display: inline-block
+  display: inline-block;
+}
+h3 {  
+  font-family: "Garamond";
+  font-size:larger;
+  border-bottom: maroon solid 2px;
+  width:20%;
+  padding-top: 0;
+  margin-top: 0px;
+  margin-left: 2em;
+  margin-bottom: 0px;
 }
 a.album {
   color: black;
