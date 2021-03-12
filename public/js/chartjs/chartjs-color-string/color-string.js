@@ -24,16 +24,16 @@ function getRgba(string) {
    if (!string) {
       return;
    }
-   var abbr =  /^#([a-fA-F0-9]{3,4})$/i,
-       hex =  /^#([a-fA-F0-9]{6}([a-fA-F0-9]{2})?)$/i,
-       rgba = /^rgba?\(\s*([+-]?\d+)\s*,\s*([+-]?\d+)\s*,\s*([+-]?\d+)\s*(?:,\s*([+-]?[\d\.]+)\s*)?\)$/i,
-       per = /^rgba?\(\s*([+-]?[\d\.]+)\%\s*,\s*([+-]?[\d\.]+)\%\s*,\s*([+-]?[\d\.]+)\%\s*(?:,\s*([+-]?[\d\.]+)\s*)?\)$/i,
-       keyword = /(\w+)/;
+   var abbr = /^#([a-fA-F0-9]{3,4})$/i,
+      hex = /^#([a-fA-F0-9]{6}([a-fA-F0-9]{2})?)$/i,
+      rgba = /^rgba?\(\s*([+-]?\d+)\s*,\s*([+-]?\d+)\s*,\s*([+-]?\d+)\s*(?:,\s*([+-]?[\d\.]+)\s*)?\)$/i,
+      per = /^rgba?\(\s*([+-]?[\d\.]+)\%\s*,\s*([+-]?[\d\.]+)\%\s*,\s*([+-]?[\d\.]+)\%\s*(?:,\s*([+-]?[\d\.]+)\s*)?\)$/i,
+      keyword = /(\w+)/;
 
    var rgb = [0, 0, 0],
-       a = 1,
-       match = string.match(abbr),
-       hexAlpha = "";
+      a = 1,
+      match = string.match(abbr),
+      hexAlpha = "";
    if (match) {
       match = match[1];
       hexAlpha = match[3];
@@ -98,9 +98,9 @@ function getHsla(string) {
    if (match) {
       var alpha = parseFloat(match[4]);
       var h = scale(parseInt(match[1]), 0, 360),
-          s = scale(parseFloat(match[2]), 0, 100),
-          l = scale(parseFloat(match[3]), 0, 100),
-          a = scale(isNaN(alpha) ? 1 : alpha, 0, 1);
+         s = scale(parseFloat(match[2]), 0, 100),
+         l = scale(parseFloat(match[3]), 0, 100),
+         a = scale(isNaN(alpha) ? 1 : alpha, 0, 1);
       return [h, s, l, a];
    }
 }
@@ -112,11 +112,11 @@ function getHwb(string) {
    var hwb = /^hwb\(\s*([+-]?\d+)(?:deg)?\s*,\s*([+-]?[\d\.]+)%\s*,\s*([+-]?[\d\.]+)%\s*(?:,\s*([+-]?[\d\.]+)\s*)?\)/;
    var match = string.match(hwb);
    if (match) {
-    var alpha = parseFloat(match[4]);
+      var alpha = parseFloat(match[4]);
       var h = scale(parseInt(match[1]), 0, 360),
-          w = scale(parseFloat(match[2]), 0, 100),
-          b = scale(parseFloat(match[3]), 0, 100),
-          a = scale(isNaN(alpha) ? 1 : alpha, 0, 1);
+         w = scale(parseFloat(match[2]), 0, 100),
+         b = scale(parseFloat(match[3]), 0, 100),
+         a = scale(isNaN(alpha) ? 1 : alpha, 0, 1);
       return [h, w, b, a];
    }
 }
@@ -127,8 +127,8 @@ function getRgb(string) {
 }
 
 function getHsl(string) {
-  var hsla = getHsla(string);
-  return hsla && hsla.slice(0, 3);
+   var hsla = getHsla(string);
+   return hsla && hsla.slice(0, 3);
 }
 
 function getAlpha(string) {
@@ -147,14 +147,14 @@ function getAlpha(string) {
 // generators
 function hexString(rgba, a) {
    var a = (a !== undefined && rgba.length === 3) ? a : rgba[3];
-   return "#" + hexDouble(rgba[0]) 
-              + hexDouble(rgba[1])
-              + hexDouble(rgba[2])
-              + (
-                 (a >= 0 && a < 1)
-                 ? hexDouble(Math.round(a * 255))
-                 : ""
-              );
+   return "#" + hexDouble(rgba[0])
+      + hexDouble(rgba[1])
+      + hexDouble(rgba[2])
+      + (
+         (a >= 0 && a < 1)
+            ? hexDouble(Math.round(a * 255))
+            : ""
+      );
 }
 
 function rgbString(rgba, alpha) {
@@ -169,24 +169,24 @@ function rgbaString(rgba, alpha) {
       alpha = (rgba[3] !== undefined ? rgba[3] : 1);
    }
    return "rgba(" + rgba[0] + ", " + rgba[1] + ", " + rgba[2]
-           + ", " + alpha + ")";
+      + ", " + alpha + ")";
 }
 
 function percentString(rgba, alpha) {
    if (alpha < 1 || (rgba[3] && rgba[3] < 1)) {
       return percentaString(rgba, alpha);
    }
-   var r = Math.round(rgba[0]/255 * 100),
-       g = Math.round(rgba[1]/255 * 100),
-       b = Math.round(rgba[2]/255 * 100);
+   var r = Math.round(rgba[0] / 255 * 100),
+      g = Math.round(rgba[1] / 255 * 100),
+      b = Math.round(rgba[2] / 255 * 100);
 
    return "rgb(" + r + "%, " + g + "%, " + b + "%)";
 }
 
 function percentaString(rgba, alpha) {
-   var r = Math.round(rgba[0]/255 * 100),
-       g = Math.round(rgba[1]/255 * 100),
-       b = Math.round(rgba[2]/255 * 100);
+   var r = Math.round(rgba[0] / 255 * 100),
+      g = Math.round(rgba[1] / 255 * 100),
+      b = Math.round(rgba[2] / 255 * 100);
    return "rgba(" + r + "%, " + g + "%, " + b + "%, " + (alpha || rgba[3] || 1) + ")";
 }
 
@@ -202,7 +202,7 @@ function hslaString(hsla, alpha) {
       alpha = (hsla[3] !== undefined ? hsla[3] : 1);
    }
    return "hsla(" + hsla[0] + ", " + hsla[1] + "%, " + hsla[2] + "%, "
-           + alpha + ")";
+      + alpha + ")";
 }
 
 // hwb is a bit different than rgb(a) & hsl(a) since there is no alpha specific syntax
@@ -212,11 +212,11 @@ function hwbString(hwb, alpha) {
       alpha = (hwb[3] !== undefined ? hwb[3] : 1);
    }
    return "hwb(" + hwb[0] + ", " + hwb[1] + "%, " + hwb[2] + "%"
-           + (alpha !== undefined && alpha !== 1 ? ", " + alpha : "") + ")";
+      + (alpha !== undefined && alpha !== 1 ? ", " + alpha : "") + ")";
 }
 
 function keyword(rgb) {
-  return reverseNames[rgb.slice(0, 3)];
+   return reverseNames[rgb.slice(0, 3)];
 }
 
 // helpers
@@ -225,8 +225,8 @@ function scale(num, min, max) {
 }
 
 function hexDouble(num) {
-  var str = num.toString(16).toUpperCase();
-  return (str.length < 2) ? "0" + str : str;
+   var str = num.toString(16).toUpperCase();
+   return (str.length < 2) ? "0" + str : str;
 }
 
 

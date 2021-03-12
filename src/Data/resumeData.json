@@ -40,7 +40,7 @@
         "description": "STEM-based magnet high school in Lincroft, New Jersey."
       }
     ],
-    "work": [      
+    "work": [
       {
         "company": "Brown University IT Service Center",
         "title": "Student Technician",
@@ -81,7 +81,7 @@
       },
       {
         "name": "C"
-      },    
+      },
       {
         "name": "HTML"
       },
@@ -96,7 +96,7 @@
       },
       {
         "name": "SQL"
-      },  
+      },
       {
         "name": "x86-64 Assembly"
       },
