@@ -20,6 +20,7 @@
        url('fonts/Candara/candara-webfont.woff2') format('woff2'), /* Super Modern Browsers */
        url('fonts/Candara/CANDARA.woff') format('woff'), /* Modern Browsers */
        url('fonts/Candara/CANDARA.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/Candara/CANDARA.svg') format('svg'); /* Legacy iOS */
 }
 
 body {
