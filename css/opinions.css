@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Garamond EB';
+  src: url('fonts/EB_Garamond/static/EBGaramond-Regular.ttf') format('truetype');
+}
+
 body {
   background-color: #e9ebec;
   font-family: "Candara"
@@ -10,18 +15,18 @@ ul.sec {
   font-family:"Courier New"
 }
 h2 {  
-  font-family: "Garamond";
+  font-family: "Garamond EB";
   border-bottom: maroon solid 2px;
   display: inline-block;
 }
 h3 {  
-  font-family: "Garamond";
-  font-size:larger;
+  font-family: "Garamond EB";
+  font-size:x-large;
   border-bottom: maroon solid 2px;
   width:20%;
   padding-top: 0;
   margin-top: 0px;
-  margin-left: 2em;
+  margin-left: 1em;
   margin-bottom: 0px;
 }
 a.album {
