@@ -1,27 +1,57 @@
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/eb-garamond-v15-latin/eb-garamond-v15-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/eb-garamond-v15-latin/eb-garamond-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/eb-garamond-v15-latin/eb-garamond-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/eb-garamond-v15-latin/eb-garamond-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/eb-garamond-v15-latin/eb-garamond-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/eb-garamond-v15-latin/eb-garamond-v15-latin-regular.svg') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Galdeano';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/galdeano-v10-latin/galdeano-v10-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/galdeano-v10-latin/galdeano-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/galdeano-v10-latin/galdeano-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/galdeano-v10-latin/galdeano-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/galdeano-v10-latin/galdeano-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/galdeano-v10-latin/galdeano-v10-latin-regular.svg') format('svg'); /* Legacy iOS */
+}
 body {
   background-color: #e9ebec;
-  font-family: "Candara"
+  font-family: "Galdeano"
 }
 ul.ba {
   list-style-type: none;
+}
+ul.ba li{
+  margin-top: 5px;
+  text-indent: -36px; 
+  padding-left: 36px; 
 }
 ul.sec {
   list-style-type: none;
   font-family:"Courier New"
 }
 h2 {  
-  font-family: "Garamond";
+  font-family: "EB Garamond";
   border-bottom: maroon solid 2px;
   display: inline-block;
 }
 h3 {  
-  font-family: "Garamond";
-  font-size:larger;
+  font-family: "EB Garamond";
+  font-size:x-large;
   border-bottom: maroon solid 2px;
   width:20%;
   padding-top: 0;
   margin-top: 0px;
-  margin-left: 2em;
+  margin-left: 1em;
   margin-bottom: 0px;
 }
 a.album {
