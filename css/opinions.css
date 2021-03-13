@@ -32,6 +32,8 @@ ul.ba {
 }
 ul.ba li{
   margin-top: 5px;
+  text-indent: -36px; 
+  padding-left: 36px; 
 }
 ul.sec {
   list-style-type: none;
