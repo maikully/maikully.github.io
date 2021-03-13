@@ -38,6 +38,8 @@ ul {
 ul li {
   list-style-type: disc;
   margin-top: 3px;
+  text-indent: -36px;
+  padding-left: 36px;
 }
 
 h2 {
