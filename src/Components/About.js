@@ -41,8 +41,6 @@ class About extends Component {
             <p>
             <a href="opinions.html">Some opinions I have about music</a>
             <br></br>
-            <br></br>
-            <a href="https://www.last.fm/user/maikully">Check out my  <img src={lastfm} width="47" alt="last.fm logo"/></a>
             </p>
             <div className="row">
               <div className="columns contact-details">

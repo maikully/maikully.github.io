@@ -78,3 +78,8 @@ h3 {
 a.album {
   color: black;
 }
+
+a.lastfm {
+  text-decoration: none;
+  color: black;
+}

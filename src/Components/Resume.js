@@ -8,7 +8,7 @@ class Resume extends Component {
           <div key={education.school}>
             <h3>{education.school}</h3>
             <p className="info">
-              {education.degree} <span>&bull;</span>
+              {education.degree} <span></span>
               <em className="date">{education.graduated}</em>
             </p>
             <p>{education.description}</p>
