@@ -51,6 +51,27 @@
       albumCount += document.getElementById("album1.5").getElementsByTagName("li").length
       albumCount += document.getElementById("album1").getElementsByTagName("li").length
       document.getElementById("albumCount").innerHTML = albumCount
+      let totalStars = 0
+      totalStars += document.getElementById("album10").getElementsByTagName("li").length * 10
+      totalStars += document.getElementById("album9.5").getElementsByTagName("li").length * 9.5
+      totalStars += document.getElementById("album9").getElementsByTagName("li").length * 9
+      totalStars += document.getElementById("album8.5").getElementsByTagName("li").length * 8.5
+      totalStars += document.getElementById("album8").getElementsByTagName("li").length * 8
+      totalStars += document.getElementById("album7.5").getElementsByTagName("li").length * 7.5
+      totalStars += document.getElementById("album7").getElementsByTagName("li").length * 7
+      totalStars += document.getElementById("album6.5").getElementsByTagName("li").length * 6.5
+      totalStars += document.getElementById("album6").getElementsByTagName("li").length * 6
+      totalStars += document.getElementById("album5.5").getElementsByTagName("li").length * 5.5
+      totalStars += document.getElementById("album5").getElementsByTagName("li").length * 5
+      totalStars += document.getElementById("album4.5").getElementsByTagName("li").length * 4.5
+      totalStars += document.getElementById("album4").getElementsByTagName("li").length * 4
+      totalStars += document.getElementById("album3.5").getElementsByTagName("li").length * 3.5
+      totalStars += document.getElementById("album3").getElementsByTagName("li").length * 3
+      totalStars += document.getElementById("album2.5").getElementsByTagName("li").length * 2.5
+      totalStars += document.getElementById("album2").getElementsByTagName("li").length * 2
+      totalStars += document.getElementById("album1.5").getElementsByTagName("li").length * 1.5
+      totalStars += document.getElementById("album1").getElementsByTagName("li").length
+      document.getElementById("avgScore").innerHTML = totalStars/albumCount
       var ctx = document.getElementById('myChart').getContext('2d');
       var myChart = new Chart(ctx, {
         type: 'bar',
@@ -596,6 +617,8 @@
   <div class="chart-container" style="position: relative; height:30vh; width:40vw">
     <canvas id="myChart"></canvas>
   </div>
+  
+  <p style="margin-top: 0;"><i>average score: <a id="avgScore"></a>.</i></p>
 
   <a id="classical-albums">
     <h2>Classical Albums</h2>
