@@ -71,7 +71,7 @@
       totalStars += document.getElementById("album2").getElementsByTagName("li").length * 2
       totalStars += document.getElementById("album1.5").getElementsByTagName("li").length * 1.5
       totalStars += document.getElementById("album1").getElementsByTagName("li").length
-      document.getElementById("avgScore").innerHTML = totalStars/albumCount
+      document.getElementById("avgScore").innerHTML = (totalStars/albumCount).toFixed(2)
       var ctx = document.getElementById('myChart').getContext('2d');
       var myChart = new Chart(ctx, {
         type: 'bar',
