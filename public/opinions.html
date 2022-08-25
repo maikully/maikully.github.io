@@ -51,6 +51,27 @@
       albumCount += document.getElementById("album1.5").getElementsByTagName("li").length
       albumCount += document.getElementById("album1").getElementsByTagName("li").length
       document.getElementById("albumCount").innerHTML = albumCount
+      let totalStars = 0
+      totalStars += document.getElementById("album10").getElementsByTagName("li").length * 10
+      totalStars += document.getElementById("album9.5").getElementsByTagName("li").length * 9.5
+      totalStars += document.getElementById("album9").getElementsByTagName("li").length * 9
+      totalStars += document.getElementById("album8.5").getElementsByTagName("li").length * 8.5
+      totalStars += document.getElementById("album8").getElementsByTagName("li").length * 8
+      totalStars += document.getElementById("album7.5").getElementsByTagName("li").length * 7.5
+      totalStars += document.getElementById("album7").getElementsByTagName("li").length * 7
+      totalStars += document.getElementById("album6.5").getElementsByTagName("li").length * 6.5
+      totalStars += document.getElementById("album6").getElementsByTagName("li").length * 6
+      totalStars += document.getElementById("album5.5").getElementsByTagName("li").length * 5.5
+      totalStars += document.getElementById("album5").getElementsByTagName("li").length * 5
+      totalStars += document.getElementById("album4.5").getElementsByTagName("li").length * 4.5
+      totalStars += document.getElementById("album4").getElementsByTagName("li").length * 4
+      totalStars += document.getElementById("album3.5").getElementsByTagName("li").length * 3.5
+      totalStars += document.getElementById("album3").getElementsByTagName("li").length * 3
+      totalStars += document.getElementById("album2.5").getElementsByTagName("li").length * 2.5
+      totalStars += document.getElementById("album2").getElementsByTagName("li").length * 2
+      totalStars += document.getElementById("album1.5").getElementsByTagName("li").length * 1.5
+      totalStars += document.getElementById("album1").getElementsByTagName("li").length
+      document.getElementById("avgScore").innerHTML = (totalStars/albumCount).toFixed(2)
       var ctx = document.getElementById('myChart').getContext('2d');
       var myChart = new Chart(ctx, {
         type: 'bar',
@@ -157,161 +178,225 @@
     <h3>10</h3>
     <ul id="album10" class="ba">
       <li><a class="album" href="albums/loveless.html"><b> Loveless</b> (1991) - My Bloody Valentine</a></li>
+      <li><b> Leaves Turn Inside You</b> (2001) - Unwound</li>
       <li><a class="album" href="albums/vu&n.html"><b> The Velvet Underground & Nico</b> (1967) - The Velvet
           Underground & Nico</a></li>
+      <li><b> Public Strain</b> (2010) - Women</li>
       <li><a class="album" href="albums/doors.html"><b> The Doors</b> (1967) - The Doors</a></li>
     </ul>
     <h3>9.5</h3>
     <ul id="album9.5" class="ba">
+      <li><b> Pink Moon</b> (1972) - Nick Drake</li>
+      <li><b> Scott 4</b> (1969) - Scott Walker</li>
       <li><b> Ys</b> (2006) - Joanna Newsom</li>
       <li><b> Have One On Me</b> (2010) - Joanna Newsom</li>
-      <li><b> Closer</b> (1980) - Joy Division</li>
-      <li><b> The Black Saint and the Sinner Lady</b> (1963) - Charles Mingus</li>
-      <li><b> In the Court of the Crimson King</b> (1969) - King Crimson</li>
     </ul>
 
     <h3>9</h3>
     <ul id="album9" class="ba">
       <li><b> Starsailor</b> (1970) - Tim Buckley</li>
+      <li><b> Parallelograms</b> (1970) - Linda Perhacs</li>
+      <li><b> Heaven or Las Vegas</b> (1990) - Cocteau Twins</li>
+      <li><b> Lance</b> (2018) - Niños del Cerro</li>
+      <li><b> The Black Saint and the Sinner Lady</b> (1963) - Charles Mingus</li>
+      <li><b> Five Leaves Left</b> (1969) - Nick Drake</li>
+      <li><b> Closer</b> (1980) - Joy Division</li>
       <li><b> Divers</b> (2015) - Joanna Newsom</li>
+      <li><b> Donuts</b> (2006) - J Dilla</li>
       <li><b> m b v</b> (2013) - My Bloody Valentine</li>
       <li><b> Laughing Stock</b> (1991) - Talk Talk</li>
       <li><b> Spirit of Eden</b> (1987) - Talk Talk</li>
+      <li><b> In a Silent Way</b> (1969) - Miles Davis</li>
       <li><b> Unknown Pleasures</b> (1979) - Joy Division</li>
       <li><a class="album" href="albums/lz4.html"><b> Led Zeppelin IV</b> (1971) - Led Zeppelin</a></li>
-      <li><b> OK Computer</b> (1997) - Radiohead</li>
-      <li><b> To Pimp a Butterfly</b> (2015) - Kendrick Lamar</li>
       <li><a class="album" href="albums/titanicrising.html"><b> Titanic Rising</b> (2019) - Weyes Blood </a></li>
       <li><b> You Won't Get What You Want</b> (2018) - Daughters</li>
       <li><b> Sung Tongs</b> (2004) - Animal Collective</li>
       <li><b> Ceres & Calypso in the Deep Time</b> (2013) - Candy Claws</li>
-      <li><b> 98.12.28 男達の別れ</b> (1998) - Fishmans</li>
+      <li><b> On the Corner</b> (1972) - Miles Davis</li>
       <li><b> Pet Sounds </b> (1966) - The Beach Boys</li>
       <li><a class="album" href="albums/revolver.html"><b> Revolver</b> (1966) - The Beatles</a></li>
       <li><b> In Rainbows</b> (2007) - Radiohead</li>
+      <li><b> Tilt</b> (1995) - Scott Walker</li>
   </ul>
 
   <h3>8.5</h3>
   <ul id="album8.5" class="ba">
     <li><b> Stratosphere</b> (1998) - Duster</li>
+    <li><b> Emergency & I</b> (1999) - The Dismemberment Plan</li>
+    <li><b> 98.12.28 男達の別れ</b> (1998) - Fishmans</li>
+    <li><b> '77 Live</b> (1977) - Les Rallizes Dénudés</li>
+    <li><b> We Are the Romans</b> (1999) - Botch</li>
+    <li><b> Jane Doe </b> (2001) - Converge</li>
+    <li><b> To Pimp a Butterfly</b> (2015) - Kendrick Lamar</li>
     <li><b> Happy Sad</b> (1969) - Tim Buckley</li>
-    <li><b> Cavalcade</b> (2021) - black midi</li>
-    <li><b> Heaven or Las Vegas</b> (1990) - Cocteau Twins</li>
+    <li><b> Get Up with It</b> (1974) - Miles Davis</li>
+    <li><b> Long Season</b> (1996) - Fishmans</li>
+    <li><b> Grace</b> (1993) - Jeff Buckley</li>
+    <li><b> Scott 3</b> (1969) - Scott Walker</li>
     <li><a class="album" href="albums/itaots.html"><b> In the Aeroplane Over the Sea</b> (1998) - Neutral Milk
         Hotel</a></li>
     <li><b> A Love Supreme</b> (1965) - John Coltrane</li>
     <li><b> Helplessness Blues</b> (2011) - Fleet Foxes</li>
     <li><b> World of Echo</b> (1986) - Arthur Russell</li>
     <li><b> Blue</b> (1971) - Joni Mitchell</li>
-    <li><b> Trout Mask Replica</b> (1969) - Captain Beefheart and his Magic Band</li>
     <li><b> Mingus Ah Um</b> (1959) - Charles Mingus</li>
+    <li><b> In the Court of the Crimson King</b> (1969) - King Crimson</li>
     <li><b> songs </b> (2020) - Adrianne Lenker</li>
     <li><b> Carrie & Lowell</b> (2015) - Sufjan Stevens</li>
-    <li><b> A Moon Shaped Pool</b> (2016) - Radiohead</li>
-    <li><b> Kind of Blue</b> (1959) - Miles Davis</li>
     <li><b> Giant Steps</b> (1960) - John Coltrane</li>
-    <li><b> The Money Store</b> (2012) - Death Grips</li>
     <li><b> Head Hunters</b> (1973) - Herbie Hancock</li>
     <li><b> Innervisions</b> (1973) - Stevie Wonder</li>
-    <li><b> Some Rap Songs</b> (2018) - Earl Sweatshirt</li>
+    <li><b> Dummy</b> (1994) - Portishead</li>
     <li><b> Clube da Esquina</b> (1972) - Lô Borges and Milton Nascimento</li>
+    <li><b> Once Twice Melody</b> (2022) - Beach House</li>
     <li><b> Strange Days</b> (1967) - The Doors</li>
-    <li><b> WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</b> (2019) - Billie Eilish</li>
     <li><b> Lift Your Skinny Fists Like Antennas to Heaven!</b> (2000) - Godspeed You! Black Emperor</li>
-    <li><b> My Beautiful Dark Twisted Fantasy</b> (2010) - Kanye West</li>
     <li><b> What's Going On</b> (1971) - Marvin Gaye</li>
     <li><b> The Shape of Jazz to Come </b> (1959) - Ornette Coleman</li>
     <li><b> White Light/White Heat</b> (1968) - The Velvet Underground</li>
-    <li><b> Mellon Collie and the Infinite Sadness</b> (1995) - The Smashing Pumpkins</li>
     <li><b> The Moon & Antarctica</b> (2000) - Modest Mouse</li>
+    <li><b> A Moon Shaped Pool</b> (2016) - Radiohead</li>
     <li><a class="album" href="albums/nfr.html"><b> Norman Fucking Rockwell!</b> (2019) - Lana Del Rey</a></li>
     <li><b> You Will Never Know Why</b> (2009) - Sweet Trip</li>
     <li><b> Blue Afternoon</b> (1969) - Tim Buckley</li>
-    <li><b> Exmilitary</b> (2011) - Death Grips</li>
     <li><b> The Smile Sessions </b> (2011) - The Beach Boys</li>
     <li><b> Another Green World</b> (1975) - Brian Eno</li>
     <li><b> Tubular Bells</b> (1973) - Mike Oldfield</li>
     <li><b> F♯ A♯ ∞</b> (1997) - Godspeed You! Black Emperor</li>
     <li><b> Abbey Road</b> (1969) - The Beatles</li>
+    <li><b> The Kick Inside</b> (1978) - Kate Bush</li>
     <li><b> Either/Or</b> (1997) - Elliot Smith</li>
-    <li><b> Astral Weeks</b> (1968) - Van Morrison</li>
+    <li><b> Lesser Matters</b> (2003) - The Radio Dept.</li>
+    <li><b> The Dreaming</b> (1982) - Kate Bush</li>
   </ul>
 
   <h3>8</h3>
   <ul id="album8" class="ba">
-    <li><b> Happier Than Ever</b> (2021) - Billie Eilish</li>
+    <li><b> Women</b> (2008) - Women</li>
+    <li><b> Astral Weeks</b> (1968) - Van Morrison</li>
+    <li><b> Made Available: John Peel Sessions</b> (1996) - This Heat</li>
+    <li><b> This Heat</b> (1979) - This Heat</li>
+    <li><b> A Tábua de Esmeralda</b> (1974) - Jorge Ben</li>
+    <li><b> Together</b> (2022) - Duster</li>
+    <li><b> The Money Store</b> (2012) - Death Grips</li>
+    <li><b> WhatFunLifeWas</b> (1994) - Bedhead</li>
+    <li><b> Boris at Last -Feedbacker-</b> (2003) - Boris</li>
+    <li><b> Electric Ladyland</b> (1968) - The Jimi Hendrix Experience</li>
+    <li><b> Safe As Milk</b> (1967) - Captain Beefheart and his Magic Band</li>
+    <li><b> OK Computer</b> (1997) - Radiohead</li>
+    <li><b> Crystallize</b> (2011) - Tokyo Shoegazer</li>
+    <li><b> Mellon Collie and the Infinite Sadness</b> (1995) - The Smashing Pumpkins</li>
+    <li><b> Some Rap Songs</b> (2018) - Earl Sweatshirt</li>
+    <li><b> 93 'Til Infinity</b> (1993) - Souls of Mischief</li>
+    <li><b> My Beautiful Dark Twisted Fantasy</b> (2010) - Kanye West</li>
+    <li><b> Dynamo</b> (1992) - Soda Stereo</li>
+    <li><b> Yellow Loveless</b> (2013) - Various artists</li>
     <li><a class="album" href="albums/futurenostalgia.html"><b> Future Nostalgia</b> (2020) - Dua Lipa</a></li>
-    <li><b> Minecraft - Volume Alpha</b> (2011) - C418</li>
+    <li><b> First Utterance</b> (1971) - Comus</li>
     <li><b> You Made Me Realise</b> (1988) - My Bloody Valentine</li>
+    <li><b> Hatful of Hollow</b> (1984) - The Smiths</li>
+    <li><b> Disintegration</b> (1989) - The Cure</li>
     <li><b> velocity : design : comfort.</b> (2003) - Sweet Trip</li>
-    <li><b> Lorca</b> (1970) - Tim Buckley</li>
+    <li><b> Blacklisted</b> (2002) - Neko Case</li>
+    <li><b> Dragon New Warm Mountain I Believe in You</b> (2022) - Big Thief</li>
     <li><b> Flower Boy</b> (2017) - Tyler, the Creator</li>
-    <li><b> Leaves Turn Inside You</b> (2001) - Unwound</li>
+    <li><b> Exmilitary</b> (2011) - Death Grips</li>
+    <li><b> Are You Experienced</b> (1967) - The Jimi Hendrix Experience</li>
+    <li><b> Jackson C. Frank</b> (1965) - Jackson C. Frank</li>
+    <li><b> Trout Mask Replica</b> (1969) - Captain Beefheart and his Magic Band</li>
     <li><b> Graceland</b> (1986) - Paul Simon</li>
+    <li><b> The Colour of Spring</b> (1986) - Talk Talk</li>
+    <li><b> Change</b> (2001) - The Dismemberment Plan</li>
     <li><b> The Milk-Eyed Mender</b> (2004) - Joanna Newsom</li>
     <li><b> Microphones in 2020</b> (2020) - The Microphones</li>
     <li><b> Ready to Die</b> (1994) - The Notorious B.I.G.</li>
     <li><b> Remain in Light</b> (1980) - Talking Heads</li>
     <li><b> Bridge Over Troubled Water</b> (1970) - Simon & Garfunkel</li>
-    <li><b> Twin Fantasy</b> (2018) - Car Seat Headrest</li>
     <li><b> good kid, m.A.A.d city</b> (2012) - Kendrick Lamar</li>
-    <li><b> Turn on the Bright Lights</b> (2002) - Interpol</li>
-    <li><b> A Tiny House, In Secret Speeches, Polar Equals</b> (2021) - Sweet Trip</li>
+    <li><b> The Drift</b> (2006) - Scott Walker</li>
     <li><b> The Colours of Chloë</b> (1974) - Eberhard Weber</li>
+    <li><b> WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?</b> (2019) - Billie Eilish</li>
     <li><b> Illmatic</b> (1994) - Nas</li>
-    <li><b> Yeezus</b> (2013) - Kanye West</li>
     <li><b> Feels </b> (2005) - Animal Collective</li>
     <li><b> 808s and Heartbreak</b> (2008) - Kanye West</li>
     <li><b> Acabou Chorare</b> (1972) - Novos Baianos</li>
+    <li><b> Deceit</b> (1981) - This Heat</li>
     <li><b> 1000 gecs</b> (2019) - 100 gecs</li>
     <li><b> Rock Bottom</b> (1974) - Robert Wyatt</li>
     <li><b> The Ascension</b> (1981) - Glenn Branca</li>
     <li><b> Currents</b> (2015) - Tame Impala</li>
     <li><b> Rage Against the Machine</b> (1992) - Rage Against the Machine</li>
-    <li><b> The Queen is Dead</b> (1986) - The Smiths</li>
     <li><b> アダンの風 (Windswept Adan)</b> (2020) - Ichiko Aoba</li>
     <li><b> Rubber Soul</b> (1965) - The Beatles</li>
     <li><b> Music Has the Right to Children </b> (1998) - Boards of Canada</li>
     <li><b> The Lonesome Crowded West</b> (1997) - Modest Mouse</li>
     <li><b> Fleet Foxes</b> (2008) - Fleet Foxes</li>
-    <li><b> Long Season</b> (1996) - Fishmans</li>
+    <li><b> Marquee Moon</b> (1977) - Television</li>
+    <li><b> Sextant</b> (1973) - Herbie Hancock</li>
     <li><b> Songs of Leonard Cohen </b> (1967) - Leonard Cohen</li>
     <li><b> Let it Be</b> (1970) - The Beatles</li>
-    <li><b> RTJ4</b> (2020) - Run the Jewels</li>
-    <li><b> how i'm feeling now</b> (2020) - Charli XCX</li>
     <li><b> Have You In My Wilderness</b> (2015) - Julia Holter</li>
     <li><a class="album" href="albums/mpp.html"><b> Merriweather Post Pavilion</b> (2009) - Animal Collective</a>
     </li>
-    <li><b> The Bed Is In The Ocean</b> (1998) - Karate</li>
     <li><b> Igor</b> (2019) - Tyler, the Creator</li>
     <li><b> Smiley Smile </b> (1967) - The Beach Boys</li>
-    <li><b> I, Jonathan</b> (1992) - Jonathan Richman</li>
     <li><b> Sgt. Pepper's Lonely Hearts Club Band</b> (1967) - The Beatles</li>
-    <li><b> Kakashi</b> (1982) - Yasuaki Shimizu</li>
+    <li><b> Blonde on Blonde</b> (1966) - Bob Dylan</li>
     <li><b> Two Airships/Exploder Falls</b> (2012) - Candy Claws</li>
-    <li><b> Lesser Matters</b> (2003) - The Radio Dept.</li>
+    <li><b> Down Colorful Hill</b> (1992) - Red House Painters</li>
     <li><b> Spiderland</b> (1991) - Slint</li>
     <li><b> Magdalene</b> (2019) - FKA Twigs</li>
-    <li><b> Siamese Dream</b> (1993) - The Smashing Pumpkins</li>
+    <li><b> Hounds of Love</b> (1985) - Kate Bush</li>
+    <li><b> 7</b> (2018) - Beach House</li>
+    <li><b> Mercurial World</b> (2021) - Magdalena Bay</li>
+    <li><b> Tender Buttons</b> (2005) - Broadcast</li>
+    <li><b> Pulling Our Weight</b> (2003) - The Radio Dept.</li>
+    <li><b> 무너지기 (Crumbling)</b> (2018) - 空中泥棒 (Mid-Air Thief)</li>
+    <li><b> Hejira</b> (1976) - Joni Mitchell</li>
   </ul>
 
   <h3>7.5</h3>
   <ul id="album7.5" class="ba">
+    <li><b> Kind of Blue</b> (1959) - Miles Davis</li>
     <li><b> After the Gold Rush</b> (1970) - Neil Young</li>
-    <li><b> Emergency & I</b> (1999) - Dismemberment Plan</li>
+    <li><b> Out of Season</b> (2002) - Beth Gibbons & Rustin Man</li>
+    <li><b> Repetition</b> (1996) - Unwound</li>
+    <li><b> Sonatine</b> (2015) - Telstar Drugs</li>
+    <li><b> The Double EP: A Sea of Split Peas</b> (2013) - Courtney Barnett</li>
+    <li><b> how i'm feeling now</b> (2020) - Charli XCX</li>
+    <li><b> Mm.. Food</b> (2004) - MF DOOM</li>
+    <li><b> Happier Than Ever</b> (2021) - Billie Eilish</li>
+    <li><b> Sometimes I Sit and Think, and Sometimes I Just Sit</b> (2015) - Courtney Barnett</li>
+    <li><b> Kakashi</b> (1982) - Yasuaki Shimizu</li>
+    <li><b> A Tiny House, In Secret Speeches, Polar Equals</b> (2021) - Sweet Trip</li>
+    <li><b> Souvlaki</b> (1993) - Slowdive</li>
+    <li><b> Viet Cong</b> (2015) - Preoccupations</li>
+    <li><b> qp</b> (2018) - Ichiko Aoba</li>
+    <li><b> Just For A Day</b> (1991) - Slowdive</li>
+    <li><b> The Queen is Dead</b> (1986) - The Smiths</li>
+    <li><b> Here Come the Warm Jets</b> (1974) - Brian Eno</li>
+    <li><b> Axis: Bold As Love</b> (1967) - The Jimi Hendrix Experience</li>
+    <li><b> Minecraft - Volume Alpha</b> (2011) - C418</li>
+    <li><b> Wicked City</b> (2020) - Jockstrap</li>
+    <li><b> Sometimes I Might Be Introvert</b> (2021) - Little Simz</li>
+    <li><b> Siamese Dream</b> (1993) - The Smashing Pumpkins</li>
+    <li><b> Homogenic</b> (1997) - 	Björk</li>
     <li><b> Songs in the Key of Life</b> (1976) - Stevie Wonder</li>
-    <li><b> Die Lit</b> (2018) - Playboi Carti</li>
-    <li><b> Getz/Gilberto</b> (1964) - Stan Getz, João Gilberto</li>
+    <li><b> The Life of Pablo</b> (2016) - Kanye West</li>
+    <li><b> Hosianna Mantra</b> (1972) - Popol Vuh</li>
+    <li><b> L'Amour</b> (1983) - Lewis</li>
+    <li><b> Colour Green</b> (2006) - Sibylle Baier</li>
+    <li><b> Whole Lotta Red</b> (2020) - Playboi Carti</li>
     <li><b> Transformer</b> (1972) - Lou Reed</li>
     <li><b> Crooked Rain, Crooked Rain</b> (1994) - Pavement</li>
+    <li><b> I, Jonathan</b> (1992) - Jonathan Richman</li>
     <li><b> The Modern Lovers</b> (1976) - The Modern Lovers</li>
     <li><b> Straight Outta Compton</b> (1988) - N.W.A</li>
-    <li><b> Aja</b> (1977) - Steely Dan</li>
     <li><b> Illinois</b> (2005) - Sufjan Stevens</li>
     <li><b> Doolittle</b> (1988) - Pixies</li>
     <li><b> The Madcap Laughs</b> (1970) - Syd Barrett</li>
     <li><b> Barrett</b> (1970) - Syd Barrett</li>
-    <li><b> Low</b> (1977) - David Bowie</li>
     <li><b> dont smile at me </b> (2017) - Billie Eilish</li>
     <li><b> Third</b> (1969) - Soft Machine</li>
     <li><b> Strawberry Jam </b> (2007) - Animal Collective</li>
@@ -321,186 +406,330 @@
     <li><b> Sunflower </b> (1970) - The Beach Boys</li>
     <li><b> Late Registration</b> (2005) - Kanye West</li>
     <li><b> Punisher</b> (2020) - Phoebe Bridgers</li>
-    <li><b> Station to Station</b> (1976) - David Bowie</li>
     <li><b> Lianne La Havas</b> (2020) - Lianne La Havas</li>
-    <li><b> 1989</b> (2014) - Taylor Swift</li>
-    <li><b> Disintegration</b> (1989) - The Cure</li>
     <li><b> Odessey and Oracle</b> (1968) - The Zombies</li>
-    <li><b> The Wall</b> (1979) - Pink Floyd</li>
+    <li><b> Wish You Were Here</b> (1975) - Pink Floyd</li>
     <li><b> Kids See Ghosts</b> (2018) - Kids See Ghosts</li>
     <li><b> Fearless</b> (2008) - Taylor Swift</li>
     <li><b> Kid A</b> (2001) - Radiohead</li>
     <li><b> White Album</b> (1968) - The Beatles</li>
     <li><b> The College Dropout</b> (2004) - Kanye West</li>
     <li><b> Enter the Wu-Tang (36 Chambers)</b> (1993) - Wu-Tang Clan</li>
-    <li><b> Is This It</b> (2001) - The Strokes</li>
-    <li><b> American Idiot</b> (2004) - Green Day</li>
     <li><b> Funeral</b> (2004) - Arcade Fire</li>
-    <li><b> Ride the Lightning</b> (1984) - Metallica</li>
+    <li><b> Blackstar</b> (2016) - David Bowie</li>
     <li><b> Fear of Music</b> (1979) - Talking Heads</li>
     <li><b> Magical Mystery Tour</b> (1967) - The Beatles</li>
-    <li><b> Pink Moon</b> (1972) - Nick Drake</li>
+    <li><b> Bryter Layter</b> (1970) - Nick Drake</li>
     <li><b> Daydream Nation</b> (1988) - Sonic Youth</li>
-    <li><b> Skylarking</b> (1985) - XTC</li>
     <li><b> I Sing the Body Electric</b> (1972) - Weather Report</li>
-    <li><b> Flying Microtonal Banana</b> (2017) - King Gizzard & The Lizard Wizard</li>
     <li><b> I Talk with the Spirits</b> (1965) - Rahsaan Roland Kirk</li>
-    <li><b> Who's next</b> (1971) - The Who</li>
+    <li><b> Desertshore</b> (1970) - Nico</li>
     <li><b> The Outside Room</b> (2011) - Weyes Blood</li>
+    <li><b> I Could Live in Hope</b> (1994) - Low</li>
+    <li><b> Sister</b> (1987) - Sonic Youth</li>
     <li><b> Duster</b> (2019) - Duster</li>
+    <li><b> Climate of Hunter</b> (1969) - Scott Walker</li>
+    <li><b> The Bed Is In The Ocean</b> (1998) - Karate</li>
+    <li><b> Swordfishtrombones</b> (1983) - Tom Waits</li>
+    <li><b> Horizon</b> (1980) - McCoy Tyner</li>
+    <li><b> Songs About My Cats</b> (2001) - Venetian Snares</li>
+    <li><b> Is This It</b> (2001) - The Strokes</li>
     <li><b> SINNER GET READY</b> (2021) - Lingua Ignota</li>
     <li><b> Faust</b> (1971) - Faust</li>
-    <li><b> The Modern Dance</b> (1975) - Pere Ubu</li>
-    <li><b> For the first time</b> (2021) - Black Country, New Road</li>
+    <li><b> Future Days</b> (1973) - Can</li>
+    <li><b> Repeater</b> (1990) - Fugazi</li>
+    <li><b> It's a Wonderful Life</b> (2001) - Sparklehorse</li>
+    <li><b> Bitches Brew</b> (1970) - Miles Davis</li>
     <li><b> The Glow Pt. 2</b> (2001) - The Microphones</li>
-    <li><b> CALL ME IF YOU GET LOST </b> (2021) - Tyler, the Creator</li>
+    <li><b> Lorca</b> (1970) - Tim Buckley</li>
+    <li><b> Rain Dogs</b> (1985) - Tom Waits</li>
+    <li><b> Double Negative</b> (2018) - Low</li>
+    <li><b> Blues & Roots</b> (1960) - Charles Mingus</li>
+    <li><b> Flood</b> (2000) - Boris</li>
+    <li><b> Suicide</b> (1977) - Suicide</li>
+    <li><b> Frigid Stars LP</b> (1990) - Codeine</li>
+    <li><b> Music for Church Cleaners Vol. I and II</b> (2015) - Áine O'Dwyer</li>
   </ul>
 
   <h3>7</h3>
   <ul id="album7" class="ba">
+    <li><b> Timeless</b> (1975) - John Abercrombie</li>
+    <li><b> El jardín de los presentes</b> (1976) - Invisible</li>
+    <li><b> Turn On the Bright Lights</b> (2002) - Interpol</li>
+    <li><b> Pompeii </b> (2022) - Cate Le Bon</li>
+    <li><b> Black Unity</b> (1972) - Pharoah Sanders</li>
+    <li><b> LP!</b> (2021) - JPEGMAFIA</li>
+    <li><b> Bloom</b> (2012) - Beach House</li>
+    <li><b> Cavalcade</b> (2021) - black midi</li>
+    <li><b> Things We Lost in the Fire</b> (2001) - Low</li>
+    <li><b> Soundtracks for the Blind</b> (1996) - Swans</li>
+    <li><b> Solid Air</b> (1973) - John Martyn</li>
+    <li><b> WhatFunLifeWas </b> (1993) - Bedhead</li>
+    <li><b> Return </b> (2022) - deathcrash</li>
+    <li><b> Scott</b> (1967) - Scott Walker</li>
+    <li><b> Donda</b> (2021) - Kanye West</li>
+    <li><b> Twin Fantasy</b> (2018) - Car Seat Headrest</li>
+    <li><b> Real Life</b> (1978) - Magazine</li>
+    <li><b> Low</b> (1977) - David Bowie</li>
+    <li><b> I Could Live in Hope</b> (1994) - Low</li>
+    <li><b> Mother Earth's Plantasia</b> (1976) - Mort Garson</li>
+    <li><b> You Forgot It in People</b> (2002) - Broken Social Scene</li>
+    <li><b> So Tonight That I Might See</b> (1993) - Mazzy Star</li>
+    <li><b> The Mollusk</b> (1997) - Ween</li>
+    <li><b> RTJ4</b> (2020) - Run the Jewels</li>
+    <li><b> Skylarking</b> (1985) - XTC</li>
+    <li><b> Sound of Silver</b> (2007) - LCD Soundsystem</li>
+    <li><b> 1990</b> (1990) - Daniel Johnston</li>
+    <li><b> Minas </b> (1975) - Milton Nascimento</li>
+    <li><b> Meddle</b> (1971) - Pink Floyd</li>
+    <li><b> Getz/Gilberto</b> (1964) - Stan Getz, João Gilberto</li>
+    <li><b> Station to Station</b> (1976) - David Bowie</li>
+    <li><b> Die Mensch-Maschine</b> (1978) - Kraftwerk</li>
+    <li><b> Vespertine</b> (2001) - 	Björk</li>
+    <li><b> Music From Patch Cord Productions</b> (2020) - Mort Garson</li>
+    <li><b> On the Beach</b> (1974) - Neil Young</li>
+    <li><b> For the first time</b> (2021) - Black Country, New Road</li>
+    <li><b> Bury Me at Makeout Creek</b> (2014) - Mitski</li>
+    <li><b> Deathconsciousness</b> (2008) - Have a Nice Life</li>
+    <li><b> To Be Kind</b> (2014) - Swans</li>
+    <li><b> CALL ME IF YOU GET LOST </b> (2021) - Tyler, the Creator</li>
+    <li><b> Zen Arcade</b> (1984) - Hüsker Dü</li>
+    <li><b> Hope</b> (1994) - Hugh Masekela</li>
+    <li><b> Aja</b> (1977) - Steely Dan</li>
+    <li><b> Flying Microtonal Banana</b> (2017) - King Gizzard & The Lizard Wizard</li>
+    <li><b> Yeezus</b> (2013) - Kanye West</li>
+    <li><b> Bringing It All Back Home</b> (1965) - Bob Dylan</li>
+    <li><b> Lanquidity</b> (1978) - Sun Ra</li>
+    <li><b> 1989</b> (2014) - Taylor Swift</li>
     <li><b> All Mirrors</b> (2019) - Angel Olsen</li>
+    <li><b> Pornography</b> (1982) - The Cure</li>
+    <li><b> Clinging to a Scheme</b> (2010) - The Radio Dept.</li>
+    <li><b> Lahko sem glinena mesojedka (I Can Be a Clay Snapper)</b> (2017) - Širom</li>
+    <li><b> American Idiot</b> (2004) - Green Day</li>
     <li><b> Richard D. James Album</b> (1996) - Aphex Twin</li>
+    <li><b> The Modern Dance</b> (1975) - Pere Ubu</li>
+    <li><b> Die Lit</b> (2018) - Playboi Carti</li>
     <li><b> Paris 1919</b> (1973) - John Cale</li>
+    <li><b> Things Take Time, Take Time</b> (2021) - Courtney Barnett</li>
     <li><b> Since I Left You</b> (2000) - The Avalanches</li>
+    <li><b> Liberation Music Orchestra</b> (1970) - Charlie Haden</li>
     <li><b> Antics</b> (2004) - Interpol</li>
     <li><b> Face Stabber</b> (2019) - Thee Oh Sees</li>
+    <li><b> The Wall</b> (1979) - Pink Floyd</li>
+    <li><b> Parabelo</b> (1997) - Tom Zé, José Miguel Wisnik</li>
     <li><b> Ege Bamyasi </b> (1972) - Can</li>
+    <li><b> Chelsea Girl</b> (1967) - Nico</li>
+    <li><b> Songs From the Big Chair</b> (1985) - Tears for Fears</li>
+    <li><b> Tago Mago</b> (1971) - Can</li>
+    <li><b> Ride the Lightning</b> (1984) - Metallica</li>
     <li><b> Caligula</b> (2019) - Lingua Ignota</li>
     <li><b> In the Flat Field</b> (1980) - Bauhaus</li>
     <li><b> Help!</b> (1965) - The Beatles</li>
-    <li><b> Grace</b> (1993) - Jeff Buckley</li>
     <li><b> Space Is the Place</b> (1973) - Sun Ra</li>
+    <li><b> Return</b> (2022) - Low</li>
     <li><b> Teens of Denial</b> (2016) - Car Seat Headrest</li>
+    <li><b> caroline</b> (2022) - caroline</li>
     <li><b> The New Abnormal </b> (2020) - The Strokes</li>
     <li><b> U.F.O.F</b> (2019) - Big Thief</li>
-    <li><b> The Miseducation of Lauryn Hill</b> (1998) - Lauryn Hill</li>
     <li><b> Paranoid</b> (1970) - Black Sabbath</li>
     <li><b> Lonerism</b> (2012) - Tame Impala</li>
     <li><b> The Dark Side of the Moon</b> (1973) - Pink Floyd</li>
     <li><b> Graduation</b> (2007) - Kanye West</li>
     <li><b> Lover</b> (2019) - Taylor Swift</li>
     <li><b> Oracular Spectacular</b> (2007) - MGMT</li>
-    <li><b> DAMN.</b> (2017) - Kendrick Lamar</li>
     <li><b> "Heroes"</b> (1977) - David Bowie</li>
-    <li><b> Wish You Were Here</b> (1975) - Pink Floyd</li>
-    <li><b> The Life of Pablo</b> (2016) - Kanye West</li>
     <li><b> Close to the Edge</b> (1972) - Yes</li>
+    <li><b> Ágætis byrjun</b> (1999) - Sigur Rós</li>
     <li><b> Power Corruption and Lies</b> (1983) - New Order</li>
     <li><b> Jesus is Born</b> (2019) - Sunday Service Choir</li>
-    <li><b> A Crow Looked at Me</b> (2017) - Mount Eerie</li>
-    <li><b> Nonagon Infinity</b> (2016) - King Gizzard & The Lizard Wizard</li>
     <li><b> Goodbye and Hello</b> (1967) - Tim Buckley</li>
     <li><b> The Stranger</b> (1977) - Billy Joel</li>
+    <li><b> The Hurting</b> (1983) - Tears for Fears</li>
     <li><b> James Blake</b> (2011) - James Blake</li>
     <li><b> Folklore</b> (2020) - Taylor Swift</li>
-    <li><b> I'm Wide Awake, It's Morning</b> (2005) - Bright Eyes</li>
     <li><b> Surf's Up </b> (1971) - The Beach Boys</li>
-    <li><b> Blackstar</b> (2016) - David Bowie</li>
-    <li><b> An Awesome Wave </b> (2012) - alt-J</li>
-    <li><b> Band on the Run </b> (1973) - Paul McCartney and Wings</li>
     <li><b> Good News for People Who Love Bad News</b> (2004) - Modest Mouse</li>
     <li><b> Good</b> (1992) - Morphine</li>
+    <li><b> Samba esquema novo</b> (1963) - Jorge Ben</li>
+    <li><b> 0</b> (2013) - Ichiko Aoba</li>
     <li><b> Mezzanine</b> (1998) - Massive Attack</li>
-    <li><b> food house</b> (2020) - food house</li>
     <li><b> The Bends </b> (1995) - Radiohead</li>
     <li><b> Isn't Anything</b> (1988) - My Bloody Valentine</li>
-    <li><b> Circles </b> (2020) - Mac Miller</li>
-    <li><b> Hounds of Love</b> (1985) - Kate Bush</li>
-    <li><b> Tender Buttons</b> (2005) - Broadcast</li>
     <li><b> Let Love In</b> (1994) - Nick Cave & The Bad Seeds</li>
   </ul>
 
   <h3>6.5</h3>
   <ul id="album6.5" class="ba">
+    <li><b> Blue Lines</b> (1991) - Massive Attack</li>
+    <li><b> DAMN.</b> (2017) - Kendrick Lamar</li>
+    <li><b> Harvest</b> (1972) - Neil Young</li>
+    <li><b> Teen Dream</b> (2010) - Beach House</li>
+    <li><b> No NOW</b> (2015) - Clarence Clarity</li>
+    <li><b> Bocanada</b> (1999) - Gustavo Cerati</li>
+    <li><b> Never for Ever </b> (1980) - Kate Bush</li>
+    <li><b> ...In "Jane From Occupied Europe"</b> (1980) - Swell Maps</li>
+    <li><b> Entertainment!</b> (1979) - Gang of Four</li>
+    <li><b> Hi, How Are You</b> (1983) - Daniel Johnston</li>
+    <li><b> By the Time I Get to Phoenix</b> (2021) - Injury Reserve</li>
+    <li><b> Bachelor No. 2 (Or, the Last Remains of the Dodo)</b> (2000) - Aimee Mann</li>
+    <li><b> melanchole</b> (2013) - salvia palth</li>
+    <li><b> Arbour Zena</b> (1976) - Keith Jarret</li>
+    <li><b> Dragging a Dead Deer Up a Hill</b> (2008) - Grouper</li>
+    <li><b> 空中キャンプ (Kūchū Camp)</b> (1996) - Fishmans</li>
+    <li><b> Everything That Happens Will Happen Today </b> (2008) - David Byrne & Brian Eno</li>
+    <li><b> Band on the Run </b> (1973) - Paul McCartney and Wings</li>
+    <li><b> A Crow Looked at Me</b> (2017) - Mount Eerie</li>
+    <li><b> Nonagon Infinity</b> (2016) - King Gizzard & The Lizard Wizard</li>
+    <li><b> Lateralus</b> (2001) - Tool</li>
+    <li><b> Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed!</b> (2016) - Various Artists</li>
+    <li><b> Sketches of Spain</b> (1960) - Miles Davis</li>
     <li><b> Pastel Blues</b> (1965) - Nina Simone</li>
+    <li><b> Untrue</b> (2007) - Burial</li>
+    <li><b> The Miseducation of Lauryn Hill</b> (1998) - Lauryn Hill</li>
     <li><b> The United States of America</b> (1968) - The United States of America</li>
     <li><b> The Turning Wheel</b> (2021) - Spellling</li>
-    <li><b> Donuts</b> (2006) - J Dilla</li>
-    <li><b> Songs About Fucking</b> (1987) - Big Black</li>
+    <li><b> Who's next</b> (1971) - The Who</li>
+    <li><b> I'm Wide Awake, It's Morning</b> (2005) - Bright Eyes</li>
+    <li><b> Pink</b> (2006) - Boris</li>
+    <li><b> Halcyon Digest</b> (2010) - Deerhunter</li>
     <li><b> Meet The Residents</b> (1973) - The Residents</li>
     <li><b> Time Out</b> (1959) - Dave Brubeck</li>
     <li><b> Loud City Song</b> (2013) - Julia Holter</li>
     <li><b> L.A. Woman</b> (1971) - The Doors</li>
     <li><b> Meet The Beatles!</b> (1964) - The Beatles</li>
+    <li><b> food house</b> (2020) - food house</li>
     <li><b> Tim Buckley</b> (1966) - Tim Buckley</li>
     <li><b> The Chronic</b> (1992) - Dr. Dre</li>
+    <li><b> HEY WHAT</b> (2021) - Low</li>
     <li><b> Jubilee</b> (2021) - Japanese Breakfast</li>
     <li><b> Court and Spark</b> (1974) - Joni Mitchell</li>
     <li><b> Come In</b> (2019) - Weatherday</li>
+    <li><b> An Awesome Wave </b> (2012) - alt-J</li>
     <li><b> Waiting for the Sun</b> (1968) - The Doors</li>
     <li><b> The Rise and Fall of Ziggy Stardust and the Spiders from Mars</b> (1972) - David Bowie</li>
     <li><b> Feed Me With Your Kiss</b> (1988) - My Bloody Valentine</li>
     <li><b> Atrocity Exhibition</b> (2016) - Danny Brown</li>
-    <li><b> Demon Days</b> (2005) - Gorillaz</li>
+    <li><b> Greetings From L.A.</b> (1972) - Tim Buckley</li>
     <li><b> Tracy Chapman </b> (1988) - Tracy Chapman</li>
     <li><b> All Things Must Pass</b> (1970) - George Harrison</li>
     <li><b> Jesus is King</b> (2019) - Kanye West</li>
-    <li><b> The Slow Rush</b> (2020) - Tame Impala</li>
-    <li><b> To See the Next Part of the Dream</b> (2021) - Parannoul</li>
+    <li><b> London Calling</b> (1979) - The Clash</li>
+    <li><b> Bright Size Life</b> (1976) - Pat Metheny</li>
     <li><b> Making a Door Less Open</b> (2020) - Car Seat Headrest</li>
-    <li><b> Manic</b> (2020) - Halsey</li>
     <li><b> Black Messiah</b> (2014) - D'Angelo and the Vanguard</li>
-    <li><b> The Age of Adz</b> (2010) - Sufjan Stevens</li>
     <li><b> Metallica</b> (1991) - Metallica</li>
     <li><b> Amnesiac </b> (2001) - Radiohead</li>
     <li><b> What's Your Pleasure?</b> (2020) - Jessie Ware</li>
     <li><b> Ram </b> (1971) - Paul McCartney</li>
+    <li><b> Arbour Zena</b> (1976) - Keith Jarrett</li>
     <li><b> Dua Lipa </b> (2017) - Dua Lipa</li>
-    <li><b> Damaged</b> (1981) - Black Flag</li>
-    <li><b> Hunky Dory</b> (1971) - David Bowie</li>
     <li><b> American Beauty / American Psycho</b> (2015) - Fall Out Boy</li>
     <li><b> Yankee Hotel Foxtrot</b> (2002) - Wilco</li>
     <li><b> My Everything</b> (2014) - Ariana Grande</li>
     <li><b> Nothing Was the Same</b> (2013) - Drake</li>
-    <li><b> Dedicated Side B </b> (2020) - Carly Rae Jepsen</li>
-    <li><b> Froot</b> (2015) - Marina and the Diamonds</li>
-    <li><b> Yoshimi Battles the Pink Robots</b> (2002) - The Flaming Lips</li>
     <li><b> The Three E.P.'s </b> (1998) - The Beta Band</li>
-    <li><b> Ladies and Gentlemen We Are Floating in Space </b> (1997) - Spiritualized</li>
-    <li><b> Souvlaki</b> (1993) - Slowdive</li>
     <li><b> Blonde</b> (2016) - Frank Ocean</li>
+    <li><b> Gallarais</b> (2017) - Áine O'Dwyer</li>
     <li><b> Shore</b> (2020) - Fleet Foxes</li>
+    <li><b> Funhouse</b> (1970) - The Stooges</li>
     <li><b> The Fame</b> (2008) - Lady Gaga</li>
+    <li><b> WORRY.</b> (2016) - Jeff Rosenstock</li>
     <li><b> Doggystyle</b> (1993) - Snoop Dogg</li>
   </ul>
 
   <h3>6</h3>
   <ul id="album6" class="ba">
+    <li><b> Songs of Love and Hate </b> (1971) - Leonard Cohen</li>
+    <li><b> Nepenthe</b> (2013) - Julianna Barwick</li>
     <li><b> SOUR</b> (2021) - Olivia Rodrigo</li>
+    <li><b> Moving Pictures</b> (1981) - Rush</li>
+    <li><b> The Curtain Hits the Cast</b> (1996) - Low</li>
+    <li><b> Contemporary Movement</b> (2019) - Duster</li>
+    <li><b> Forever Changes</b> (1967) - Love</li>
+    <li><b> Ten</b> (1991) - Pearl Jam</li>
+    <li><b> Treasure</b> (1984) - Cocteau Twins</li>
+    <li><b> The Velvet Underground</b> (1969) - The Velvet Underground</li>
+    <li><b> I Took Up The Runes</b> (1990) - Jan Garbarek</li>
+    <li><b> Ants From Up There</b> (2022) - Black Country, New Road</li>
+    <li><b> Atomizer</b> (1985) - Big Black</li>
+    <li><b> Closing Time</b> (1973) - Tom Waits</li>
+    <li><b> Departures</b> (2009) - Message to Bears</li>
+    <li><b> Automatic for the People</b> (1992) - R.E.M.</li>
+    <li><b> Tea for the Tillerman</b> (1970) - Cat Stevens</li>
+    <li><b> Teaser and the Firecat</b> (1971) - Cat Stevens</li>
+    <li><b> Damaged</b> (1981) - Black Flag</li>
+    <li><b> The Age of Adz</b> (2010) - Sufjan Stevens</li>
+    <li><b> Rossz csillag alatt született</b> (2005) - Venetian Snares</li>
+    <li><b> Focal Point</b> (1976) - McCoy Tyner</li>
+    <li><b> The Slow Rush</b> (2020) - Tame Impala</li>
+    <li><b> Nevermind</b> (1991) - Nirvana</li>
+    <li><b> To See the Next Part of the Dream</b> (2021) - Parannoul</li>
+    <li><b> Circles </b> (2020) - Mac Miller</li>
+    <li><b> Songs for the Deaf</b> (2002) - Queens of the Stone Age</li>
+    <li><b> Ladies and Gentlemen We Are Floating in Space </b> (1997) - Spiritualized</li>
+    <li><b> Demon Days</b> (2005) - Gorillaz</li>
+    <li><b> Bright Green Field</b> (2021) - Squid</li>
+    <li><b> Moondance</b> (1970) - Van Morrison</li>
+    <li><b> GLOW ON</b> (2021) - Turnstile</li>
+    <li><b> Diary</b> (1994) - Sunny Day Real Estate</li>
+    <li><b> Hospice</b> (2009) - The Antlers</li>
+    <li><b> Sunbather</b> (2013) - Deafheaven</li>
+    <li><b> If You're Into It, I'm Out of It</b> (1997) - Christoph de Babalon</li>
+    <li><b> Songs About Fucking</b> (1987) - Big Black</li>
+    <li><b> Black Metal</b> (2014) - Dean Blunt</li>
+    <li><b> Super Ape</b> (1976) - The Upsetters</li>
+    <li><b> An Evening With Silk Sonic</b> (2021) - Silk Sonic</li>
+    <li><b> Yoshimi Battles the Pink Robots</b> (2002) - The Flaming Lips</li>
+    <li><b> Puberty 2</b> (2016) - Mitski</li>
+    <li><b> Hunky Dory</b> (1971) - David Bowie</li>
     <li><b> Spirit They're Gone, Spirit They've Vanished</b> (2000) - Animal Collective</li>
     <li><b> Man on the Moon: The End of Day</b> (2009) - Kid Cudi</li>
+    <li><b> Gorillaz</b> (2001) - Gorillaz</li>
     <li><b> Sports </b> (1983) - Huey Lewis and the News</li>
-    <li><b> Violator </b> (1990) - Depeche Mode</li>
-    <li><b> With The Beatles</b> (1963) - The Beatles</li>
+    <li><b> Larks' Tongues in Aspic </b> (1973) - King Crimson</li>
+    <li><b> Lush</b> (2012) - Mitski</li>
+    <li><b> Silent Alarm</b> (2005) - Bloc Party</li>
+    <li><b> Thriller</b> (1982) - Michael Jackson</li>
+    <li><b> Dedicated Side B </b> (2020) - Carly Rae Jepsen</li>
     <li><b> Cure For Pain</b> (1992) - Morphine</li>
     <li><b> Rumours</b> (1977) - Fleetwood Mac</li>
-    <li><b> After Hours</b> (2020) - The Weeknd</li>
     <li><b> Torches</b> (2011) - Foster the People</li>
     <li><b> Wolf </b> (2013) - Tyler, the Creator</li>
+    <li><b> A Hard Day's Night</b> (1964) - The Beatles</li>
     <li><b> OIL OF EVERY PEARL'S UN-INSIDES </b> (2018) - SOPHIE</li>
-    <li><b> Solar Power</b> (2021) - Lorde</li>
     <li><b> thank u, next</b> (2020) - Ariana Grande</li>
     <li><b> Replica</b> (2011) - Oneohtrix Point Never</li>
     <li><b> Not Available</b> (1977) - The Residents</li>
     <li><b> Positions</b> (2020) - Ariana Grande</li>
     <li><b> Imagine </b> (1971) - John Lennon</li>
     <li><b> The Suburbs</b> (2010) - Arcade Fire</li>
+    <li><b> Black Metal 2</b> (2021) - Dean Blunt</li>
     <li><b> Melodrama</b> (2017) - Lorde</li>
     <li><b> A Promise</b> (2002) - Xiu Xiu</li>
     <li><b> Mothership Connection</b> (1975) - Parliament</li>
     <li><b> Hypermagic Mountain</b> (2005) - Lightning Bolt</li>
-    <li><b> Music to Be Murdered By</b> (2020) - Eminem</li>
-    <li><b> Man on the Moon 3: The Chosen</b> (2020) - Kid Cudi</li>
-    <li><b> Plastic Ono Band </b> (1970) - John Lennon</li>
     <li><b> Room On Fire</b> (2003) - The Strokes</li>
     <li><b> Paid In Full</b> (1987) - Eric B. & Rakim</li>
+    <li><b> 20 Jazz Funk Greats</b> (1979) - Throbbing Gristle</li>
   </ul>
 
   <h3>5.5</h3>
   <ul id="album5.5" class="ba">
     <li><b> If You're Feeling Sinister</b> (1996) - Belle and Sebastian</li>
+    <li><b> Violator </b> (1990) - Depeche Mode</li>
+    <li><b> Automatic for the People </b> (1992) - R.E.M.</li>
+    <li><b> The Melodic Blue</b> (2021) - Baby Keem</li>
+    <li><b> With The Beatles</b> (1963) - The Beatles</li>
+    <li><b> Solar Power</b> (2021) - Lorde</li>
+    <li><b> Music to Be Murdered By</b> (2020) - Eminem</li>
+    <li><b> Man on the Moon 3: The Chosen</b> (2020) - Kid Cudi</li>
+    <li><b> Plastic Ono Band </b> (1970) - John Lennon</li>
+    <li><b> Lighght</b> (2014) - Kishi Bashi</li>
     <li><b> Hissing Fauna, Are You the Destroyer?</b> (2007) - of Montreal</li>
+    <li><b> Froot</b> (2015) - Marina and the Diamonds</li>
+    <li><b> The Devil and God Are Raging Inside Me</b> (2006) - Brand New</li>
     <li><b> Deserter's Songs </b> (1998) - Mercury Rev</li>
+    <li><b> Manic</b> (2020) - Halsey</li>
     <li><b> I Love You, Honeybear</b> (2015) - Father John Misty</li>
     <li><b> On Avery Island</b> (1996) - Neutral Milk Hotel</li>
     <li><b> Invasion of Privacy</b> (2018) - Cardi B</li>
@@ -509,17 +738,20 @@
     <li><b> Congratulations</b> (2010) - MGMT</li>
     <li><b> Hotel California </b> (1976) - Eagles</li>
     <li><b> evermore </b> (2020) - Taylor Swift</li>
-    <li><b> Hopeless Fountain Kingdom</b> (2017) - Halsey</li>
     <li><b> SAWAYAMA</b> (2020) - Rina Sawayama</li>
     <li><b> #1 Record</b> (1972) - Big Star</li>
     <li><b> Hail to the Thief </b> (2003) - Radiohead</li>
     <li><b> Ye</b> (2018) - Kanye West</li>
     <li><b> Chemtrails over the Country Club </b> (2021) - Lana Del Rey</li>
     <li><b> The Fame Monster</b> (2009) - Lady Gaga</li>
+    <li><b> Song Cycle</b> (1967) - Van Dyke Parks</li>
   </ul>
 
   <h3>5</h3>               
   <ul id="album5" class="ba">
+    <li><b> Sefronia</b> (1973) - Tim Buckley</li>
+    <li><b> Selling England by the Pound</b> (1973) - Genesis</li>
+    <li><b> After Hours</b> (2020) - The Weeknd</li>
     <li><b> 21</b> (2011) - Adele</li>
     <li><b> Deja Entendu</b> (2003) - Brand New</li>
     <li><b> Cheap Queen </b> (2019) - King Princess</li>
@@ -537,6 +769,8 @@
   <h3>4.5</h3>
   <ul id="album4.5" class="ba">    
     <li><b> Coloring Book</b> (2016) - Chance the Rapper</li>
+    <li><b> Hopeless Fountain Kingdom</b> (2017) - Halsey</li>
+    <li><b> Look at the Fool</b> (1974) - Tim Buckley</li>
   </ul>
 
   <h3>4</h3>
@@ -567,6 +801,8 @@
   <div class="chart-container" style="position: relative; height:30vh; width:40vw">
     <canvas id="myChart"></canvas>
   </div>
+  
+  <p style="margin-top: 0;"><i>average score: <a id="avgScore"></a></i></p>
 
   <a id="classical-albums">
     <h2>Classical Albums</h2>
@@ -626,18 +862,21 @@
       <li><b> Gabriel Fauré</b> (French, 1845-1924)</li>
       <li><b> Alexander Scriabin</b> (Russian, 1872-1915)</li>
       <li><b> Arvo Pärt</b> (Estonian, 1935-)</li>
+      <li><b> Federico Mompou</b> (Catalan, 1893-1987)</li>
       <li><b> Josquin des Prez</b> (French, 1450-1521)</li>
       <li><b> Benjamin Britten</b> (English, 1913-1976)</li>
       <li><b> Robert Schumann</b> (German, 1810-1856)</li>
       <li><b> Johannes Brahms</b> (German, 1833-1897)</li>
+      <li><b> Allan Pettersson</b> (Swedish, 1911-1980)</li>
       <li><b> George Frideric Handel</b> (German, 1685-1759)</li>
       <li><b> Giacomo Puccini</b> (Italian, 1858-1924)</li>
       <li><b> Nikolai Rimsky-Korsakov</b> (Russian, 1844-1908)</li>
       <li><b> Charles Ives</b> (American, 1874-1954)</li>
       <li><b> Leoš Janáček</b> (Czech, 1854-1928)</li>
-      <li><b> Federico Mompou</b> (Catalan, 1893-1987)</li>
       <li><b> Jean Sibelius</b> (Finnish, 1865-1957)</li>
+      <li><b> Isaac Albéniz</b> (Spanish, 1860-1909)</li>
       <li><b> Franz Joseph Haydn</b> (Austrian, 1732-1809)</li>
+      <li><b> Francisco Tárrega</b> (Spanish, 1852-1909)</li>
       <li><b> Hector Berlioz</b> (French, 1803-1869)</li>
       <li><b> Gaetano Donizetti</b> (Italian, 1797-1848)</li>
       <li><b> Gioachino Rossini</b> (Italian, 1792-1868)</li>

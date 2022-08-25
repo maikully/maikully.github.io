@@ -36,27 +36,40 @@
       },
       {
         "school": "High Technology High School",
+        "degree": "High School Diploma",
         "graduated": "June 2019",
         "description": "STEM-based magnet high school in Lincroft, New Jersey."
       }
     ],
     "work": [
       {
+        "company": "Capital One",
+        "title": "Software Engineer Intern (TIP)",
+        "years": "Jun - Aug 2022",
+        "description": ""
+      },
+      {
+        "company": "Merck",
+        "title": "Machine Learning Intern",
+        "years": "Jun - Aug 2021",
+        "description": "Used Camelot library to write a Python OCR script that parses data from English and Chinese PDFs into organized Excel spreadsheets. Researched and tested various PDF table extraction tools (Camelot, pdfplumber, Azure Form Recognizer) in virtual Python environment."
+      },
+      {
         "company": "Brown University IT Service Center",
-        "title": "Student Technician",
+        "title": "Student Manager",
         "years": "Feb 2021 - present",
-        "description": "Answers ticket requests and chats to assist students and faculty with technical issues and questions."
+        "description": "Answers IT help tickets and chats as a member of the ITSC at Brown University. Troubleshoots technology used around campus and provides technical support to both staff and students. Manages shifts and logistics for other technical assistants."
       },
       {
         "company": "Abacus Counselling",
         "title": "Website Designer",
-        "years": "August 2020",
+        "years": "Aug 2020",
         "description": "Created website for Abacus Counselling, a consultation service for student in Sri Lanka applying to American universities."
       },
       {
         "company": "re:Bloom",
         "title": "Website Designer",
-        "years": "June 2020",
+        "years": "Jun 2020",
         "description": "Contributed to creating a website for re:Bloom in React."
       },
       {
@@ -68,11 +81,11 @@
       {
         "company": "QuantHouse",
         "title": "Computer Networking Intern",
-        "years": "May - August 2018",
+        "years": "May - Aug 2018",
         "description": "Paid summer internship at a data center, helping to inventory and migrate over one hundred server machines."
       }
     ],
-    "skills": [
+    "cskills": [
       {
         "name": "Java"
       },
@@ -102,6 +115,20 @@
       },
       {
         "name": "LaTeX/LilyPond"
+      }
+    ],
+    "mskills": [
+      {
+        "name": "Music Theory"
+      },
+      {
+        "name": "Violin"
+      },      
+      {
+        "name": "Conducting"
+      },
+      {
+        "name": "Reaper"
       },
       {
         "name": "Adobe Photoshop"
@@ -111,12 +138,6 @@
       },
       {
         "name": "Adobe Audition"
-      },
-      {
-        "name": "Music Theory"
-      },
-      {
-        "name": "Violin"
       }
     ]
   },
@@ -124,9 +145,15 @@
     "csProjects": [
       {
         "title": "ChordConstructor",
-        "category": "A Java program that can create a chord given a key and a roman numeral",
+        "category": "Used JavaFX to create a program that, given a key and roman numeral selected by the user, displays the appropriate chord on a treble clef staff and plays the chord out loud.",
         "url": "https://github.com/maikully/chord-constructor",
         "image": "chord.jpg"
+      },
+      {
+        "title": "Spothouse",
+        "category": "Used ReactJS and Spark Java to create a webapp that allows a group of people to share a Spotify queue. Users can search for songs and request to add them, as well as upvote/downvote songs to modify the queue order.",
+        "url": "https://spothouse-app.herokuapp.com/",
+        "image": "logo.png"
       }
     ],
     "musicProjects": [
@@ -165,6 +192,24 @@
         "category": "My second project for my intro to composition class, a song for soparano and piano set to text by Alfred, Lord Tennyson",
         "url": "portfolio/CrossingTheBar.mp3",
         "image": "CrossingTheBar.jpg"
+      },
+      {
+        "title": "Wormwood",
+        "category": "My final project for my intro to production class, a slowcore/shoegaze song",
+        "url": "portfolio/wormwood.mp3",
+        "image": "Wormwood.jpg"
+      },
+      {
+        "title": "midterm",
+        "category": "My midtermfor my recording and sound design class, a post-punk/shoegaze song. Used midi synths and recorded guitar and bass.",
+        "url": "portfolio/midterm.wav",
+        "image": "midterm.jpg"
+      },
+      {
+        "title": "it's coming",
+        "category": "My final project for my recording and sound design class, a sort-of atonal rock song. Used midi guitar + recorded guitar and bass",
+        "url": "portfolio/it's coming.wav",
+        "image": "its_coming.jpg"
       }
     ]
   }
