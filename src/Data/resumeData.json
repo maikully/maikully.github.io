@@ -46,7 +46,7 @@
         "company": "Capital One",
         "title": "Software Engineer Intern (TIP)",
         "years": "Jun - Aug 2022",
-        "description": ""
+        "description": "Led a full-stack intern project to develop an internal tool to assist in generating configuration files/pre-set file structures and reading and writing from databases. Used React and Flask with Python to develop the application, which uses questionnaires to programmatically generate/use configuration data."
       },
       {
         "company": "Merck",
@@ -108,6 +108,21 @@
         "name": "React"
       },
       {
+        "name": "Jenkins"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "Machine Learning"
+      },
+      {
+        "name": "Deep Learning"
+      },
+      {
+        "name": "AWS"
+      },
+      {
         "name": "SQL"
       },
       {
@@ -125,10 +140,16 @@
         "name": "Violin"
       },      
       {
+        "name": "Guitar"
+      },      
+      {
         "name": "Conducting"
       },
       {
         "name": "Reaper"
+      },
+      {
+        "name": "Ableton Live"
       },
       {
         "name": "Adobe Photoshop"
