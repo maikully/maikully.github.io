@@ -213,6 +213,10 @@ ul#nav li.current a {
 	color: #04d9ff;
 }
 
+#resume p {
+	line-height: 30px;
+	color: black;
+}
 /* ------------------------------------------------------------------ */
 
 /* c. About Section
@@ -241,7 +245,7 @@ ul#nav li.current a {
 
 #about p {
 	line-height: 30px;
-	color: #7a7a7a;
+	color: #b5b3b3;
 }
 
 #about .profile-pic {
