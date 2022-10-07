@@ -164,10 +164,6 @@ header .scrolldown a:hover {
 	top: 0;
 }
 
-.opaque {
-	background-color: #333;
-}
-
 /* hide toggle button */
 
 #nav-wrap>a.mobile-btn {
@@ -178,7 +174,7 @@ ul#nav {
 	min-height: 48px;
 	width: auto;
 	/* center align the menu */
-	text-align: center;
+	text-align: left;
 }
 
 ul#nav li {
@@ -197,12 +193,20 @@ ul#nav li a {
 	line-height: 32px;
 	text-decoration: none;
 	text-align: left;
-	color: #fff;
+	color: transparent;
 	-webkit-transition: color 0.2s ease-in-out;
 	-moz-transition: color 0.2s ease-in-out;
 	-o-transition: color 0.2s ease-in-out;
 	-ms-transition: color 0.2s ease-in-out;
 	transition: color 0.2s ease-in-out;
+}ul#nav li a:hover {
+	/* 8px padding top + 8px padding bottom + 32px line-height = 48px */
+	display: inline-block;
+	padding: 8px 13px;
+	line-height: 32px;
+	text-decoration: none;
+	text-align: left;
+	color: rgba(255, 255, 255, 0.83);
 }
 
 ul#nav li a:active {
@@ -217,6 +221,37 @@ ul#nav li.current a {
 	line-height: 30px;
 	color: black;
 }
+#resume h1 {
+	font: 48px/48px "opensans-semibold", sans-serif;
+	letter-spacing: 1px;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.83);
+	margin-bottom: 25vh
+}
+.row {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+	align-content:center;
+}
+#resume h3 {
+	color: rgba(255, 255, 255, 0.83);
+	margin-top: 20px
+}
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(5vh);
+  visibility: hidden;
+  transition: opacity .8s ease-out, transform .4s ease-out;
+  will-change: opacity, visibility;
+}
+
+.fade-in-section.is-visible {
+  opacity: 1;
+  transform: none;
+  visibility: visible;
+}
 /* ------------------------------------------------------------------ */
 
 /* c. About Section
@@ -224,9 +259,15 @@ ul#nav li.current a {
 
 #about {
 	background: #2b2b2b;
+  background-image: linear-gradient(180deg, #000000 0%, #090e19 100%);
 	padding-top: 96px;
 	padding-bottom: 66px;
+	min-height:100vh;
 	overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 #about a, #about a:visited {
@@ -270,11 +311,12 @@ ul#nav li.current a {
 
 #about .download .button {
 	margin-top: 6px;
+	margin-left: 0px;
 	background: #444;
 }
 
 #about .download .button:hover {
-	background: #fff;
+	background: #04d9ff;
 	color: #2b2b2b;
 }
 
@@ -289,7 +331,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
-	background: #fff;
+  background-image: linear-gradient(180deg, #090e19 0%, #080f1f 100%);
 	padding-top: 90px;
 	padding-bottom: 72px;
 	overflow: hidden;
@@ -303,11 +345,6 @@ ul#nav li.current a {
 	color: #313131;
 }
 
-#resume h1 {
-	font: 18px/24px "opensans-bold", sans-serif;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-}
 
 #resume h1 span {
 	border-bottom: 3px solid #04d9ff;
@@ -329,14 +366,21 @@ ul#nav li.current a {
 .education, .work {
 	margin-bottom: 48px;
 	padding-bottom: 24px;
-	border-bottom: 1px solid #e8e8e8;
 }
 
 #resume .info {
-	font: 16px/24px "librebaskerville-italic", serif;
-	color: #6e7881;
-	margin-bottom: 18px;
-	margin-top: 9px;
+	/*font: 16px/24px "librebaskerville-italic", serif;*/
+	color: rgba(255, 255, 255, 0.8);
+	margin-bottom: 16px;
+  line-height: 32px;   /* within paragraph */
+	margin-top: 8px;
+	font-size:large
+}
+#resume .infotwo {
+	/*font: 16px/24px "librebaskerville-italic", serif;*/
+	color: rgba(255, 255, 255, 0.8);
+	padding-right:20px;
+	margin-bottom: 5px;
 }
 
 #resume .info span {
@@ -355,10 +399,7 @@ ul#nav li.current a {
 /*----------------------------------------------*/
 
 .bars {
-	width: 40%;
-	float: left;
-	padding: 0;
-	text-align: left;
+	width: 100%;
 }
 
 .bars .skills {
@@ -369,14 +410,17 @@ ul#nav li.current a {
 .bars li {
 	position: relative;
 	margin-bottom: 60px;
-	background: #ccc;
+	margin-right: 10vh;
+	background: rgb(132, 139, 132);
 	height: 2px;
+	width:15vw;
 	border-radius: 3px;
 }
 
 .bars li em {
 	font: 15px "opensans-bold", sans-serif;
-	color: #313131;
+	color: #ccc;
+	width: 100%;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	font-weight: normal;
@@ -390,7 +434,7 @@ ul#nav li.current a {
 	top: 0;
 	margin: 0;
 	padding-right: 24px;
-	background: #313131;
+	background: rgb(132, 139, 132);
 	display: inline-block;
 	height: 2px;
 	line-height: 42px;
@@ -491,18 +535,18 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-	background: #ebeeee;
+  background-image: linear-gradient(180deg, #080f1f 0%, black 100%);
 	padding-top: 90px;
 	padding-bottom: 60px;
 }
 
+
 #portfolio h1 {
-	font: 15px/24px "opensans-semibold", sans-serif;
-	text-transform: uppercase;
+	font: 48px/48px "opensans-semibold", sans-serif;
 	letter-spacing: 1px;
 	text-align: center;
-	margin-bottom: 48px;
-	color: #95a3a3;
+	color: rgba(255, 255, 255, 0.83);
+	margin-bottom: 25vh
 }
 
 /* Portfolio Content */
@@ -577,7 +621,7 @@ ul#nav li.current a {
 
 .portfolio-item .portfolio-item-meta h5 {
 	font: 14px/21px "opensans-bold", sans-serif;
-	color: #fff;
+	color: rgba(255, 255, 255, 0.881);
 }
 
 .portfolio-item .portfolio-item-meta p {
@@ -598,6 +642,14 @@ ul#nav li.current a {
 	opacity: 1;
 	-moz-opacity: 1;
 	filter: alpha(opacity=100);
+}
+.portfolioimg:hover {
+	opacity: .5;
+	transition-duration: .5s;
+}
+.portfolioimg {
+	opacity: 1;
+	transition-duration: .5s;
 }
 
 /* popup modal */
@@ -699,7 +751,6 @@ ul#nav li.current a {
 
 #call-to-action h1 {
 	font: 18px/24px "opensans-bold", sans-serif;
-	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
 }
@@ -777,7 +828,6 @@ call-to-action .button {
 
 #testimonials h1 {
 	font: 18px/24px "opensans-bold", sans-serif;
-	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
 }
