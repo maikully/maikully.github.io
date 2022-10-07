@@ -17,7 +17,7 @@ class Header extends Component {
     }
 
     return (
-      <header id='home'  style={{marginBottom: "50vh"}}>
+      <header id='home' style={{ marginBottom: '50vh' }}>
         <nav id='nav-wrap'>
           <a className='mobile-btn' href='#nav-wrap' title='Show navigation'>
             Show navigation
@@ -26,7 +26,7 @@ class Header extends Component {
             Hide navigation
           </a>
 
-          <ul id='nav' className='nav' style={{marginLeft: "5vw"}}>
+          <ul id='nav' className='nav' style={{ marginLeft: '5vw' }}>
             <li className='current'>
               <a className='smoothscroll' href='#home'>
                 Home
@@ -50,7 +50,7 @@ class Header extends Component {
           </ul>
         </nav>
 
-        <div className='row banner' >
+        <div className='row banner'>
           <div className='banner-text'>
             <FadeIn>
               <h1 className='responsive-headline'>{name}</h1>
