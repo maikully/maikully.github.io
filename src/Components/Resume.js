@@ -40,23 +40,19 @@ class Resume extends Component {
       var listmskills = this.props.data.mskills.map(function (mskill) {
         var className = 'bar-expand ' + mskill.name.toLowerCase()
         return (
-          <FadeSection>
             <li key={mskill.name}>
               <span style={{ width: 200 }} className={className}></span>
               <em>{mskill.name}</em>
             </li>
-          </FadeSection>
         )
       })
       var listcskills = this.props.data.cskills.map(function (cskill) {
         var className = 'bar-expand ' + cskill.name.toLowerCase()
         return (
-          <FadeSection>
             <li key={cskill.name}>
               <span style={{ width: 200 }} className={className}></span>
               <em>{cskill.name}</em>
             </li>
-          </FadeSection>
         )
       })
       var skills = () => {
@@ -91,6 +87,7 @@ class Resume extends Component {
           <h1 style={{ marginTop: '60vh' }}>Skills</h1>
         </FadeSection>
         <div className='row skill' style={{ marginBottom: '50vh' }}>
+          <FadeSection>
           <div class='row'>
             <div className='bars'>
               <div class='column' style={{ padding: 0 }}>
@@ -103,6 +100,7 @@ class Resume extends Component {
               </div>
             </div>
           </div>
+          </FadeSection>
         </div>
       </section>
     )
