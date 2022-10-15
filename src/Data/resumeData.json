@@ -231,6 +231,18 @@
         "category": "My final project for my recording and sound design class, a sort-of atonal rock song. Used midi guitar + recorded guitar and bass",
         "url": "portfolio/it's coming.wav",
         "image": "its_coming.jpg"
+      },
+      {
+        "title": "Rainbow Funtime 2",
+        "category": "The latest development in the rainbow funtime saga",
+        "url": "portfolio/Rainbow Funtime 2.wav",
+        "image": "rainbowfuntime2.png"
+      },
+      {
+        "title": "random house",
+        "category": "A go at house music, made in Logic",
+        "url": "portfolio/random_house.wav",
+        "image": "random_house.png"
       }
     ]
   }
