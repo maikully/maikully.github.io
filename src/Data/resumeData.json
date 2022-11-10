@@ -138,10 +138,10 @@
       },
       {
         "name": "Violin"
-      },      
+      },
       {
         "name": "Guitar"
-      },      
+      },
       {
         "name": "Conducting"
       },
@@ -172,9 +172,21 @@
       },
       {
         "title": "Spothouse",
-        "category": "Used ReactJS and Spark Java to create a webapp that allows a group of people to share a Spotify queue. Users can search for songs and request to add them, as well as upvote/downvote songs to modify the queue order.",
+        "category": "Used ReactJS and Spark Java to create a webapp that allows a group of people to share and vote on a Spotify queue.",
         "url": "https://spothouse-app.herokuapp.com/",
         "image": "logo.png"
+      },
+      {
+        "title": "JPEG Compression Deblocker",
+        "category": "Used Tensorflow with Python to develop a convolutional neural network designed to remove blocking artifacts from JPEG images",
+        "url": "https://github.com/OrenKohavi/DeepLearning-FinalProject/",
+        "image": "deblock.png"
+      },
+      {
+        "title": "LOL Outcome Predictor",
+        "category": "Used Tensorflow with Python to develop a deep learning model that can predict the outcome of a League of Legends game based on the characters the players choose. ",
+        "url": "https://github.com/maikully/LOLOutcomePredictor",
+        "image": "lolop.png"
       }
     ],
     "musicProjects": [
