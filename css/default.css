@@ -683,6 +683,13 @@ img {
   height: auto;
 }
 
+img.portfolioimg {
+
+  object-fit: cover;
+  width: 300px;
+  height: 200px;
+}
+
 img.pull-right {
   margin: 12px 0px 0px 18px;
 }
