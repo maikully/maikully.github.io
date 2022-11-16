@@ -166,28 +166,34 @@
     "csProjects": [
       {
         "title": "ChordConstructor",
-        "category": "Used JavaFX to create a program that, given a key and roman numeral selected by the user, displays the appropriate chord on a treble clef staff and plays the chord out loud.",
+        "category": "A program that, given a key and roman numeral selected by the user, displays and sounds the chord on a treble clef staff.",
         "url": "https://github.com/maikully/chord-constructor",
         "image": "chord.jpg"
       },
       {
         "title": "Spothouse",
-        "category": "Used ReactJS and Spark Java to create a webapp that allows a group of people to share and vote on a Spotify queue.",
+        "category": "A webapp that allows a group of people to share and vote on a Spotify queue.",
         "url": "https://spothouse-app.herokuapp.com/",
         "image": "logo.png"
       },
       {
-        "title": "JPEG Compression Deblocker",
-        "category": "Used Tensorflow with Python to develop a convolutional neural network designed to remove blocking artifacts from JPEG images",
+        "title": "JPEG Deblocker",
+        "category": "A convolutional neural network designed to remove blocking artifacts from JPEG images.",
         "url": "https://github.com/OrenKohavi/DeepLearning-FinalProject/",
         "image": "deblock.png"
       },
       {
         "title": "LOL Outcome Predictor",
-        "category": "Used Tensorflow with Python to develop a deep learning model that can predict the outcome of a League of Legends game based on the characters the players choose. ",
+        "category": "A deep learning model that can predict the outcome of a League of Legends game based on the characters the players choose. ",
         "url": "https://github.com/maikully/LOLOutcomePredictor",
         "image": "lolop.png"
-      }
+      },
+      {
+        "title": "Tablator",
+        "category": "A webapp that uses a DP algorithm to find the three best guitar fingering paths for a given midi, and displays their tabs.",
+        "url": "https://tablator.herokuapp.com",
+        "image": "tablator.png"
+      } 
     ],
     "musicProjects": [
       {

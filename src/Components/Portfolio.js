@@ -5,7 +5,9 @@ import FadeSection from './FadeSection'
 class Portfolio extends Component {
   render () {
     if (this.props.data) {
-      var csProjects = this.props.data.csProjects.map(function (projects) {
+      var csProjects = this.props.data.csProjects.map(function (
+        projects
+      ) {
         var projectImage = 'images/portfolio/' + projects.image
         return (
           <div key={projects.title} className='columns portfolio-item'>
@@ -17,13 +19,13 @@ class Portfolio extends Component {
                 rel='noreferrer noopener'
               >
                 <img
-                  className='portfolioimg'
                   alt={projects.title}
+                  className='portfolioimg'
                   src={projectImage}
                 />
                 <div className='overlay'>
                   <div className='portfolio-item-meta'>
-                    <h5>{projects.title}</h5>
+                    <h5 style={{marginBottom:"1vh"}}>{projects.title}</h5>
                     <p className='info'>{projects.category}</p>
                   </div>
                 </div>
@@ -52,7 +54,7 @@ class Portfolio extends Component {
                 />
                 <div className='overlay'>
                   <div className='portfolio-item-meta'>
-                    <h5>{projects.title}</h5>
+                    <h5 style={{marginBottom:"1vh"}}>{projects.title}</h5>
                     <p className='info'>{projects.category}</p>
                   </div>
                 </div>
@@ -65,7 +67,7 @@ class Portfolio extends Component {
 
     return (
       <section id='portfolio'>
-        <div className='row' style={{ marginBottom: '20vh' }}>
+        <div className='row'>
           <div
             id='portfolio-wrapper'
             className='bgrid-quarters s-bgrid-thirds cf'
@@ -74,8 +76,15 @@ class Portfolio extends Component {
               <h1>CS Projects</h1>
             </FadeSection>
             {csProjects}
+          </div>
+        </div>
+        <div className='row' style={{ marginBottom: '20vh' }}>
+          <div
+            id='portfolio-wrapper'
+            className='bgrid-quarters s-bgrid-thirds cf'
+          >
             <FadeSection>
-              <h1 style={{ marginTop: '100vh' }}> Music Projects </h1>
+              <h1 style={{ marginTop: '10vh' }}> Music Projects </h1>
             </FadeSection>
             {musicProjects}
           </div>

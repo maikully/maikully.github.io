@@ -548,7 +548,10 @@ ul#nav li.current a {
 	padding-top: 90px;
 	padding-bottom: 60px;
 }
-
+#portfolio .info {
+	color: rgba(255, 255, 255, .9);
+	font-size:small
+}
 
 #portfolio h1 {
 	font: 48px/48px "opensans-semibold", sans-serif;
