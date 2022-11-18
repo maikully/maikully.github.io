@@ -190,10 +190,10 @@
       },
       {
         "title": "Tablator",
-        "category": "A webapp that uses a DP algorithm to find the three best guitar fingering paths for a given midi, and displays their tabs.",
+        "category": "A webapp that uses a DP algorithm to find the three best guitar fingering paths for a input sequence of notes or midi file, and displays their tabs.",
         "url": "https://tablator.herokuapp.com",
         "image": "tablator.png"
-      } 
+      }
     ],
     "musicProjects": [
       {

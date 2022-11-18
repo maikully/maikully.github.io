@@ -17,6 +17,7 @@
 		"react-download-link": "^2.3.0",
 		"react-fade-in": "^2.0.1",
 		"react-ga": "^3.0.0",
+		"react-ga4": "^1.4.1",
 		"react-scripts": "^3.4.1"
 	},
 	"scripts": {

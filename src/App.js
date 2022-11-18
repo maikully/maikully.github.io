@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ReactGA from 'react-ga'
+import ReactGA from 'react-ga4'
 import './App.css'
 import Header from './Components/Header'
 import Footer from './Components/Footer'
@@ -9,11 +9,15 @@ import Portfolio from './Components/Portfolio'
 import resumeData from './Data/resumeData.json'
 import ParticlesBg from 'particles-bg'
 
+
 class App extends Component {
-  constructor (props) {
-    super(props)
-    ReactGA.initialize('UA-110570651-1')
-    ReactGA.pageview(window.location.pathname)
+  setGA = () => {
+    console.log("asdas")
+    ReactGA.initialize('G-FZQGHMXF1K');
+    ReactGA.send("pageview");
+  };
+  componentDidMount(){
+    this.setGA();
   }
 
   render () {

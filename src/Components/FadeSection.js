@@ -5,7 +5,6 @@ function FadeSection(prop) {
   const [isVisible, setVisible] = React.useState(false);
   const domRef = React.useRef();
   React.useEffect(() => {
-    console.log(prop)
     const observer = new IntersectionObserver(entries => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
