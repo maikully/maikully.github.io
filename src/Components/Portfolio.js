@@ -73,7 +73,7 @@ class Portfolio extends Component {
             className='bgrid-quarters s-bgrid-thirds cf'
           >
             <FadeSection>
-              <h1>CS Projects</h1>
+              <h1>Software Projects</h1>
             </FadeSection>
             {csProjects}
           </div>

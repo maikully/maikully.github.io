@@ -12,7 +12,6 @@ import ParticlesBg from 'particles-bg'
 
 class App extends Component {
   setGA = () => {
-    console.log("asdas")
     ReactGA.initialize('G-FZQGHMXF1K');
     ReactGA.send("pageview");
   };

@@ -261,6 +261,12 @@
         "category": "A go at house music, made in Logic",
         "url": "portfolio/random_house.wav",
         "image": "random_house.png"
+      },
+      {
+        "title": "composition 3",
+        "category": "A go at ambient music, made in Logic",
+        "url": "portfolio/composition_3.mp3",
+        "image": ".png"
       }
     ]
   }

@@ -31,9 +31,9 @@ class About extends Component {
               <h1 style={{ color: 'white', marginBottom: 50 }}>About Me</h1>
 
               <p style={{ fontSize: 'medium' }}>
-                I'm a {age}-year-old software programmer and musician at Brown
+                I'm a software programmer and musician at Brown
                 University studying computer science and music. Some of my
-                programming and musical works are kept here.
+                projects are kept here.
               </p>
               <p>
                 <a href='opinions.html'>Some opinions I have about music</a>
