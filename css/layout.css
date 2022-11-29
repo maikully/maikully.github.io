@@ -281,6 +281,10 @@ ul#nav li.current a {
 	color: #fff;
 }
 
+#about h3 {
+	color:rgba(255, 255, 255, 0.8)
+}
+
 #about a:hover, #about a:focus {
 	color: #04d9ff;
 }
@@ -385,7 +389,7 @@ ul#nav li.current a {
 	font-size: large
 }
 
-#resume .infotwo {
+#about .infotwo {
 	/*font: 16px/24px "librebaskerville-italic", serif;*/
 	color: rgba(255, 255, 255, 0.8);
 	padding-right: 20px;
