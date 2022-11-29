@@ -146,6 +146,9 @@
         "name": "Conducting"
       },
       {
+        "name": "Logic"
+      },
+      {
         "name": "Reaper"
       },
       {
@@ -240,7 +243,7 @@
       },
       {
         "title": "midterm",
-        "category": "Midterm project for my recording and sound design class, a post-punk/shoegaze song. Used midi synths and recorded guitar and bass.",
+        "category": "Midterm project for my recording and sound design class. Used midi synths and recorded guitar and bass.",
         "url": "portfolio/midterm.wav",
         "image": "midterm.jpg"
       },
@@ -266,7 +269,7 @@
         "title": "composition 3",
         "category": "A go at ambient music, made in Logic",
         "url": "portfolio/composition_3.mp3",
-        "image": ".png"
+        "image": "composition_3.png"
       }
     ]
   }

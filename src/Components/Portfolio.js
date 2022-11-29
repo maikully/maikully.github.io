@@ -33,7 +33,7 @@ class Portfolio extends Component {
             </FadeSection>
           </div>
         )
-      })
+      }).reverse()
       var musicProjects = this.props.data.musicProjects.map(function (
         projects
       ) {
@@ -62,7 +62,7 @@ class Portfolio extends Component {
             </FadeSection>
           </div>
         )
-      })
+      }).reverse()
     }
 
     return (

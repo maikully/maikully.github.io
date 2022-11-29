@@ -83,6 +83,7 @@ class Resume extends Component {
         <div className='row'>
           <div className='twelve columns'>{work}</div>
         </div>
+        {/* 
         <FadeSection>
           <h1 style={{ marginTop: '60vh' }}>Skills</h1>
         </FadeSection>
@@ -101,7 +102,7 @@ class Resume extends Component {
             </div>
           </div>
           </FadeSection>
-        </div>
+        </div>*/}
       </section>
     )
   }
