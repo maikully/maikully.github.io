@@ -193,7 +193,7 @@ ul#nav li a {
 	line-height: 32px;
 	text-decoration: none;
 	text-align: left;
-	color: transparent;
+	color: rgba(255, 255, 255, 0.5);
 	-webkit-transition: color 0.2s ease-in-out;
 	-moz-transition: color 0.2s ease-in-out;
 	-o-transition: color 0.2s ease-in-out;
