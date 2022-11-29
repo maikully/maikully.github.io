@@ -25,7 +25,6 @@ class App extends Component {
         <ParticlesBg color='#04d9ff' num={10} type='cobweb' bg={true} />
         <Header data={resumeData.main} />
         <About data={resumeData.main} />
-        <Resume data={resumeData.resume} />
         <Portfolio data={resumeData.portfolio} />
         <Footer data={resumeData.main} />
       </div>
