@@ -282,7 +282,7 @@ ul#nav li.current a {
 }
 
 #about h3 {
-	color:rgba(255, 255, 255, 0.8)
+	color: rgba(255, 255, 255, 0.8)
 }
 
 #about a:hover, #about a:focus {
@@ -552,10 +552,11 @@ ul#nav li.current a {
 	padding-top: 90px;
 	padding-bottom: 60px;
 }
+
 #portfolio .info {
 	color: rgba(255, 255, 255, .9);
-	font-size:small;
-	height:10vh
+	font-size: small;
+	height: 10vh
 }
 
 #portfolio h1 {
@@ -567,9 +568,23 @@ ul#nav li.current a {
 }
 
 /* Portfolio Content */
+#grid {
+	display: grid;
+	grid-template-columns: 1fr;
+	width:80%
+}
+
+@media only screen and (min-width: 600px) {
+
+	#grid {
+		grid-template-columns: 1fr 1fr;
+		width:50%
+	}
+
+}
 
 #portfolio-wrapper .columns {
-	margin-bottom:2vh;
+	margin-bottom: 1vh;
 }
 
 .portfolio-item .item-wrap {
