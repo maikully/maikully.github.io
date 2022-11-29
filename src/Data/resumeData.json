@@ -24,22 +24,6 @@
         "url": "http://github.com/maikully",
         "className": "fa fa-github"
       }
-    ]
-  },
-  "resume": {
-    "education": [
-      {
-        "school": "Brown University",
-        "degree": "Sc.B. Computer Science and Music",
-        "graduated": "May 2023",
-        "description": "Studying music theory and composition and computer programming."
-      },
-      {
-        "school": "High Technology High School",
-        "degree": "High School Diploma",
-        "graduated": "June 2019",
-        "description": "STEM-based magnet high school in Lincroft, New Jersey."
-      }
     ],
     "work": [
       {
@@ -71,20 +55,24 @@
         "title": "Website Designer",
         "years": "Jun 2020",
         "description": "Contributed to creating a website for re:Bloom in React."
-      },
-      {
-        "company": "New Jersey Performing Arts Center",
-        "title": "Research Intern",
-        "years": "Feb - May 2019",
-        "description": "Intern at NJPAC, doing data entry and analysis of past and potential donors."
-      },
-      {
-        "company": "QuantHouse",
-        "title": "Computer Networking Intern",
-        "years": "May - Aug 2018",
-        "description": "Paid summer internship at a data center, helping to inventory and migrate over one hundred server machines."
       }
     ],
+    "education": [
+      {
+        "school": "Brown University",
+        "degree": "Sc.B. Computer Science and Music",
+        "graduated": "May 2023",
+        "description": "Studying music theory and composition and computer programming."
+      },
+      {
+        "school": "High Technology High School",
+        "degree": "High School Diploma",
+        "graduated": "June 2019",
+        "description": "STEM-based magnet high school in Lincroft, New Jersey."
+      }
+    ]
+  },
+  "resume": {
     "cskills": [
       {
         "name": "Java"

@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { Fade } from 'react-bootstrap'
 import FadeSection from './FadeSection'
+import {BsLink45Deg} from 'react-icons/bs';
 
 class About extends Component {
   calculateAge (birthday) {
@@ -18,25 +19,81 @@ class About extends Component {
       var email = this.props.data.email
       var resumeDownload = this.props.data.resumedownload
       var age = this.calculateAge(new Date('March 16, 2001 00:00:00'))
+      console.log(this.props.data.education)
+      var education = this.props.data.education.map(function (education) {
+        return (
+          <FadeSection>
+            <div
+              key={education.school}
+              style={{ marginBottom: '5vh', marginTop: '5vh' }}
+            >
+              <h3 style={{ color: 'rgba(255, 255, 255, 0.8)' }}>
+                {education.school}
+              </h3>
+              <p className='infotwo'>
+                {education.degree}{' '}
+                <span style={{ marginLeft: 5, marginRight: 7 }}>&bull;</span>
+                <em className='date'>{education.graduated}</em>
+              </p>
+              <p className='info'>{education.description}</p>
+            </div>
+          </FadeSection>
+        )
+      })
+      var work = this.props.data.work.map(function (work) {
+        return (
+          <FadeSection>
+            <div key={work.company} style={{ marginBottom: '10vh' }}>
+              <h3>{work.company}</h3>
+              <p className='infotwo'>
+                {work.title}
+                <span style={{ marginLeft: 7, marginRight: 7 }}>
+                  &bull;
+                </span>{' '}
+                <em className='date'>{work.years}</em>
+              </p>
+              <p className='info'>{work.description}</p>
+            </div>
+          </FadeSection>
+        )
+      })
     }
 
     return (
       <section id='about'>
-        <div className='row' style={{ marginBottom: '50vh' }}>
-          <FadeSection>
+        <div className='row' style={{ marginBottom: '10vh' }}>
             <div className='three columns'>
+          <FadeSection>
               <img className='profile-pic' src={profilepic} alt='Michael Li' />
+          </FadeSection>
             </div>
             <div className='nine columns main-col'>
+          <FadeSection>
               <h1 style={{ color: 'white', marginBottom: 50 }}>About Me</h1>
-
               <p style={{ fontSize: 'medium' }}>
-                I'm a software programmer and musician at Brown
-                University studying computer science and music. Some of my
-                projects are kept here.
+                I'm a software programmer and musician at Brown University
+                studying computer science and music. Some of my projects are
+                kept here.
               </p>
+          </FadeSection>
+              {education}
+          <FadeSection>
+              <hr
+                style={{
+                  background: '#04d9ff',
+                  color: '#04d9ff',
+                  borderColor: '#04d9ff',
+                  opacity: '80%',
+                  height: '3px',
+                  width:"75%",
+                  marginTop:"2vh",
+                  marginBottom:"5vh",
+                }}
+              /></FadeSection>
+              {work}
+              <FadeSection>
               <p>
-                <a href='opinions.html'>Some opinions I have about music</a>
+                <a href='opinions.html'>Some opinions I have about music <BsLink45Deg/></a>
                 <br></br>
               </p>
               <div className='columns download'>
@@ -50,9 +107,8 @@ class About extends Component {
                     <i className='fa fa-download'></i>Download Resume
                   </a>
                 </p>
-              </div>
+              </div></FadeSection>
             </div>
-          </FadeSection>
         </div>
       </section>
     )
