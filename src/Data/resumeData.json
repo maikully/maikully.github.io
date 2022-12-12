@@ -258,6 +258,12 @@
         "category": "A go at ambient music, made in Logic",
         "url": "portfolio/composition_3.mp3",
         "image": "composition_3.png"
+      },
+      {
+        "title": "happy clown",
+        "category": "posttonal rock",
+        "url": "portfolio/happy_clown.mp3",
+        "image": "happy_clown.png"
       }
     ]
   }
