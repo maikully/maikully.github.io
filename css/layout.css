@@ -683,6 +683,8 @@ ul#nav li.current a {
 .portfolioimg {
 	opacity: 1;
 	transition-duration: .5s;
+	border-radius: 25%;
+	margin-right: 25px
 }
 
 /* popup modal */
