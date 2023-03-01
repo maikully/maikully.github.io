@@ -27,34 +27,22 @@
     ],
     "work": [
       {
+        "company": "Susquehanna International Group",
+        "title": "Software Developer",
+        "years": "Aug 2023",
+        "description": ""
+      },
+      {
         "company": "Capital One",
         "title": "Software Engineer Intern (TIP)",
         "years": "Jun - Aug 2022",
         "description": "Led a full-stack intern project to develop an internal tool to assist in generating configuration files/pre-set file structures and reading and writing from databases. Used React and Flask with Python to develop the application, which uses questionnaires to programmatically generate/use configuration data."
       },
       {
-        "company": "Merck",
-        "title": "Machine Learning Intern",
-        "years": "Jun - Aug 2021",
-        "description": "Used Camelot library to write a Python OCR script that parses data from English and Chinese PDFs into organized Excel spreadsheets. Researched and tested various PDF table extraction tools (Camelot, pdfplumber, Azure Form Recognizer) in virtual Python environment."
-      },
-      {
         "company": "Brown University IT Service Center",
         "title": "Student Manager",
-        "years": "Feb 2021 - present",
-        "description": "Answers IT help tickets and chats as a member of the ITSC at Brown University. Troubleshoots technology used around campus and provides technical support to both staff and students. Manages shifts and logistics for other technical assistants."
-      },
-      {
-        "company": "Abacus Counselling",
-        "title": "Website Designer",
-        "years": "Aug 2020",
-        "description": "Created website for Abacus Counselling, a consultation service for student in Sri Lanka applying to American universities."
-      },
-      {
-        "company": "re:Bloom",
-        "title": "Website Designer",
-        "years": "Jun 2020",
-        "description": "Contributed to creating a website for re:Bloom in React."
+        "years": "Feb 2021 - Nov 2022",
+        "description": "Answered IT help tickets and chats as a member of the ITSC at Brown University. Troubleshooted technology used around campus and provided technical support to both staff and students. Managed shifts and logistics for other technical assistants."
       }
     ],
     "education": [
@@ -62,13 +50,13 @@
         "school": "Brown University",
         "degree": "Sc.B. Computer Science and Music",
         "graduated": "May 2023",
-        "description": "Studying music theory and composition and computer programming."
+        "description": ""
       },
       {
         "school": "High Technology High School",
         "degree": "High School Diploma",
         "graduated": "June 2019",
-        "description": "STEM-based magnet high school in Lincroft, New Jersey."
+        "description": ""
       }
     ]
   },
@@ -81,16 +69,19 @@
         "name": "Python"
       },
       {
+        "name": "JavaScript"
+      },
+      {
         "name": "C"
+      },
+      {
+        "name": "Go"
       },
       {
         "name": "HTML"
       },
       {
         "name": "CSS"
-      },
-      {
-        "name": "JS"
       },
       {
         "name": "React"
@@ -184,6 +175,24 @@
         "category": "A webapp that uses a DP algorithm to find the three best guitar fingering paths for a input sequence of notes or midi file, and displays their tabs.",
         "url": "https://tablator.herokuapp.com",
         "image": "tablator.png"
+      },
+      {
+        "title": "Set Trainer",
+        "category": "A website that helps beginners improve at the card game Set.",
+        "url": "https://maikully.github.io/settrainer",
+        "image": "settrainer.png"
+      },
+      {
+        "title": "QuickFlash",
+        "category": "A webapp that uses deep learning to generate flashcards from paragraphs of text",
+        "url": "https://quickflash.herokuapp.com",
+        "image": "QuickFlash.png"
+      },
+      {
+        "title": "The Spotify Game",
+        "category": "Test your knowledge of musical artists and their popularities with The Spotify Game!",
+        "url": "https://maikully.github.io/spotifygame",
+        "image": "spotifygame.png"
       }
     ],
     "musicProjects": [
