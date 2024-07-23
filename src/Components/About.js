@@ -72,8 +72,8 @@ class About extends Component {
             <FadeSection>
               <h1 style={{ color: 'white', marginBottom: 50 }}>About Me</h1>
               <p style={{ fontSize: 'medium' }}>
-                I'm a software programmer and musician at Brown University
-                studying computer science and music. Some of my projects are
+                I'm a software developer at Susquehanna International Group working
+                in electronic options trading. Some of my projects are
                 kept here.
               </p>
             </FadeSection>
@@ -84,18 +84,6 @@ class About extends Component {
                 </a>
                 <br></br>
               </p>
-              <div className='columns download'>
-                <p>
-                  <a
-                    href={resumeDownload}
-                    target='_blank'
-                    rel='noreferrer noopener'
-                    className='button'
-                  >
-                    <i className='fa fa-download'></i>Download Resume
-                  </a>
-                </p>
-              </div>
             </FadeSection>
           </div>
         </div>

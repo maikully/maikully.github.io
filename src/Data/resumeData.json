@@ -30,7 +30,7 @@
         "company": "Susquehanna International Group",
         "title": "Software Developer",
         "years": "Jul 2023 - present",
-        "description": "Electronic Options Trading"
+        "description": "Retail options order routing"
       },
       {
         "company": "Capital One",
@@ -50,12 +50,6 @@
         "school": "Brown University",
         "degree": "Sc.B. Computer Science and Music",
         "graduated": "May 2023",
-        "description": ""
-      },
-      {
-        "school": "High Technology High School",
-        "degree": "High School Diploma",
-        "graduated": "June 2019",
         "description": ""
       }
     ]
@@ -155,7 +149,7 @@
       {
         "title": "Spothouse",
         "category": "A webapp that allows a group of people to share and vote on a Spotify queue.",
-        "url": "https://spothouse-app.herokuapp.com/",
+        "url": "https://spot-house-81532321d1e2.herokuapp.com/",
         "image": "logo.png"
       },
       {
@@ -173,7 +167,7 @@
       {
         "title": "Tablator",
         "category": "A webapp that uses a DP algorithm to find the three best guitar fingering paths for a input sequence of notes or midi file, and displays their tabs.",
-        "url": "https://tablator.herokuapp.com",
+        "url": "https://tablator-f308fad98e20.herokuapp.com/",
         "image": "tablator.png"
       },
       {
