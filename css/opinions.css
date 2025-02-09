@@ -26,12 +26,6 @@
   /* Legacy iOS */
 }
 
-ul {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-}
-
 body {
   background-color: #e9ebec;
   font-family: "Galdeano"
@@ -60,8 +54,6 @@ ol li {
 
 ul li {
   margin-top: 5px;
-  text-indent: -36px;
-  padding-left: 36px;
 }
 
 h2 {
