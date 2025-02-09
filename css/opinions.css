@@ -26,6 +26,12 @@
   /* Legacy iOS */
 }
 
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
 body {
   background-color: #e9ebec;
   font-family: "Galdeano"
