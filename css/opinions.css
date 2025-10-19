@@ -43,7 +43,8 @@ ul.ba li {
 
 ul.sec {
   list-style-type: none;
-  font-family: "Courier New"
+  font-family: "Courier New";
+  padding-left: 0px;
 }
 
 ol li {
