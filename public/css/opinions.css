@@ -36,9 +36,9 @@ ul.ba {
 }
 
 ul.ba li {
-  margin-top: 5px;
-  text-indent: -36px;
-  padding-left: 36px;
+  margin-top: 0.5vh;
+  text-indent: -1.25vw;
+  padding-left: 1.25vw;
 }
 
 ul.sec {
@@ -47,14 +47,30 @@ ul.sec {
   padding-left: 0px;
 }
 
+ol {
+  margin-top: 0vh;
+}
+
 ol li {
-  margin-top: 5px;
-  text-indent: -36px;
-  padding-left: 36px;
+  margin-top: 0.5vh;
+  text-indent: -1.25vw;
+  padding-left: 1.25vw;
 }
 
 ul li {
-  margin-top: 5px;
+  margin-top: 0.5vh;
+}
+
+ul.live {
+  list-style-type: none;
+  padding-left: 2vw;
+  margin: 0vh;
+}
+
+ul.live li {
+  margin-top: 0vh;
+  text-indent: -1.25vw;
+  padding-left: 1.25vw;
 }
 
 h2 {
