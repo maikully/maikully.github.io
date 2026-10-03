@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { Fade } from 'react-bootstrap'
 import FadeSection from './FadeSection'
 
 class Portfolio extends Component {

@@ -1,24 +1,11 @@
 import React, { Component } from 'react'
-import { Fade } from 'react-bootstrap'
 import FadeSection from './FadeSection'
 import { BsLink45Deg } from 'react-icons/bs'
 
 class About extends Component {
-  calculateAge (birthday) {
-    // birthday is a date
-    var ageDifMs = Date.now() - birthday.getTime()
-    var ageDate = new Date(ageDifMs) // miliseconds from epoch
-    return Math.abs(ageDate.getUTCFullYear() - 1970)
-  }
   render () {
     if (this.props.data) {
-      var name = this.props.data.name
       var profilepic = 'images/' + this.props.data.image
-      var lastfm = 'images/lastfm.png'
-      var phone = this.props.data.phone
-      var email = this.props.data.email
-      var resumeDownload = this.props.data.resumedownload
-      var age = this.calculateAge(new Date('March 16, 2001 00:00:00'))
       console.log(this.props.data.education)
       var education = this.props.data.education.map(function (education) {
         return (
