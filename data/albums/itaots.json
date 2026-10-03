@@ -1,0 +1,29 @@
+{
+  "slug": "itaots",
+  "cover": "images/itaots.jpg",
+  "coverAlt": "In the Aeroplane Over The Sea",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 9,
+      "tracks": [
+        "Holland, 1945",
+        "King of Carrot Flowers Pt. 1",
+        "In the Aeroplane Over the Sea",
+        "Ghost",
+        "Two-Headed Boy"
+      ]
+    },
+    {
+      "score": 8,
+      "tracks": [
+        "King of Carrot Flowers Pts. 2 & 3",
+        "Oh Comely",
+        "untitled",
+        "The Fool",
+        "Communist Daughter",
+        "Two-Headed Boy Pt. 2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "futurenostalgia",
+  "cover": "images/futurenostalgia.jpg",
+  "coverAlt": "Future Nostalgia",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 9,
+      "tracks": [
+        "Pretty Please",
+        "Don't Start Now"
+      ]
+    },
+    {
+      "score": 8,
+      "tracks": [
+        "Levitating",
+        "Hallucinate",
+        "Cool",
+        "Good In Bed",
+        "Break My Heart",
+        "Physical",
+        "Love Again"
+      ]
+    },
+    {
+      "score": 7,
+      "tracks": [
+        "Future Nostalgia"
+      ]
+    },
+    {
+      "score": 4,
+      "tracks": [
+        "Boys Will Be Boys"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "lz4",
+  "cover": "images/lz4.jpg",
+  "coverAlt": "Led Zeppelin IV",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 10,
+      "tracks": [
+        "Black Dog",
+        "When the Levee Breaks"
+      ]
+    },
+    {
+      "score": 9,
+      "tracks": [
+        "Going to California",
+        "Rock and Roll",
+        "Stairway to Heaven",
+        "The Battle of Evermore"
+      ]
+    },
+    {
+      "score": 8,
+      "tracks": [
+        "Four Sticks"
+      ]
+    },
+    {
+      "score": 7,
+      "tracks": [
+        "Misty Mountain Hop"
+      ]
+    }
+  ]
+}

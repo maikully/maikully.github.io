@@ -28,7 +28,10 @@
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -d build",
+		"generate:albums": "node scripts/generate-albums.js",
+		"prebuild": "npm run generate:albums",
+		"prestart": "npm run generate:albums"
 	},
 	"eslintConfig": {
 		"extends": "react-app"

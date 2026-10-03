@@ -1,0 +1,29 @@
+{
+  "slug": "loveless",
+  "cover": "images/loveless.jpg",
+  "coverAlt": "Loveless",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 10,
+      "tracks": [
+        "Only Shallow",
+        "When You Sleep",
+        "Come in Alone",
+        "I Only Said",
+        "Touched",
+        "Blown a Wish",
+        "Sometimes"
+      ]
+    },
+    {
+      "score": 9,
+      "tracks": [
+        "To Here Knows When",
+        "What You Want",
+        "Soon",
+        "Loomer"
+      ]
+    }
+  ]
+}

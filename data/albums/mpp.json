@@ -1,0 +1,44 @@
+{
+  "slug": "mpp",
+  "cover": "images/mpp.jpg",
+  "coverAlt": "Merriweather Post Pavilion",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 10,
+      "tracks": [
+        "My Girls"
+      ]
+    },
+    {
+      "score": 9,
+      "tracks": [
+        "In The Flowers"
+      ]
+    },
+    {
+      "score": 8,
+      "tracks": [
+        "Bluish",
+        "Also Frightened"
+      ]
+    },
+    {
+      "score": 7,
+      "tracks": [
+        "Summertime Clothes",
+        "Daily Routine"
+      ]
+    },
+    {
+      "score": 6,
+      "tracks": [
+        "Guys Eyes",
+        "Lion In A Coma",
+        "No More Runnin",
+        "Taste",
+        "Brother Sport"
+      ]
+    }
+  ]
+}

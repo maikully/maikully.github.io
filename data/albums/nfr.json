@@ -1,0 +1,37 @@
+{
+  "slug": "nfr",
+  "cover": "images/nfr.jpg",
+  "coverAlt": "Norman Fucking Rockwell",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 9,
+      "tracks": [
+        "Venice Bitch",
+        "Mariners Apartment Complex",
+        "Cinnamon Girl",
+        "Fuck it I love you",
+        "Norman fucking Rockwell"
+      ]
+    },
+    {
+      "score": 8,
+      "tracks": [
+        "How to disappear",
+        "Love song",
+        "California",
+        "The Next Best American Record"
+      ]
+    },
+    {
+      "score": 7,
+      "tracks": [
+        "Doin' Time",
+        "hope is a dangerous thing for a woman like me to have - but I have it",
+        "Happiness is a butterfly",
+        "Bartender",
+        "The greatest"
+      ]
+    }
+  ]
+}

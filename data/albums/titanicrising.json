@@ -1,0 +1,38 @@
+{
+  "slug": "titanicrising",
+  "cover": "images/titanicrising.jpg",
+  "coverAlt": "Titanic Rising",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 10,
+      "tracks": [
+        "Something to Believe",
+        "A Lot's Gonna Change",
+        "Andromeda"
+      ]
+    },
+    {
+      "score": 9,
+      "tracks": [
+        "Wild Time",
+        "Movies",
+        "Everyday",
+        "Picture Me Better"
+      ]
+    },
+    {
+      "score": 8,
+      "tracks": [
+        "Mirror Forever"
+      ]
+    },
+    {
+      "score": 7,
+      "tracks": [
+        "Nearer to Thee",
+        "Titanic Rising"
+      ]
+    }
+  ]
+}
