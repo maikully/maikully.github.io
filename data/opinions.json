@@ -1,0 +1,4678 @@
+{
+  "albums": [
+    {
+      "score": 10,
+      "entries": [
+        {
+          "title": "Donuts",
+          "year": "2006",
+          "artist": "J Dilla"
+        },
+        {
+          "title": "Leaves Turn Inside You",
+          "year": "2001",
+          "artist": "Unwound"
+        },
+        {
+          "title": "Loveless",
+          "year": "1991",
+          "artist": "My Bloody Valentine",
+          "url": "albums/loveless.html",
+          "slug": "loveless"
+        },
+        {
+          "title": "Public Strain",
+          "year": "2010",
+          "artist": "Women"
+        },
+        {
+          "title": "Ys",
+          "year": "2006",
+          "artist": "Joanna Newsom"
+        },
+        {
+          "title": "The Doors",
+          "year": "1967",
+          "artist": "The Doors",
+          "url": "albums/doors.html",
+          "slug": "doors"
+        }
+      ]
+    },
+    {
+      "score": 9.5,
+      "entries": [
+        {
+          "title": "The Velvet Underground & Nico",
+          "year": "1967",
+          "artist": "The Velvet Underground & Nico",
+          "url": "albums/vu&n.html",
+          "slug": "vu&n"
+        },
+        {
+          "title": "Pink Moon",
+          "year": "1972",
+          "artist": "Nick Drake"
+        },
+        {
+          "title": "Pet Sounds",
+          "year": "1966",
+          "artist": "The Beach Boys"
+        },
+        {
+          "title": "Scott 4",
+          "year": "1969",
+          "artist": "Scott Walker"
+        },
+        {
+          "title": "Have One On Me",
+          "year": "2010",
+          "artist": "Joanna Newsom"
+        },
+        {
+          "title": "Illmatic",
+          "year": "1994",
+          "artist": "Nas"
+        },
+        {
+          "title": "Madvillainy",
+          "year": "2004",
+          "artist": "Madvillain"
+        }
+      ]
+    },
+    {
+      "score": 9,
+      "entries": [
+        {
+          "title": "The Infamous",
+          "year": "1995",
+          "artist": "Mobb Deep"
+        },
+        {
+          "title": "Moment of Truth",
+          "year": "1998",
+          "artist": "Gang Starr"
+        },
+        {
+          "title": "Starsailor",
+          "year": "1970",
+          "artist": "Tim Buckley"
+        },
+        {
+          "title": "Parallelograms",
+          "year": "1970",
+          "artist": "Linda Perhacs"
+        },
+        {
+          "title": "Metal Box",
+          "year": "1979",
+          "artist": "Public Image Ltd."
+        },
+        {
+          "title": "Heaven or Las Vegas",
+          "year": "1990",
+          "artist": "Cocteau Twins"
+        },
+        {
+          "title": "The Black Saint and the Sinner Lady",
+          "year": "1963",
+          "artist": "Charles Mingus"
+        },
+        {
+          "title": "Five Leaves Left",
+          "year": "1969",
+          "artist": "Nick Drake"
+        },
+        {
+          "title": "Admonishing the Bishops",
+          "year": "1993",
+          "artist": "Thinking Fellers Union Local 282"
+        },
+        {
+          "title": "Closer",
+          "year": "1980",
+          "artist": "Joy Division"
+        },
+        {
+          "title": "Curtis",
+          "year": "1970",
+          "artist": "Curtis Mayfield"
+        },
+        {
+          "title": "Divers",
+          "year": "2015",
+          "artist": "Joanna Newsom"
+        },
+        {
+          "title": "m b v",
+          "year": "2013",
+          "artist": "My Bloody Valentine"
+        },
+        {
+          "title": "Strangers From the Universe",
+          "year": "1994",
+          "artist": "Thinking Fellers Union Local 282"
+        },
+        {
+          "title": "Hold Your Horse Is",
+          "year": "2002",
+          "artist": "Hella"
+        },
+        {
+          "title": "Laughing Stock",
+          "year": "1991",
+          "artist": "Talk Talk"
+        },
+        {
+          "title": "Spirit of Eden",
+          "year": "1987",
+          "artist": "Talk Talk"
+        },
+        {
+          "title": "In a Silent Way",
+          "year": "1969",
+          "artist": "Miles Davis"
+        },
+        {
+          "title": "Unknown Pleasures",
+          "year": "1979",
+          "artist": "Joy Division"
+        },
+        {
+          "title": "Led Zeppelin IV",
+          "year": "1971",
+          "artist": "Led Zeppelin",
+          "url": "albums/lz4.html",
+          "slug": "lz4"
+        },
+        {
+          "title": "Titanic Rising",
+          "year": "2019",
+          "artist": "Weyes Blood",
+          "url": "albums/titanicrising.html",
+          "slug": "titanicrising"
+        },
+        {
+          "title": "Sung Tongs",
+          "year": "2004",
+          "artist": "Animal Collective"
+        },
+        {
+          "title": "Ceres & Calypso in the Deep Time",
+          "year": "2013",
+          "artist": "Candy Claws"
+        },
+        {
+          "title": "Suranov, a?",
+          "year": "2003",
+          "artist": "Fotomoto"
+        },
+        {
+          "title": "Maida Vale Sessions",
+          "year": "2022",
+          "artist": "Broadcast"
+        },
+        {
+          "title": "On the Corner",
+          "year": "1972",
+          "artist": "Miles Davis"
+        },
+        {
+          "title": "Prima edizione",
+          "year": "1999",
+          "artist": "Todd Edwards"
+        },
+        {
+          "title": "Revolver",
+          "year": "1966",
+          "artist": "The Beatles",
+          "url": "albums/revolver.html",
+          "slug": "revolver"
+        },
+        {
+          "title": "In Rainbows",
+          "year": "2007",
+          "artist": "Radiohead"
+        },
+        {
+          "title": "Tilt",
+          "year": "1995",
+          "artist": "Scott Walker"
+        }
+      ]
+    },
+    {
+      "score": 8.5,
+      "entries": [
+        {
+          "title": "Stratosphere",
+          "year": "1998",
+          "artist": "Duster"
+        },
+        {
+          "title": "Attempted Martyr",
+          "year": "2024",
+          "artist": "Prostitute"
+        },
+        {
+          "title": "Shutout E.P.",
+          "year": "1981",
+          "artist": "The Walker Brothers"
+        },
+        {
+          "title": "Any Other City",
+          "year": "2001",
+          "artist": "Life Without Buildings"
+        },
+        {
+          "title": "Emergency & I",
+          "year": "1999",
+          "artist": "The Dismemberment Plan"
+        },
+        {
+          "title": "98.12.28 男達の別れ",
+          "year": "1998",
+          "artist": "Fishmans"
+        },
+        {
+          "title": "Diamond Jubilee",
+          "year": "2024",
+          "artist": "Cindy Lee"
+        },
+        {
+          "title": "'77 Live",
+          "year": "1977",
+          "artist": "Les Rallizes Dénudés"
+        },
+        {
+          "title": "Dark Magus",
+          "year": "1977",
+          "artist": "Miles Davis"
+        },
+        {
+          "title": "Lance",
+          "year": "2018",
+          "artist": "Niños del Cerro"
+        },
+        {
+          "title": "Marquee Moon",
+          "year": "1977",
+          "artist": "Television"
+        },
+        {
+          "title": "Tender Buttons",
+          "year": "2005",
+          "artist": "Broadcast"
+        },
+        {
+          "title": "Revengeseekerz",
+          "year": "2025",
+          "artist": "Jane Remover"
+        },
+        {
+          "title": "We Are the Romans",
+          "year": "1999",
+          "artist": "Botch"
+        },
+        {
+          "title": "Jane Doe",
+          "year": "2001",
+          "artist": "Converge"
+        },
+        {
+          "title": "To Pimp a Butterfly",
+          "year": "2015",
+          "artist": "Kendrick Lamar"
+        },
+        {
+          "title": "Happy Sad",
+          "year": "1969",
+          "artist": "Tim Buckley"
+        },
+        {
+          "title": "Get Up with It",
+          "year": "1974",
+          "artist": "Miles Davis"
+        },
+        {
+          "title": "Long Season",
+          "year": "1996",
+          "artist": "Fishmans"
+        },
+        {
+          "title": "Grace",
+          "year": "1993",
+          "artist": "Jeff Buckley"
+        },
+        {
+          "title": "Scott 3",
+          "year": "1969",
+          "artist": "Scott Walker"
+        },
+        {
+          "title": "In the Aeroplane Over the Sea",
+          "year": "1998",
+          "artist": "Neutral Milk Hotel",
+          "url": "albums/itaots.html",
+          "slug": "itaots"
+        },
+        {
+          "title": "A Love Supreme",
+          "year": "1965",
+          "artist": "John Coltrane"
+        },
+        {
+          "title": "Helplessness Blues",
+          "year": "2011",
+          "artist": "Fleet Foxes"
+        },
+        {
+          "title": "Southernplayalisticadillacmuzik",
+          "year": "1994",
+          "artist": "OutKast"
+        },
+        {
+          "title": "World of Echo",
+          "year": "1986",
+          "artist": "Arthur Russell"
+        },
+        {
+          "title": "Blue",
+          "year": "1971",
+          "artist": "Joni Mitchell"
+        },
+        {
+          "title": "Mingus Ah Um",
+          "year": "1959",
+          "artist": "Charles Mingus"
+        },
+        {
+          "title": "In the Court of the Crimson King",
+          "year": "1969",
+          "artist": "King Crimson"
+        },
+        {
+          "title": "songs",
+          "year": "2020",
+          "artist": "Adrianne Lenker"
+        },
+        {
+          "title": "Model",
+          "year": "2005",
+          "artist": "Fotomoto"
+        },
+        {
+          "title": "Carrie & Lowell",
+          "year": "2015",
+          "artist": "Sufjan Stevens"
+        },
+        {
+          "title": "Giant Steps",
+          "year": "1960",
+          "artist": "John Coltrane"
+        },
+        {
+          "title": "Head Hunters",
+          "year": "1973",
+          "artist": "Herbie Hancock"
+        },
+        {
+          "title": "Innervisions",
+          "year": "1973",
+          "artist": "Stevie Wonder"
+        },
+        {
+          "title": "Enter the Wu-Tang (36 Chambers)",
+          "year": "1993",
+          "artist": "Wu-Tang Clan"
+        },
+        {
+          "title": "Dummy",
+          "year": "1994",
+          "artist": "Portishead"
+        },
+        {
+          "title": "You Won't Get What You Want",
+          "year": "2018",
+          "artist": "Daughters"
+        },
+        {
+          "title": "Clube da Esquina",
+          "year": "1972",
+          "artist": "Lô Borges and Milton Nascimento"
+        },
+        {
+          "title": "Once Twice Melody",
+          "year": "2022",
+          "artist": "Beach House"
+        },
+        {
+          "title": "Strange Days",
+          "year": "1967",
+          "artist": "The Doors"
+        },
+        {
+          "title": "Lift Your Skinny Fists Like Antennas to Heaven!",
+          "year": "2000",
+          "artist": "Godspeed You! Black Emperor"
+        },
+        {
+          "title": "What's Going On",
+          "year": "1971",
+          "artist": "Marvin Gaye"
+        },
+        {
+          "title": "The Shape of Jazz to Come",
+          "year": "1959",
+          "artist": "Ornette Coleman"
+        },
+        {
+          "title": "Highway 61 Revisited",
+          "year": "1965",
+          "artist": "Bob Dylan"
+        },
+        {
+          "title": "White Light/White Heat",
+          "year": "1968",
+          "artist": "The Velvet Underground"
+        },
+        {
+          "title": "The Moon & Antarctica",
+          "year": "2000",
+          "artist": "Modest Mouse"
+        },
+        {
+          "title": "The College Dropout",
+          "year": "2004",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "A Moon Shaped Pool",
+          "year": "2016",
+          "artist": "Radiohead"
+        },
+        {
+          "title": "Mm.. Food",
+          "year": "2004",
+          "artist": "MF DOOM"
+        },
+        {
+          "title": "Norman Fucking Rockwell!",
+          "year": "2019",
+          "artist": "Lana Del Rey",
+          "url": "albums/nfr.html",
+          "slug": "nfr"
+        },
+        {
+          "title": "You Will Never Know Why",
+          "year": "2009",
+          "artist": "Sweet Trip"
+        },
+        {
+          "title": "The Smile Sessions",
+          "year": "2011",
+          "artist": "The Beach Boys"
+        },
+        {
+          "title": "Another Green World",
+          "year": "1975",
+          "artist": "Brian Eno"
+        },
+        {
+          "title": "Tubular Bells",
+          "year": "1973",
+          "artist": "Mike Oldfield"
+        },
+        {
+          "title": "F♯ A♯ ∞",
+          "year": "1997",
+          "artist": "Godspeed You! Black Emperor"
+        },
+        {
+          "title": "Abbey Road",
+          "year": "1969",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "The Kick Inside",
+          "year": "1978",
+          "artist": "Kate Bush"
+        },
+        {
+          "title": "Vespertine",
+          "year": "2001",
+          "artist": "Björk"
+        },
+        {
+          "title": "Bitches Brew",
+          "year": "1970",
+          "artist": "Miles Davis"
+        },
+        {
+          "title": "Either/Or",
+          "year": "1997",
+          "artist": "Elliot Smith"
+        },
+        {
+          "title": "Lesser Matters",
+          "year": "2003",
+          "artist": "The Radio Dept."
+        },
+        {
+          "title": "Lifestylez ov da Poor & Dangerous",
+          "year": "1995",
+          "artist": "Big L"
+        },
+        {
+          "title": "The Dreaming",
+          "year": "1982",
+          "artist": "Kate Bush"
+        },
+        {
+          "title": "Untrue",
+          "year": "2007",
+          "artist": "Burial"
+        },
+        {
+          "title": "Underground Vol. 1",
+          "year": "1999",
+          "artist": "Three 6 Mafia"
+        },
+        {
+          "title": "Yoshitsune",
+          "year": "2023",
+          "artist": "Poil"
+        }
+      ]
+    },
+    {
+      "score": 8,
+      "entries": [
+        {
+          "title": "Women",
+          "year": "2008",
+          "artist": "Women"
+        },
+        {
+          "title": "Black on Both Sides",
+          "year": "1999",
+          "artist": "Mos Def"
+        },
+        {
+          "title": "Igor",
+          "year": "2019",
+          "artist": "Tyler, the Creator"
+        },
+        {
+          "title": "New Plastic Ideas",
+          "year": "1994",
+          "artist": "Unwound"
+        },
+        {
+          "title": "Since I Left You",
+          "year": "2000",
+          "artist": "The Avalanches"
+        },
+        {
+          "title": "Maps",
+          "year": "2023",
+          "artist": "billy woods, Kenny Segal"
+        },
+        {
+          "title": "Sing to God",
+          "year": "1996",
+          "artist": "Cardiacs"
+        },
+        {
+          "title": "Mezzanine",
+          "year": "1998",
+          "artist": "Massive Attack"
+        },
+        {
+          "title": "The Magnolia Electric Co.",
+          "year": "2003",
+          "artist": "Songs: Ohia"
+        },
+        {
+          "title": "Astral Weeks",
+          "year": "1968",
+          "artist": "Van Morrison"
+        },
+        {
+          "title": "Made Available: John Peel Sessions",
+          "year": "1996",
+          "artist": "This Heat"
+        },
+        {
+          "title": "This Heat",
+          "year": "1979",
+          "artist": "This Heat"
+        },
+        {
+          "title": "A Tábua de Esmeralda",
+          "year": "1974",
+          "artist": "Jorge Ben"
+        },
+        {
+          "title": "154",
+          "year": "1979",
+          "artist": "Wire"
+        },
+        {
+          "title": "Together",
+          "year": "2022",
+          "artist": "Duster"
+        },
+        {
+          "title": "The Money Store",
+          "year": "2012",
+          "artist": "Death Grips"
+        },
+        {
+          "title": "Capital Punishment",
+          "year": "1998",
+          "artist": "Big Pun"
+        },
+        {
+          "title": "WhatFunLifeWas",
+          "year": "1994",
+          "artist": "Bedhead"
+        },
+        {
+          "title": "Bright Future",
+          "year": "2024",
+          "artist": "Adrianne Lenker"
+        },
+        {
+          "title": "American Football",
+          "year": "1999",
+          "artist": "American Football"
+        },
+        {
+          "title": "Cheat Codes",
+          "year": "2022",
+          "artist": "Danger Mouse & Black Thought"
+        },
+        {
+          "title": "Boris at Last -Feedbacker-",
+          "year": "2003",
+          "artist": "Boris"
+        },
+        {
+          "title": "Electric Ladyland",
+          "year": "1968",
+          "artist": "The Jimi Hendrix Experience"
+        },
+        {
+          "title": "Safe As Milk",
+          "year": "1967",
+          "artist": "Captain Beefheart and his Magic Band"
+        },
+        {
+          "title": "OK Computer",
+          "year": "1997",
+          "artist": "Radiohead"
+        },
+        {
+          "title": "Crystallize",
+          "year": "2011",
+          "artist": "Tokyo Shoegazer"
+        },
+        {
+          "title": "Mellon Collie and the Infinite Sadness",
+          "year": "1995",
+          "artist": "The Smashing Pumpkins"
+        },
+        {
+          "title": "Some Rap Songs",
+          "year": "2018",
+          "artist": "Earl Sweatshirt"
+        },
+        {
+          "title": "93 'Til Infinity",
+          "year": "1993",
+          "artist": "Souls of Mischief"
+        },
+        {
+          "title": "My Beautiful Dark Twisted Fantasy",
+          "year": "2010",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "Dynamo",
+          "year": "1992",
+          "artist": "Soda Stereo"
+        },
+        {
+          "title": "Yellow Loveless",
+          "year": "2013",
+          "artist": "Various artists"
+        },
+        {
+          "title": "Future Nostalgia",
+          "year": "2020",
+          "artist": "Dua Lipa",
+          "url": "albums/futurenostalgia.html",
+          "slug": "futurenostalgia"
+        },
+        {
+          "title": "First Utterance",
+          "year": "1971",
+          "artist": "Comus"
+        },
+        {
+          "title": "You Made Me Realise",
+          "year": "1988",
+          "artist": "My Bloody Valentine"
+        },
+        {
+          "title": "Hatful of Hollow",
+          "year": "1984",
+          "artist": "The Smiths"
+        },
+        {
+          "title": "Disintegration",
+          "year": "1989",
+          "artist": "The Cure"
+        },
+        {
+          "title": "velocity : design : comfort.",
+          "year": "2003",
+          "artist": "Sweet Trip"
+        },
+        {
+          "title": "Blacklisted",
+          "year": "2002",
+          "artist": "Neko Case"
+        },
+        {
+          "title": "Dragon New Warm Mountain I Believe in You",
+          "year": "2022",
+          "artist": "Big Thief"
+        },
+        {
+          "title": "Flower Boy",
+          "year": "2017",
+          "artist": "Tyler, the Creator"
+        },
+        {
+          "title": "Exmilitary",
+          "year": "2011",
+          "artist": "Death Grips"
+        },
+        {
+          "title": "Are You Experienced",
+          "year": "1967",
+          "artist": "The Jimi Hendrix Experience"
+        },
+        {
+          "title": "Jackson C. Frank",
+          "year": "1965",
+          "artist": "Jackson C. Frank"
+        },
+        {
+          "title": "Trout Mask Replica",
+          "year": "1969",
+          "artist": "Captain Beefheart and his Magic Band"
+        },
+        {
+          "title": "Graceland",
+          "year": "1986",
+          "artist": "Paul Simon"
+        },
+        {
+          "title": "The Colour of Spring",
+          "year": "1986",
+          "artist": "Talk Talk"
+        },
+        {
+          "title": "Change",
+          "year": "2001",
+          "artist": "The Dismemberment Plan"
+        },
+        {
+          "title": "Young Marble Giants",
+          "year": "1980",
+          "artist": "Colossal Youth"
+        },
+        {
+          "title": "The Milk-Eyed Mender",
+          "year": "2004",
+          "artist": "Joanna Newsom"
+        },
+        {
+          "title": "Black Up",
+          "year": "2011",
+          "artist": "Shabazz Palaces"
+        },
+        {
+          "title": "I Love My Computer",
+          "year": "2025",
+          "artist": "Ninajirachi"
+        },
+        {
+          "title": "Microphones in 2020",
+          "year": "2020",
+          "artist": "The Microphones"
+        },
+        {
+          "title": "Ready to Die",
+          "year": "1994",
+          "artist": "The Notorious B.I.G."
+        },
+        {
+          "title": "Remain in Light",
+          "year": "1980",
+          "artist": "Talking Heads"
+        },
+        {
+          "title": "Bridge Over Troubled Water",
+          "year": "1970",
+          "artist": "Simon & Garfunkel"
+        },
+        {
+          "title": "good kid, m.A.A.d city",
+          "year": "2012",
+          "artist": "Kendrick Lamar"
+        },
+        {
+          "title": "The Drift",
+          "year": "2006",
+          "artist": "Scott Walker"
+        },
+        {
+          "title": "The Colours of Chloë",
+          "year": "1974",
+          "artist": "Eberhard Weber"
+        },
+        {
+          "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+          "year": "2019",
+          "artist": "Billie Eilish"
+        },
+        {
+          "title": "Feels",
+          "year": "2005",
+          "artist": "Animal Collective"
+        },
+        {
+          "title": "808s and Heartbreak",
+          "year": "2008",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "Acabou Chorare",
+          "year": "1972",
+          "artist": "Novos Baianos"
+        },
+        {
+          "title": "宇宙 日本 世田谷 (Uchu Nippon Setagaya)",
+          "year": "1997",
+          "artist": "Fishmans"
+        },
+        {
+          "title": "Deceit",
+          "year": "1981",
+          "artist": "This Heat"
+        },
+        {
+          "title": "Rock Bottom",
+          "year": "1974",
+          "artist": "Robert Wyatt"
+        },
+        {
+          "title": "Take Me to Your Leader",
+          "year": "2003",
+          "artist": "King Geedorah"
+        },
+        {
+          "title": "Liquid Swords",
+          "year": "1995",
+          "artist": "GZA"
+        },
+        {
+          "title": "The Ascension",
+          "year": "1981",
+          "artist": "Glenn Branca"
+        },
+        {
+          "title": "Currents",
+          "year": "2015",
+          "artist": "Tame Impala"
+        },
+        {
+          "title": "Rage Against the Machine",
+          "year": "1992",
+          "artist": "Rage Against the Machine"
+        },
+        {
+          "title": "アダンの風 (Windswept Adan)",
+          "year": "2020",
+          "artist": "Ichiko Aoba"
+        },
+        {
+          "title": "Rubber Soul",
+          "year": "1965",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Music Has the Right to Children",
+          "year": "1998",
+          "artist": "Boards of Canada"
+        },
+        {
+          "title": "Mama's Gun",
+          "year": "2000",
+          "artist": "Erykah Badu"
+        },
+        {
+          "title": "Baduizm",
+          "year": "1997",
+          "artist": "Erykah Badu"
+        },
+        {
+          "title": "The Lonesome Crowded West",
+          "year": "1997",
+          "artist": "Modest Mouse"
+        },
+        {
+          "title": "Fleet Foxes",
+          "year": "2008",
+          "artist": "Fleet Foxes"
+        },
+        {
+          "title": "Sextant",
+          "year": "1973",
+          "artist": "Herbie Hancock"
+        },
+        {
+          "title": "Songs of Leonard Cohen",
+          "year": "1967",
+          "artist": "Leonard Cohen"
+        },
+        {
+          "title": "Let it Be",
+          "year": "1970",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Have You In My Wilderness",
+          "year": "2015",
+          "artist": "Julia Holter"
+        },
+        {
+          "title": "Merriweather Post Pavilion",
+          "year": "2009",
+          "artist": "Animal Collective",
+          "url": "albums/mpp.html",
+          "slug": "mpp"
+        },
+        {
+          "title": "Pink Flag",
+          "year": "1978",
+          "artist": "Wire"
+        },
+        {
+          "title": "Smiley Smile",
+          "year": "1967",
+          "artist": "The Beach Boys"
+        },
+        {
+          "title": "Sgt. Pepper's Lonely Hearts Club Band",
+          "year": "1967",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Imaginal Disk",
+          "year": "2024",
+          "artist": "Magdalena Bay"
+        },
+        {
+          "title": "Blonde on Blonde",
+          "year": "1966",
+          "artist": "Bob Dylan"
+        },
+        {
+          "title": "Two Airships/Exploder Falls",
+          "year": "2012",
+          "artist": "Candy Claws"
+        },
+        {
+          "title": "Down Colorful Hill",
+          "year": "1992",
+          "artist": "Red House Painters"
+        },
+        {
+          "title": "Spiderland",
+          "year": "1991",
+          "artist": "Slint"
+        },
+        {
+          "title": "Frizzle Fry",
+          "year": "1990",
+          "artist": "Primus"
+        },
+        {
+          "title": "Mark Hollis",
+          "year": "1998",
+          "artist": "Mark Hollis"
+        },
+        {
+          "title": "De todas las flores",
+          "year": "2022",
+          "artist": "Natalia Lafourcade"
+        },
+        {
+          "title": "Magdalene",
+          "year": "2019",
+          "artist": "FKA Twigs"
+        },
+        {
+          "title": "Hounds of Love",
+          "year": "1985",
+          "artist": "Kate Bush"
+        },
+        {
+          "title": "Supreme Clientele",
+          "year": "2000",
+          "artist": "Ghostface Killah"
+        },
+        {
+          "title": "Bringing It All Back Home",
+          "year": "1965",
+          "artist": "Bob Dylan"
+        },
+        {
+          "title": "The Modern Dance",
+          "year": "1975",
+          "artist": "Pere Ubu"
+        },
+        {
+          "title": "7",
+          "year": "2018",
+          "artist": "Beach House"
+        },
+        {
+          "title": "Mercurial World",
+          "year": "2021",
+          "artist": "Magdalena Bay"
+        },
+        {
+          "title": "Compilation",
+          "year": "1986",
+          "artist": "The Clean"
+        },
+        {
+          "title": "SCARING THE HOES",
+          "year": "2023",
+          "artist": "JPEGMAFIA, Danny Brown"
+        },
+        {
+          "title": "Geogaddi",
+          "year": "2002",
+          "artist": "Boards of Canada"
+        },
+        {
+          "title": "Crossings",
+          "year": "1972",
+          "artist": "Herbie Hancock"
+        },
+        {
+          "title": "Perfect From Now On",
+          "year": "1997",
+          "artist": "Built to Spill"
+        },
+        {
+          "title": "Suave pendiente",
+          "year": "2022",
+          "artist": "Niños del Cerro"
+        },
+        {
+          "title": "Pulling Our Weight",
+          "year": "2003",
+          "artist": "The Radio Dept."
+        },
+        {
+          "title": "卵 (Tamago)",
+          "year": "2022",
+          "artist": "betcover!!"
+        },
+        {
+          "title": "Chairs Missing",
+          "year": "1978",
+          "artist": "Wire"
+        },
+        {
+          "title": "In Utero",
+          "year": "1993",
+          "artist": "Nirvana"
+        },
+        {
+          "title": "Before and After Science",
+          "year": "1977",
+          "artist": "Brian Eno"
+        },
+        {
+          "title": "무너지기 (Crumbling)",
+          "year": "2018",
+          "artist": "空中泥棒 (Mid-Air Thief)"
+        },
+        {
+          "title": "Cosmogramma",
+          "year": "2010",
+          "artist": "Flying Lotus"
+        },
+        {
+          "title": "Voodoo",
+          "year": "2000",
+          "artist": "D'Angelo"
+        },
+        {
+          "title": "XXX",
+          "year": "2011",
+          "artist": "Danny Brown"
+        },
+        {
+          "title": "Hejira",
+          "year": "1976",
+          "artist": "Joni Mitchell"
+        },
+        {
+          "title": "Permutation",
+          "year": "1998",
+          "artist": "Amon Tobin"
+        },
+        {
+          "title": "Venus in Cancer",
+          "year": "1969",
+          "artist": "Robbie Basho"
+        }
+      ]
+    },
+    {
+      "score": 7.5,
+      "entries": [
+        {
+          "title": "Kind of Blue",
+          "year": "1959",
+          "artist": "Miles Davis"
+        },
+        {
+          "title": "After the Gold Rush",
+          "year": "1970",
+          "artist": "Neil Young"
+        },
+        {
+          "title": "Blowout Comb",
+          "year": "1994",
+          "artist": "Digable Planets"
+        },
+        {
+          "title": "The War Report",
+          "year": "1997",
+          "artist": "Capone-n-Noreaga"
+        },
+        {
+          "title": "Out of Season",
+          "year": "2002",
+          "artist": "Beth Gibbons & Rustin Man"
+        },
+        {
+          "title": "Let God Sort Em Out",
+          "year": "2025",
+          "artist": "Clipse"
+        },
+        {
+          "title": "Atrocity Exhibition",
+          "year": "2016",
+          "artist": "Danny Brown"
+        },
+        {
+          "title": "You're Dead!",
+          "year": "2014",
+          "artist": "Flying Lotus"
+        },
+        {
+          "title": "Blue Afternoon",
+          "year": "1969",
+          "artist": "Tim Buckley"
+        },
+        {
+          "title": "The Campfire Headphase",
+          "year": "2005",
+          "artist": "Boards of Canada"
+        },
+        {
+          "title": "Repetition",
+          "year": "1996",
+          "artist": "Unwound"
+        },
+        {
+          "title": "brat",
+          "year": "2024",
+          "artist": "Charli xcx"
+        },
+        {
+          "title": "Aquemini",
+          "year": "1998",
+          "artist": "OutKast"
+        },
+        {
+          "title": "Sonatine",
+          "year": "2015",
+          "artist": "Telstar Drugs"
+        },
+        {
+          "title": "Rossz csillag alatt született",
+          "year": "2005",
+          "artist": "Venetian Snares"
+        },
+        {
+          "title": "The Double EP: A Sea of Split Peas",
+          "year": "2013",
+          "artist": "Courtney Barnett"
+        },
+        {
+          "title": "A Piece of Strange",
+          "year": "2005",
+          "artist": "CunninLynguists"
+        },
+        {
+          "title": "how i'm feeling now",
+          "year": "2020",
+          "artist": "Charli xcx"
+        },
+        {
+          "title": "Happier Than Ever",
+          "year": "2021",
+          "artist": "Billie Eilish"
+        },
+        {
+          "title": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+          "year": "2015",
+          "artist": "Courtney Barnett"
+        },
+        {
+          "title": "Kakashi",
+          "year": "1982",
+          "artist": "Yasuaki Shimizu"
+        },
+        {
+          "title": "A Tiny House, In Secret Speeches, Polar Equals",
+          "year": "2021",
+          "artist": "Sweet Trip"
+        },
+        {
+          "title": "Souvlaki",
+          "year": "1993",
+          "artist": "Slowdive"
+        },
+        {
+          "title": "Viet Cong",
+          "year": "2015",
+          "artist": "Preoccupations"
+        },
+        {
+          "title": "Slates",
+          "year": "1981",
+          "artist": "The Fall"
+        },
+        {
+          "title": "Hard to Earn",
+          "year": "1994",
+          "artist": "Gang Starr"
+        },
+        {
+          "title": "La buona novella",
+          "year": "1970",
+          "artist": "Fabrizio De André"
+        },
+        {
+          "title": "qp",
+          "year": "2018",
+          "artist": "Ichiko Aoba"
+        },
+        {
+          "title": "Piñata",
+          "year": "2014",
+          "artist": "Freddie Gibbs & Madlib"
+        },
+        {
+          "title": "Just For A Day",
+          "year": "1991",
+          "artist": "Slowdive"
+        },
+        {
+          "title": "The Queen is Dead",
+          "year": "1986",
+          "artist": "The Smiths"
+        },
+        {
+          "title": "Revolutionary Vol. 2",
+          "year": "2003",
+          "artist": "Immortal Technique"
+        },
+        {
+          "title": "Here Come the Warm Jets",
+          "year": "1974",
+          "artist": "Brian Eno"
+        },
+        {
+          "title": "Axis: Bold As Love",
+          "year": "1967",
+          "artist": "The Jimi Hendrix Experience"
+        },
+        {
+          "title": "Minecraft - Volume Alpha",
+          "year": "2011",
+          "artist": "C418"
+        },
+        {
+          "title": "Wicked City",
+          "year": "2020",
+          "artist": "Jockstrap"
+        },
+        {
+          "title": "Sometimes I Might Be Introvert",
+          "year": "2021",
+          "artist": "Little Simz"
+        },
+        {
+          "title": "Dirty Acres",
+          "year": "2007",
+          "artist": "CunninLynguists"
+        },
+        {
+          "title": "Siamese Dream",
+          "year": "1993",
+          "artist": "The Smashing Pumpkins"
+        },
+        {
+          "title": "Homogenic",
+          "year": "1997",
+          "artist": "Björk"
+        },
+        {
+          "title": "Songs in the Key of Life",
+          "year": "1976",
+          "artist": "Stevie Wonder"
+        },
+        {
+          "title": "The Life of Pablo",
+          "year": "2016",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "Hosianna Mantra",
+          "year": "1972",
+          "artist": "Popol Vuh"
+        },
+        {
+          "title": "Black Messiah",
+          "year": "2014",
+          "artist": "D'Angelo and the Vanguard"
+        },
+        {
+          "title": "Gunfighter Ballad and Trail Songs",
+          "year": "1959",
+          "artist": "Marty Robbins"
+        },
+        {
+          "title": "L'Amour",
+          "year": "1983",
+          "artist": "Lewis"
+        },
+        {
+          "title": "Fulfillingness' First Finale",
+          "year": "1974",
+          "artist": "Stevie Wonder"
+        },
+        {
+          "title": "Colour Green",
+          "year": "2006",
+          "artist": "Sibylle Baier"
+        },
+        {
+          "title": "Whole Lotta Red",
+          "year": "2020",
+          "artist": "Playboi Carti"
+        },
+        {
+          "title": "Transformer",
+          "year": "1972",
+          "artist": "Lou Reed"
+        },
+        {
+          "title": "Blonde",
+          "year": "2016",
+          "artist": "Frank Ocean"
+        },
+        {
+          "title": "Crooked Rain, Crooked Rain",
+          "year": "1994",
+          "artist": "Pavement"
+        },
+        {
+          "title": "I, Jonathan",
+          "year": "1992",
+          "artist": "Jonathan Richman"
+        },
+        {
+          "title": "The Modern Lovers",
+          "year": "1976",
+          "artist": "The Modern Lovers"
+        },
+        {
+          "title": "Straight Outta Compton",
+          "year": "1988",
+          "artist": "N.W.A"
+        },
+        {
+          "title": "Illinois",
+          "year": "2005",
+          "artist": "Sufjan Stevens"
+        },
+        {
+          "title": "Hérésie",
+          "year": "1979",
+          "artist": "Univers Zéro"
+        },
+        {
+          "title": "Doolittle",
+          "year": "1988",
+          "artist": "Pixies"
+        },
+        {
+          "title": "The Madcap Laughs",
+          "year": "1970",
+          "artist": "Syd Barrett"
+        },
+        {
+          "title": "Barrett",
+          "year": "1970",
+          "artist": "Syd Barrett"
+        },
+        {
+          "title": "dont smile at me",
+          "year": "2017",
+          "artist": "Billie Eilish"
+        },
+        {
+          "title": "Third",
+          "year": "1969",
+          "artist": "Soft Machine"
+        },
+        {
+          "title": "Strawberry Jam",
+          "year": "2007",
+          "artist": "Animal Collective"
+        },
+        {
+          "title": "Red",
+          "year": "1974",
+          "artist": "King Crimson"
+        },
+        {
+          "title": "Sunflower",
+          "year": "1970",
+          "artist": "The Beach Boys"
+        },
+        {
+          "title": "Late Registration",
+          "year": "2005",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "Punisher",
+          "year": "2020",
+          "artist": "Phoebe Bridgers"
+        },
+        {
+          "title": "Triple Seven",
+          "year": "2024",
+          "artist": "Wishy"
+        },
+        {
+          "title": "Lianne La Havas",
+          "year": "2020",
+          "artist": "Lianne La Havas"
+        },
+        {
+          "title": "Blue Scholars",
+          "year": "2004",
+          "artist": "Blue Scholars"
+        },
+        {
+          "title": "Odessey and Oracle",
+          "year": "1968",
+          "artist": "The Zombies"
+        },
+        {
+          "title": "Out of Season",
+          "year": "2002",
+          "artist": "Beth Gibbons & Rhinestone"
+        },
+        {
+          "title": "Wish You Were Here",
+          "year": "1975",
+          "artist": "Pink Floyd"
+        },
+        {
+          "title": "Kids See Ghosts",
+          "year": "2018",
+          "artist": "Kids See Ghosts"
+        },
+        {
+          "title": "John Prine",
+          "year": "1970",
+          "artist": "John Prine"
+        },
+        {
+          "title": "Missions of Burma",
+          "year": "1981",
+          "artist": "Signals, Calls, and Marches"
+        },
+        {
+          "title": "Fearless",
+          "year": "2008",
+          "artist": "Taylor Swift"
+        },
+        {
+          "title": "Kid A",
+          "year": "2001",
+          "artist": "Radiohead"
+        },
+        {
+          "title": "White Album",
+          "year": "1968",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Funeral",
+          "year": "2004",
+          "artist": "Arcade Fire"
+        },
+        {
+          "title": "Wrath of the Math",
+          "year": "1996",
+          "artist": "Jeru the Damaja"
+        },
+        {
+          "title": "Blackstar",
+          "year": "2016",
+          "artist": "David Bowie"
+        },
+        {
+          "title": "Fear of Music",
+          "year": "1979",
+          "artist": "Talking Heads"
+        },
+        {
+          "title": "Magical Mystery Tour",
+          "year": "1967",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Bryter Layter",
+          "year": "1970",
+          "artist": "Nick Drake"
+        },
+        {
+          "title": "Daydream Nation",
+          "year": "1988",
+          "artist": "Sonic Youth"
+        },
+        {
+          "title": "I Sing the Body Electric",
+          "year": "1972",
+          "artist": "Weather Report"
+        },
+        {
+          "title": "I Talk with the Spirits",
+          "year": "1965",
+          "artist": "Rahsaan Roland Kirk"
+        },
+        {
+          "title": "Miss Behaves",
+          "year": "2024",
+          "artist": "Cece Natalie"
+        },
+        {
+          "title": "Desertshore",
+          "year": "1970",
+          "artist": "Nico"
+        },
+        {
+          "title": "The Outside Room",
+          "year": "2011",
+          "artist": "Weyes Blood"
+        },
+        {
+          "title": "I Could Live in Hope",
+          "year": "1994",
+          "artist": "Low"
+        },
+        {
+          "title": "Sister",
+          "year": "1987",
+          "artist": "Sonic Youth"
+        },
+        {
+          "title": "Word...Life",
+          "year": "1994",
+          "artist": "O.C."
+        },
+        {
+          "title": "Duster",
+          "year": "2019",
+          "artist": "Duster"
+        },
+        {
+          "title": "Hell Hath No Fury",
+          "year": "2006",
+          "artist": "Clipse"
+        },
+        {
+          "title": "American Don",
+          "year": "2000",
+          "artist": "Don Caballero"
+        },
+        {
+          "title": "Climate of Hunter",
+          "year": "1969",
+          "artist": "Scott Walker"
+        },
+        {
+          "title": "1000 gecs",
+          "year": "2019",
+          "artist": "100 gecs"
+        },
+        {
+          "title": "The Bed Is In The Ocean",
+          "year": "1998",
+          "artist": "Karate"
+        },
+        {
+          "title": "Swordfishtrombones",
+          "year": "1983",
+          "artist": "Tom Waits"
+        },
+        {
+          "title": "時間 (Jikan)",
+          "year": "2021",
+          "artist": "betcover!!"
+        },
+        {
+          "title": "Horizon",
+          "year": "1980",
+          "artist": "McCoy Tyner"
+        },
+        {
+          "title": "Songs About My Cats",
+          "year": "2001",
+          "artist": "Venetian Snares"
+        },
+        {
+          "title": "Is This It",
+          "year": "2001",
+          "artist": "The Strokes"
+        },
+        {
+          "title": "SINNER GET READY",
+          "year": "2021",
+          "artist": "Lingua Ignota"
+        },
+        {
+          "title": "Faust",
+          "year": "1971",
+          "artist": "Faust"
+        },
+        {
+          "title": "Future Days",
+          "year": "1973",
+          "artist": "Can"
+        },
+        {
+          "title": "I'm Still in Love With You",
+          "year": "1972",
+          "artist": "Al Green"
+        },
+        {
+          "title": "Repeater",
+          "year": "1990",
+          "artist": "Fugazi"
+        },
+        {
+          "title": "Like Water for Chocolate",
+          "year": "2000",
+          "artist": "Common"
+        },
+        {
+          "title": "It's a Wonderful Life",
+          "year": "2001",
+          "artist": "Sparklehorse"
+        },
+        {
+          "title": "The Glow Pt. 2",
+          "year": "2001",
+          "artist": "The Microphones"
+        },
+        {
+          "title": "Lorca",
+          "year": "1970",
+          "artist": "Tim Buckley"
+        },
+        {
+          "title": "Rain Dogs",
+          "year": "1985",
+          "artist": "Tom Waits"
+        },
+        {
+          "title": "Double Negative",
+          "year": "2018",
+          "artist": "Low"
+        },
+        {
+          "title": "Hiding Places",
+          "year": "2019",
+          "artist": "billy woods, Kenny Segal"
+        },
+        {
+          "title": "Blues & Roots",
+          "year": "1960",
+          "artist": "Charles Mingus"
+        },
+        {
+          "title": "The Woods",
+          "year": "2005",
+          "artist": "Sleater-Kinney"
+        },
+        {
+          "title": "U.F.O.",
+          "year": "1969",
+          "artist": "Jim Sullivan"
+        },
+        {
+          "title": "Flood",
+          "year": "2000",
+          "artist": "Boris"
+        },
+        {
+          "title": "Cuba va! Songs of the New Generation of Revolutionary Cuba",
+          "year": "1971",
+          "artist": "Grupo de Experimentación Sonora del ICAIC"
+        },
+        {
+          "title": "Suicide",
+          "year": "1977",
+          "artist": "Suicide"
+        },
+        {
+          "title": "Frigid Stars LP",
+          "year": "1990",
+          "artist": "Codeine"
+        },
+        {
+          "title": "Music for Church Cleaners Vol. I and II",
+          "year": "2015",
+          "artist": "Áine O'Dwyer"
+        }
+      ]
+    },
+    {
+      "score": 7,
+      "entries": [
+        {
+          "title": "Timeless",
+          "year": "1975",
+          "artist": "John Abercrombie"
+        },
+        {
+          "title": "6 Feet Deep",
+          "year": "1994",
+          "artist": "Gravediggaz"
+        },
+        {
+          "title": "Fake Train",
+          "year": "1993",
+          "artist": "Unwound"
+        },
+        {
+          "title": "Superfly",
+          "year": "1972",
+          "artist": "Curtis Mayfield"
+        },
+        {
+          "title": "El jardín de los presentes",
+          "year": "1976",
+          "artist": "Invisible"
+        },
+        {
+          "title": "Turn On the Bright Lights",
+          "year": "2002",
+          "artist": "Interpol"
+        },
+        {
+          "title": "Pompeii",
+          "year": "2022",
+          "artist": "Cate Le Bon"
+        },
+        {
+          "title": "Let's Stay Together",
+          "year": "1972",
+          "artist": "Al Green"
+        },
+        {
+          "title": "Black Unity",
+          "year": "1972",
+          "artist": "Pharoah Sanders"
+        },
+        {
+          "title": "LP!",
+          "year": "2021",
+          "artist": "JPEGMAFIA"
+        },
+        {
+          "title": "Third",
+          "year": "2008",
+          "artist": "Portishead"
+        },
+        {
+          "title": "Only Built 4 Cuban Linx...",
+          "year": "1995",
+          "artist": "Raekwon"
+        },
+        {
+          "title": "Mr. Morale & The Big Steppers",
+          "year": "2022",
+          "artist": "Kendrick Lamar"
+        },
+        {
+          "title": "Bloom",
+          "year": "2012",
+          "artist": "Beach House"
+        },
+        {
+          "title": "Did you know that there's a tunnel under Ocean Blvd",
+          "year": "2023",
+          "artist": "Lana Del Rey"
+        },
+        {
+          "title": "Cavalcade",
+          "year": "2021",
+          "artist": "black midi"
+        },
+        {
+          "title": "Things We Lost in the Fire",
+          "year": "2001",
+          "artist": "Low"
+        },
+        {
+          "title": "Soundtracks for the Blind",
+          "year": "1996",
+          "artist": "Swans"
+        },
+        {
+          "title": "Solid Air",
+          "year": "1973",
+          "artist": "John Martyn"
+        },
+        {
+          "title": "Bandana",
+          "year": "2019",
+          "artist": "Freddie Gibbs & Madlib"
+        },
+        {
+          "title": "Oneirology",
+          "year": "2011",
+          "artist": "CunninLynguists"
+        },
+        {
+          "title": "The Sun Rises in the East",
+          "year": "1994",
+          "artist": "Jeru the Damaja"
+        },
+        {
+          "title": "WhatFunLifeWas",
+          "year": "1993",
+          "artist": "Bedhead"
+        },
+        {
+          "title": "Return",
+          "year": "2022",
+          "artist": "deathcrash"
+        },
+        {
+          "title": "Scott",
+          "year": "1967",
+          "artist": "Scott Walker"
+        },
+        {
+          "title": "What Burns Never Returns",
+          "year": "1998",
+          "artist": "Don Caballero"
+        },
+        {
+          "title": "Donda",
+          "year": "2021",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "Mystic Styles",
+          "year": "1995",
+          "artist": "Three 6 Mafia"
+        },
+        {
+          "title": "Twin Fantasy",
+          "year": "2018",
+          "artist": "Car Seat Headrest"
+        },
+        {
+          "title": "Real Life",
+          "year": "1978",
+          "artist": "Magazine"
+        },
+        {
+          "title": "Low",
+          "year": "1977",
+          "artist": "David Bowie"
+        },
+        {
+          "title": "Toxicity",
+          "year": "2001",
+          "artist": "System of a Down"
+        },
+        {
+          "title": "Mother Earth's Plantasia",
+          "year": "1976",
+          "artist": "Mort Garson"
+        },
+        {
+          "title": "You Forgot It in People",
+          "year": "2002",
+          "artist": "Broken Social Scene"
+        },
+        {
+          "title": "If You're Feeling Sinister",
+          "year": "1996",
+          "artist": "Belle and Sebastian"
+        },
+        {
+          "title": "So Tonight That I Might See",
+          "year": "1993",
+          "artist": "Mazzy Star"
+        },
+        {
+          "title": "The Mollusk",
+          "year": "1997",
+          "artist": "Ween"
+        },
+        {
+          "title": "RTJ4",
+          "year": "2020",
+          "artist": "Run the Jewels"
+        },
+        {
+          "title": "Skylarking",
+          "year": "1985",
+          "artist": "XTC"
+        },
+        {
+          "title": "Today's Active Lifestyles",
+          "year": "1993",
+          "artist": "Polvo"
+        },
+        {
+          "title": "Sound of Silver",
+          "year": "2007",
+          "artist": "LCD Soundsystem"
+        },
+        {
+          "title": "1990",
+          "year": "1990",
+          "artist": "Daniel Johnston"
+        },
+        {
+          "title": "Chromakopia",
+          "year": "2024",
+          "artist": "Tyler, the Creator"
+        },
+        {
+          "title": "The Age of Adz",
+          "year": "2010",
+          "artist": "Sufjan Stevens"
+        },
+        {
+          "title": "Minas",
+          "year": "1975",
+          "artist": "Milton Nascimento"
+        },
+        {
+          "title": "Meddle",
+          "year": "1971",
+          "artist": "Pink Floyd"
+        },
+        {
+          "title": "Getz/Gilberto",
+          "year": "1964",
+          "artist": "Stan Getz, João Gilberto"
+        },
+        {
+          "title": "Station to Station",
+          "year": "1976",
+          "artist": "David Bowie"
+        },
+        {
+          "title": "Die Mensch-Maschine",
+          "year": "1978",
+          "artist": "Kraftwerk"
+        },
+        {
+          "title": "Music From Patch Cord Productions",
+          "year": "2020",
+          "artist": "Mort Garson"
+        },
+        {
+          "title": "The Flowers of Romance",
+          "year": "1981",
+          "artist": "Public Image Ltd."
+        },
+        {
+          "title": "On the Beach",
+          "year": "1974",
+          "artist": "Neil Young"
+        },
+        {
+          "title": "For the first time",
+          "year": "2021",
+          "artist": "Black Country, New Road"
+        },
+        {
+          "title": "Bury Me at Makeout Creek",
+          "year": "2014",
+          "artist": "Mitski"
+        },
+        {
+          "title": "Deathconsciousness",
+          "year": "2008",
+          "artist": "Have a Nice Life"
+        },
+        {
+          "title": "To Be Kind",
+          "year": "2014",
+          "artist": "Swans"
+        },
+        {
+          "title": "CALL ME IF YOU GET LOST",
+          "year": "2021",
+          "artist": "Tyler, the Creator"
+        },
+        {
+          "title": "Zen Arcade",
+          "year": "1984",
+          "artist": "Hüsker Dü"
+        },
+        {
+          "title": "Hope",
+          "year": "1994",
+          "artist": "Hugh Masekela"
+        },
+        {
+          "title": "Aja",
+          "year": "1977",
+          "artist": "Steely Dan"
+        },
+        {
+          "title": "Flying Microtonal Banana",
+          "year": "2017",
+          "artist": "King Gizzard & The Lizard Wizard"
+        },
+        {
+          "title": "Yeezus",
+          "year": "2013",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "ATLiens",
+          "year": "1996",
+          "artist": "OutKast"
+        },
+        {
+          "title": "Lanquidity",
+          "year": "1978",
+          "artist": "Sun Ra"
+        },
+        {
+          "title": "1989",
+          "year": "2014",
+          "artist": "Taylor Swift"
+        },
+        {
+          "title": "All Mirrors",
+          "year": "2019",
+          "artist": "Angel Olsen"
+        },
+        {
+          "title": "Pornography",
+          "year": "1982",
+          "artist": "The Cure"
+        },
+        {
+          "title": "Clinging to a Scheme",
+          "year": "2010",
+          "artist": "The Radio Dept."
+        },
+        {
+          "title": "Lahko sem glinena mesojedka (I Can Be a Clay Snapper)",
+          "year": "2017",
+          "artist": "Širom"
+        },
+        {
+          "title": "American Idiot",
+          "year": "2004",
+          "artist": "Green Day"
+        },
+        {
+          "title": "Richard D. James Album",
+          "year": "1996",
+          "artist": "Aphex Twin"
+        },
+        {
+          "title": "Die Lit",
+          "year": "2018",
+          "artist": "Playboi Carti"
+        },
+        {
+          "title": "Paris 1919",
+          "year": "1973",
+          "artist": "John Cale"
+        },
+        {
+          "title": "Things Take Time, Take Time",
+          "year": "2021",
+          "artist": "Courtney Barnett"
+        },
+        {
+          "title": "Liberation Music Orchestra",
+          "year": "1970",
+          "artist": "Charlie Haden"
+        },
+        {
+          "title": "Antics",
+          "year": "2004",
+          "artist": "Interpol"
+        },
+        {
+          "title": "Face Stabber",
+          "year": "2019",
+          "artist": "Thee Oh Sees"
+        },
+        {
+          "title": "The Wall",
+          "year": "1979",
+          "artist": "Pink Floyd"
+        },
+        {
+          "title": "Parabelo",
+          "year": "1997",
+          "artist": "Tom Zé, José Miguel Wisnik"
+        },
+        {
+          "title": "Ege Bamyasi",
+          "year": "1972",
+          "artist": "Can"
+        },
+        {
+          "title": "Chelsea Girl",
+          "year": "1967",
+          "artist": "Nico"
+        },
+        {
+          "title": "Songs From the Big Chair",
+          "year": "1985",
+          "artist": "Tears for Fears"
+        },
+        {
+          "title": "Tago Mago",
+          "year": "1971",
+          "artist": "Can"
+        },
+        {
+          "title": "Ride the Lightning",
+          "year": "1984",
+          "artist": "Metallica"
+        },
+        {
+          "title": "Caligula",
+          "year": "2019",
+          "artist": "Lingua Ignota"
+        },
+        {
+          "title": "In the Flat Field",
+          "year": "1980",
+          "artist": "Bauhaus"
+        },
+        {
+          "title": "Help!",
+          "year": "1965",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Guitar Songs",
+          "year": "2022",
+          "artist": "Billie Eilish"
+        },
+        {
+          "title": "Space Is the Place",
+          "year": "1973",
+          "artist": "Sun Ra"
+        },
+        {
+          "title": "Return",
+          "year": "2022",
+          "artist": "Low"
+        },
+        {
+          "title": "Teens of Denial",
+          "year": "2016",
+          "artist": "Car Seat Headrest"
+        },
+        {
+          "title": "caroline",
+          "year": "2022",
+          "artist": "caroline"
+        },
+        {
+          "title": "かがやき (Kagayaki)",
+          "year": "2014",
+          "artist": "Masakatsu Takagi"
+        },
+        {
+          "title": "The New Abnormal",
+          "year": "2020",
+          "artist": "The Strokes"
+        },
+        {
+          "title": "U.F.O.F",
+          "year": "2019",
+          "artist": "Big Thief"
+        },
+        {
+          "title": "Paranoid",
+          "year": "1970",
+          "artist": "Black Sabbath"
+        },
+        {
+          "title": "Lonerism",
+          "year": "2012",
+          "artist": "Tame Impala"
+        },
+        {
+          "title": "The Dark Side of the Moon",
+          "year": "1973",
+          "artist": "Pink Floyd"
+        },
+        {
+          "title": "Graduation",
+          "year": "2007",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "Lover",
+          "year": "2019",
+          "artist": "Taylor Swift"
+        },
+        {
+          "title": "Oracular Spectacular",
+          "year": "2007",
+          "artist": "MGMT"
+        },
+        {
+          "title": "\"Heroes\"",
+          "year": "1977",
+          "artist": "David Bowie"
+        },
+        {
+          "title": "Aaliyah",
+          "year": "2001",
+          "artist": "Aaliyah"
+        },
+        {
+          "title": "Atomizer",
+          "year": "1985",
+          "artist": "Big Black"
+        },
+        {
+          "title": "Close to the Edge",
+          "year": "1972",
+          "artist": "Yes"
+        },
+        {
+          "title": "Ágætis byrjun",
+          "year": "1999",
+          "artist": "Sigur Rós"
+        },
+        {
+          "title": "The ArchAndroid",
+          "year": "2010",
+          "artist": "Janelle Monáe"
+        },
+        {
+          "title": "Power Corruption and Lies",
+          "year": "1983",
+          "artist": "New Order"
+        },
+        {
+          "title": "Jesus is Born",
+          "year": "2019",
+          "artist": "Sunday Service Choir"
+        },
+        {
+          "title": "Goodbye and Hello",
+          "year": "1967",
+          "artist": "Tim Buckley"
+        },
+        {
+          "title": "Two Star & the Dream Police",
+          "year": "2024",
+          "artist": "Mk.gee"
+        },
+        {
+          "title": "The Stranger",
+          "year": "1977",
+          "artist": "Billy Joel"
+        },
+        {
+          "title": "The Hurting",
+          "year": "1983",
+          "artist": "Tears for Fears"
+        },
+        {
+          "title": "James Blake",
+          "year": "2011",
+          "artist": "James Blake"
+        },
+        {
+          "title": "Folklore",
+          "year": "2020",
+          "artist": "Taylor Swift"
+        },
+        {
+          "title": "Surf's Up",
+          "year": "1971",
+          "artist": "The Beach Boys"
+        },
+        {
+          "title": "Good News for People Who Love Bad News",
+          "year": "2004",
+          "artist": "Modest Mouse"
+        },
+        {
+          "title": "Good",
+          "year": "1992",
+          "artist": "Morphine"
+        },
+        {
+          "title": "Samba esquema novo",
+          "year": "1963",
+          "artist": "Jorge Ben"
+        },
+        {
+          "title": "0",
+          "year": "2013",
+          "artist": "Ichiko Aoba"
+        },
+        {
+          "title": "The Bends",
+          "year": "1995",
+          "artist": "Radiohead"
+        },
+        {
+          "title": "New Amerykah Part One: 4th World War",
+          "year": "2008",
+          "artist": "Erykah Badu"
+        },
+        {
+          "title": "Isn't Anything",
+          "year": "1988",
+          "artist": "My Bloody Valentine"
+        },
+        {
+          "title": "Let Love In",
+          "year": "1994",
+          "artist": "Nick Cave & The Bad Seeds"
+        },
+        {
+          "title": "The Kinks are the Village Green Preservation Society",
+          "year": "1968",
+          "artist": "The Kinks"
+        }
+      ]
+    },
+    {
+      "score": 6.5,
+      "entries": [
+        {
+          "title": "Blue Lines",
+          "year": "1991",
+          "artist": "Massive Attack"
+        },
+        {
+          "title": "DAMN.",
+          "year": "2017",
+          "artist": "Kendrick Lamar"
+        },
+        {
+          "title": "This Is My Country",
+          "year": "1968",
+          "artist": "The Impressions"
+        },
+        {
+          "title": "From Filthy Tongues of Gods and Griots",
+          "year": "2002",
+          "artist": "Dälek"
+        },
+        {
+          "title": "Harvest",
+          "year": "1972",
+          "artist": "Neil Young"
+        },
+        {
+          "title": "Never Mind the Bollocks Here's the Sex Pistols",
+          "year": "1977",
+          "artist": "Sex Pistols"
+        },
+        {
+          "title": "Teen Dream",
+          "year": "2010",
+          "artist": "Beach House"
+        },
+        {
+          "title": "No NOW",
+          "year": "2015",
+          "artist": "Clarence Clarity"
+        },
+        {
+          "title": "The Holy Bible",
+          "year": "1994",
+          "artist": "Manic Street Preachers"
+        },
+        {
+          "title": "Bocanada",
+          "year": "1999",
+          "artist": "Gustavo Cerati"
+        },
+        {
+          "title": "Hot Rats",
+          "year": "1969",
+          "artist": "Frank Zappa"
+        },
+        {
+          "title": "Folksongs and Instrumentals With Guitar",
+          "year": "1958",
+          "artist": "Elizabeth Cotten"
+        },
+        {
+          "title": "Ангедония",
+          "year": "1989",
+          "artist": "Yanka"
+        },
+        {
+          "title": "A Night at the Opera",
+          "year": "1975",
+          "artist": "Queen"
+        },
+        {
+          "title": "Portishead",
+          "year": "1997",
+          "artist": "Portishead"
+        },
+        {
+          "title": "Never for Ever",
+          "year": "1980",
+          "artist": "Kate Bush"
+        },
+        {
+          "title": "...In \"Jane From Occupied Europe\"",
+          "year": "1980",
+          "artist": "Swell Maps"
+        },
+        {
+          "title": "Entertainment!",
+          "year": "1979",
+          "artist": "Gang of Four"
+        },
+        {
+          "title": "History of Heat",
+          "year": "2019",
+          "artist": "Sadaf"
+        },
+        {
+          "title": "Hi, How Are You",
+          "year": "1983",
+          "artist": "Daniel Johnston"
+        },
+        {
+          "title": "By the Time I Get to Phoenix",
+          "year": "2021",
+          "artist": "Injury Reserve"
+        },
+        {
+          "title": "Bachelor No. 2 (Or, the Last Remains of the Dodo)",
+          "year": "2000",
+          "artist": "Aimee Mann"
+        },
+        {
+          "title": "melanchole",
+          "year": "2013",
+          "artist": "salvia palth"
+        },
+        {
+          "title": "Arbour Zena",
+          "year": "1976",
+          "artist": "Keith Jarret"
+        },
+        {
+          "title": "Dragging a Dead Deer Up a Hill",
+          "year": "2008",
+          "artist": "Grouper"
+        },
+        {
+          "title": "空中キャンプ (Kūchū Camp)",
+          "year": "1996",
+          "artist": "Fishmans"
+        },
+        {
+          "title": "Everything That Happens Will Happen Today",
+          "year": "2008",
+          "artist": "David Byrne & Brian Eno"
+        },
+        {
+          "title": "Band on the Run",
+          "year": "1973",
+          "artist": "Paul McCartney and Wings"
+        },
+        {
+          "title": "A Crow Looked at Me",
+          "year": "2017",
+          "artist": "Mount Eerie"
+        },
+        {
+          "title": "Nonagon Infinity",
+          "year": "2016",
+          "artist": "King Gizzard & The Lizard Wizard"
+        },
+        {
+          "title": "Lateralus",
+          "year": "2001",
+          "artist": "Tool"
+        },
+        {
+          "title": "Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed!",
+          "year": "2016",
+          "artist": "Various Artists"
+        },
+        {
+          "title": "Sketches of Spain",
+          "year": "1960",
+          "artist": "Miles Davis"
+        },
+        {
+          "title": "Pastel Blues",
+          "year": "1965",
+          "artist": "Nina Simone"
+        },
+        {
+          "title": "The Miseducation of Lauryn Hill",
+          "year": "1998",
+          "artist": "Lauryn Hill"
+        },
+        {
+          "title": "Songs of a Lost World",
+          "year": "1982",
+          "artist": "The Cure"
+        },
+        {
+          "title": "The United States of America",
+          "year": "1968",
+          "artist": "The United States of America"
+        },
+        {
+          "title": "The Turning Wheel",
+          "year": "2021",
+          "artist": "Spellling"
+        },
+        {
+          "title": "Who's next",
+          "year": "1971",
+          "artist": "The Who"
+        },
+        {
+          "title": "Ants From Up There",
+          "year": "2022",
+          "artist": "Black Country, New Road"
+        },
+        {
+          "title": "I'm Wide Awake, It's Morning",
+          "year": "2005",
+          "artist": "Bright Eyes"
+        },
+        {
+          "title": "Mogwai Young Team",
+          "year": "1997",
+          "artist": "Mogwai"
+        },
+        {
+          "title": "Pink",
+          "year": "2006",
+          "artist": "Boris"
+        },
+        {
+          "title": "Halcyon Digest",
+          "year": "2010",
+          "artist": "Deerhunter"
+        },
+        {
+          "title": "Sun's Signature",
+          "year": "2022",
+          "artist": "Sun's Signature"
+        },
+        {
+          "title": "Meet The Residents",
+          "year": "1973",
+          "artist": "The Residents"
+        },
+        {
+          "title": "Time Out",
+          "year": "1959",
+          "artist": "Dave Brubeck"
+        },
+        {
+          "title": "The Meadowlands",
+          "year": "2003",
+          "artist": "The Wrens"
+        },
+        {
+          "title": "Loud City Song",
+          "year": "2013",
+          "artist": "Julia Holter"
+        },
+        {
+          "title": "L.A. Woman",
+          "year": "1971",
+          "artist": "The Doors"
+        },
+        {
+          "title": "Meet The Beatles!",
+          "year": "1964",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Renaissance",
+          "year": "2022",
+          "artist": "Beyonce"
+        },
+        {
+          "title": "food house",
+          "year": "2020",
+          "artist": "food house"
+        },
+        {
+          "title": "Tim Buckley",
+          "year": "1966",
+          "artist": "Tim Buckley"
+        },
+        {
+          "title": "The Chronic",
+          "year": "1992",
+          "artist": "Dr. Dre"
+        },
+        {
+          "title": "HEY WHAT",
+          "year": "2021",
+          "artist": "Low"
+        },
+        {
+          "title": "Jubilee",
+          "year": "2021",
+          "artist": "Japanese Breakfast"
+        },
+        {
+          "title": "Neō Wax Bloom",
+          "year": "2017",
+          "artist": "Iglooghost"
+        },
+        {
+          "title": "Court and Spark",
+          "year": "1974",
+          "artist": "Joni Mitchell"
+        },
+        {
+          "title": "Song of Innocence",
+          "year": "1968",
+          "artist": "David Axelrod"
+        },
+        {
+          "title": "Come In",
+          "year": "2019",
+          "artist": "Weatherday"
+        },
+        {
+          "title": "Return of the Boom Bap",
+          "year": "1993",
+          "artist": "KRS-One"
+        },
+        {
+          "title": "An Awesome Wave",
+          "year": "2012",
+          "artist": "alt-J"
+        },
+        {
+          "title": "Waiting for the Sun",
+          "year": "1968",
+          "artist": "The Doors"
+        },
+        {
+          "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+          "year": "1972",
+          "artist": "David Bowie"
+        },
+        {
+          "title": "Feed Me With Your Kiss",
+          "year": "1988",
+          "artist": "My Bloody Valentine"
+        },
+        {
+          "title": "Greetings From L.A.",
+          "year": "1972",
+          "artist": "Tim Buckley"
+        },
+        {
+          "title": "Tracy Chapman",
+          "year": "1988",
+          "artist": "Tracy Chapman"
+        },
+        {
+          "title": "All Things Must Pass",
+          "year": "1970",
+          "artist": "George Harrison"
+        },
+        {
+          "title": "Jesus is King",
+          "year": "2019",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "London Calling",
+          "year": "1979",
+          "artist": "The Clash"
+        },
+        {
+          "title": "Bright Size Life",
+          "year": "1976",
+          "artist": "Pat Metheny"
+        },
+        {
+          "title": "Making a Door Less Open",
+          "year": "2020",
+          "artist": "Car Seat Headrest"
+        },
+        {
+          "title": "Metallica",
+          "year": "1991",
+          "artist": "Metallica"
+        },
+        {
+          "title": "Chomp",
+          "year": "1983",
+          "artist": "Pylon"
+        },
+        {
+          "title": "Amnesiac",
+          "year": "2001",
+          "artist": "Radiohead"
+        },
+        {
+          "title": "What's Your Pleasure?",
+          "year": "2020",
+          "artist": "Jessie Ware"
+        },
+        {
+          "title": "Ram",
+          "year": "1971",
+          "artist": "Paul McCartney"
+        },
+        {
+          "title": "Arbour Zena",
+          "year": "1976",
+          "artist": "Keith Jarrett"
+        },
+        {
+          "title": "Dua Lipa",
+          "year": "2017",
+          "artist": "Dua Lipa"
+        },
+        {
+          "title": "American Beauty / American Psycho",
+          "year": "2015",
+          "artist": "Fall Out Boy"
+        },
+        {
+          "title": "Yankee Hotel Foxtrot",
+          "year": "2002",
+          "artist": "Wilco"
+        },
+        {
+          "title": "My Everything",
+          "year": "2014",
+          "artist": "Ariana Grande"
+        },
+        {
+          "title": "Nothing Was the Same",
+          "year": "2013",
+          "artist": "Drake"
+        },
+        {
+          "title": "The Three E.P.'s",
+          "year": "1998",
+          "artist": "The Beta Band"
+        },
+        {
+          "title": "Gallarais",
+          "year": "2017",
+          "artist": "Áine O'Dwyer"
+        },
+        {
+          "title": "Shore",
+          "year": "2020",
+          "artist": "Fleet Foxes"
+        },
+        {
+          "title": "Funhouse",
+          "year": "1970",
+          "artist": "The Stooges"
+        },
+        {
+          "title": "The Fame",
+          "year": "2008",
+          "artist": "Lady Gaga"
+        },
+        {
+          "title": "WORRY.",
+          "year": "2016",
+          "artist": "Jeff Rosenstock"
+        },
+        {
+          "title": "Doggystyle",
+          "year": "1993",
+          "artist": "Snoop Dogg"
+        }
+      ]
+    },
+    {
+      "score": 6,
+      "entries": [
+        {
+          "title": "Songs of Love and Hate",
+          "year": "1971",
+          "artist": "Leonard Cohen"
+        },
+        {
+          "title": "Nepenthe",
+          "year": "2013",
+          "artist": "Julianna Barwick"
+        },
+        {
+          "title": "SOUR",
+          "year": "2021",
+          "artist": "Olivia Rodrigo"
+        },
+        {
+          "title": "Moving Pictures",
+          "year": "1981",
+          "artist": "Rush"
+        },
+        {
+          "title": "The Curtain Hits the Cast",
+          "year": "1996",
+          "artist": "Low"
+        },
+        {
+          "title": "Disraeli Gears",
+          "year": "1967",
+          "artist": "Cream"
+        },
+        {
+          "title": "Hellfire",
+          "year": "2022",
+          "artist": "black midi"
+        },
+        {
+          "title": "Contemporary Movement",
+          "year": "2019",
+          "artist": "Duster"
+        },
+        {
+          "title": "Forever Changes",
+          "year": "1967",
+          "artist": "Love"
+        },
+        {
+          "title": "Ten",
+          "year": "1991",
+          "artist": "Pearl Jam"
+        },
+        {
+          "title": "Plastic Hearts",
+          "year": "2020",
+          "artist": "Miley Cyrus"
+        },
+        {
+          "title": "148",
+          "year": "2015",
+          "artist": "C418"
+        },
+        {
+          "title": "God's Country",
+          "year": "2022",
+          "artist": "Chat Pile"
+        },
+        {
+          "title": "Schlagenheim",
+          "year": "2019",
+          "artist": "black midi"
+        },
+        {
+          "title": "Otis Blue: Otis Redding Sings Soul",
+          "year": "1965",
+          "artist": "Otis Redding"
+        },
+        {
+          "title": "Treasure",
+          "year": "1984",
+          "artist": "Cocteau Twins"
+        },
+        {
+          "title": "The Velvet Underground",
+          "year": "1969",
+          "artist": "The Velvet Underground"
+        },
+        {
+          "title": "I Took Up The Runes",
+          "year": "1990",
+          "artist": "Jan Garbarek"
+        },
+        {
+          "title": "Hot Buttered Soul",
+          "year": "1969",
+          "artist": "Isaac Hayes"
+        },
+        {
+          "title": "Closing Time",
+          "year": "1973",
+          "artist": "Tom Waits"
+        },
+        {
+          "title": "Departures",
+          "year": "2009",
+          "artist": "Message to Bears"
+        },
+        {
+          "title": "Automatic for the People",
+          "year": "1992",
+          "artist": "R.E.M."
+        },
+        {
+          "title": "Tea for the Tillerman",
+          "year": "1970",
+          "artist": "Cat Stevens"
+        },
+        {
+          "title": "Teaser and the Firecat",
+          "year": "1971",
+          "artist": "Cat Stevens"
+        },
+        {
+          "title": "Damaged",
+          "year": "1981",
+          "artist": "Black Flag"
+        },
+        {
+          "title": "Focal Point",
+          "year": "1976",
+          "artist": "McCoy Tyner"
+        },
+        {
+          "title": "The Slow Rush",
+          "year": "2020",
+          "artist": "Tame Impala"
+        },
+        {
+          "title": "GNX",
+          "year": "2024",
+          "artist": "Kendrick Lamar"
+        },
+        {
+          "title": "Nevermind",
+          "year": "1991",
+          "artist": "Nirvana"
+        },
+        {
+          "title": "To See the Next Part of the Dream",
+          "year": "2021",
+          "artist": "Parannoul"
+        },
+        {
+          "title": "Circles",
+          "year": "2020",
+          "artist": "Mac Miller"
+        },
+        {
+          "title": "Songs for the Deaf",
+          "year": "2002",
+          "artist": "Queens of the Stone Age"
+        },
+        {
+          "title": "Ladies and Gentlemen We Are Floating in Space",
+          "year": "1997",
+          "artist": "Spiritualized"
+        },
+        {
+          "title": "Demon Days",
+          "year": "2005",
+          "artist": "Gorillaz"
+        },
+        {
+          "title": "Bright Green Field",
+          "year": "2021",
+          "artist": "Squid"
+        },
+        {
+          "title": "Moondance",
+          "year": "1970",
+          "artist": "Van Morrison"
+        },
+        {
+          "title": "GLOW ON",
+          "year": "2021",
+          "artist": "Turnstile"
+        },
+        {
+          "title": "Diary",
+          "year": "1994",
+          "artist": "Sunny Day Real Estate"
+        },
+        {
+          "title": "Hospice",
+          "year": "2009",
+          "artist": "The Antlers"
+        },
+        {
+          "title": "Sunbather",
+          "year": "2013",
+          "artist": "Deafheaven"
+        },
+        {
+          "title": "If You're Into It, I'm Out of It",
+          "year": "1997",
+          "artist": "Christoph de Babalon"
+        },
+        {
+          "title": "Songs About Fucking",
+          "year": "1987",
+          "artist": "Big Black"
+        },
+        {
+          "title": "Black Metal",
+          "year": "2014",
+          "artist": "Dean Blunt"
+        },
+        {
+          "title": "Super Ape",
+          "year": "1976",
+          "artist": "The Upsetters"
+        },
+        {
+          "title": "An Evening With Silk Sonic",
+          "year": "2021",
+          "artist": "Silk Sonic"
+        },
+        {
+          "title": "Yoshimi Battles the Pink Robots",
+          "year": "2002",
+          "artist": "The Flaming Lips"
+        },
+        {
+          "title": "Puberty 2",
+          "year": "2016",
+          "artist": "Mitski"
+        },
+        {
+          "title": "Hunky Dory",
+          "year": "1971",
+          "artist": "David Bowie"
+        },
+        {
+          "title": "Spirit They're Gone, Spirit They've Vanished",
+          "year": "2000",
+          "artist": "Animal Collective"
+        },
+        {
+          "title": "Man on the Moon: The End of Day",
+          "year": "2009",
+          "artist": "Kid Cudi"
+        },
+        {
+          "title": "Gorillaz",
+          "year": "2001",
+          "artist": "Gorillaz"
+        },
+        {
+          "title": "Sports",
+          "year": "1983",
+          "artist": "Huey Lewis and the News"
+        },
+        {
+          "title": "Larks' Tongues in Aspic",
+          "year": "1973",
+          "artist": "King Crimson"
+        },
+        {
+          "title": "Lush",
+          "year": "2012",
+          "artist": "Mitski"
+        },
+        {
+          "title": "Silent Alarm",
+          "year": "2005",
+          "artist": "Bloc Party"
+        },
+        {
+          "title": "Thriller",
+          "year": "1982",
+          "artist": "Michael Jackson"
+        },
+        {
+          "title": "Dedicated Side B",
+          "year": "2020",
+          "artist": "Carly Rae Jepsen"
+        },
+        {
+          "title": "Cure For Pain",
+          "year": "1992",
+          "artist": "Morphine"
+        },
+        {
+          "title": "Rumours",
+          "year": "1977",
+          "artist": "Fleetwood Mac"
+        },
+        {
+          "title": "Torches",
+          "year": "2011",
+          "artist": "Foster the People"
+        },
+        {
+          "title": "Wolf",
+          "year": "2013",
+          "artist": "Tyler, the Creator"
+        },
+        {
+          "title": "A Hard Day's Night",
+          "year": "1964",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Townes Van Zandt",
+          "year": "1969",
+          "artist": "Townes Van Zandt"
+        },
+        {
+          "title": "OIL OF EVERY PEARL'S UN-INSIDES",
+          "year": "2018",
+          "artist": "SOPHIE"
+        },
+        {
+          "title": "thank u, next",
+          "year": "2020",
+          "artist": "Ariana Grande"
+        },
+        {
+          "title": "Replica",
+          "year": "2011",
+          "artist": "Oneohtrix Point Never"
+        },
+        {
+          "title": "Not Available",
+          "year": "1977",
+          "artist": "The Residents"
+        },
+        {
+          "title": "Positions",
+          "year": "2020",
+          "artist": "Ariana Grande"
+        },
+        {
+          "title": "Imagine",
+          "year": "1971",
+          "artist": "John Lennon"
+        },
+        {
+          "title": "The Suburbs",
+          "year": "2010",
+          "artist": "Arcade Fire"
+        },
+        {
+          "title": "Black Metal 2",
+          "year": "2021",
+          "artist": "Dean Blunt"
+        },
+        {
+          "title": "Broadcast and The Focus Group Investigate Witch Cults of the Radio Age",
+          "year": "2009",
+          "artist": "Broadcast and The Focus Group"
+        },
+        {
+          "title": "Machine Gun",
+          "year": "1968",
+          "artist": "The Peter Brötzmann Octet"
+        },
+        {
+          "title": "Melodrama",
+          "year": "2017",
+          "artist": "Lorde"
+        },
+        {
+          "title": "A Promise",
+          "year": "2002",
+          "artist": "Xiu Xiu"
+        },
+        {
+          "title": "Trust in the Lifeforce of the Deep Mystery",
+          "year": "2019",
+          "artist": "The Comet is Coming"
+        },
+        {
+          "title": "Mothership Connection",
+          "year": "1975",
+          "artist": "Parliament"
+        },
+        {
+          "title": "Murder Ballads",
+          "year": "1996",
+          "artist": "Nick Cave and the Bad Seeds"
+        },
+        {
+          "title": "Hypermagic Mountain",
+          "year": "2005",
+          "artist": "Lightning Bolt"
+        },
+        {
+          "title": "Room On Fire",
+          "year": "2003",
+          "artist": "The Strokes"
+        },
+        {
+          "title": "Paid In Full",
+          "year": "1987",
+          "artist": "Eric B. & Rakim"
+        },
+        {
+          "title": "20 Jazz Funk Greats",
+          "year": "1979",
+          "artist": "Throbbing Gristle"
+        }
+      ]
+    },
+    {
+      "score": 5.5,
+      "entries": [
+        {
+          "title": "Violator",
+          "year": "1990",
+          "artist": "Depeche Mode"
+        },
+        {
+          "title": "The Melodic Blue",
+          "year": "2021",
+          "artist": "Baby Keem"
+        },
+        {
+          "title": "With The Beatles",
+          "year": "1963",
+          "artist": "The Beatles"
+        },
+        {
+          "title": "Solar Power",
+          "year": "2021",
+          "artist": "Lorde"
+        },
+        {
+          "title": "Moondog",
+          "year": "1969",
+          "artist": "Moondog"
+        },
+        {
+          "title": "Music to Be Murdered By",
+          "year": "2020",
+          "artist": "Eminem"
+        },
+        {
+          "title": "Man on the Moon 3: The Chosen",
+          "year": "2020",
+          "artist": "Kid Cudi"
+        },
+        {
+          "title": "Plastic Ono Band",
+          "year": "1970",
+          "artist": "John Lennon"
+        },
+        {
+          "title": "Lighght",
+          "year": "2014",
+          "artist": "Kishi Bashi"
+        },
+        {
+          "title": "Wisdom of Elders",
+          "year": "2016",
+          "artist": "Shabaka and The Ancestors"
+        },
+        {
+          "title": "Hissing Fauna, Are You the Destroyer?",
+          "year": "2007",
+          "artist": "of Montreal"
+        },
+        {
+          "title": "Froot",
+          "year": "2015",
+          "artist": "Marina and the Diamonds"
+        },
+        {
+          "title": "The Devil and God Are Raging Inside Me",
+          "year": "2006",
+          "artist": "Brand New"
+        },
+        {
+          "title": "Deserter's Songs",
+          "year": "1998",
+          "artist": "Mercury Rev"
+        },
+        {
+          "title": "Manic",
+          "year": "2020",
+          "artist": "Halsey"
+        },
+        {
+          "title": "I Love You, Honeybear",
+          "year": "2015",
+          "artist": "Father John Misty"
+        },
+        {
+          "title": "On Avery Island",
+          "year": "1996",
+          "artist": "Neutral Milk Hotel"
+        },
+        {
+          "title": "Invasion of Privacy",
+          "year": "2018",
+          "artist": "Cardi B"
+        },
+        {
+          "title": "Living in the Material World",
+          "year": "1973",
+          "artist": "George Harrison"
+        },
+        {
+          "title": "Fore!",
+          "year": "1986",
+          "artist": "Huey Lewis and the News"
+        },
+        {
+          "title": "The Shining",
+          "year": "2006",
+          "artist": "J Dilla"
+        },
+        {
+          "title": "Congratulations",
+          "year": "2010",
+          "artist": "MGMT"
+        },
+        {
+          "title": "Hotel California",
+          "year": "1976",
+          "artist": "Eagles"
+        },
+        {
+          "title": "evermore",
+          "year": "2020",
+          "artist": "Taylor Swift"
+        },
+        {
+          "title": "SAWAYAMA",
+          "year": "2020",
+          "artist": "Rina Sawayama"
+        },
+        {
+          "title": "#1 Record",
+          "year": "1972",
+          "artist": "Big Star"
+        },
+        {
+          "title": "Hail to the Thief",
+          "year": "2003",
+          "artist": "Radiohead"
+        },
+        {
+          "title": "Ye",
+          "year": "2018",
+          "artist": "Kanye West"
+        },
+        {
+          "title": "Chemtrails over the Country Club",
+          "year": "2021",
+          "artist": "Lana Del Rey"
+        },
+        {
+          "title": "The Fame Monster",
+          "year": "2009",
+          "artist": "Lady Gaga"
+        },
+        {
+          "title": "Song Cycle",
+          "year": "1967",
+          "artist": "Van Dyke Parks"
+        }
+      ]
+    },
+    {
+      "score": 5,
+      "entries": [
+        {
+          "title": "Sefronia",
+          "year": "1973",
+          "artist": "Tim Buckley"
+        },
+        {
+          "title": "Selling England by the Pound",
+          "year": "1973",
+          "artist": "Genesis"
+        },
+        {
+          "title": "After Hours",
+          "year": "2020",
+          "artist": "The Weeknd"
+        },
+        {
+          "title": "21",
+          "year": "2011",
+          "artist": "Adele"
+        },
+        {
+          "title": "Deja Entendu",
+          "year": "2003",
+          "artist": "Brand New"
+        },
+        {
+          "title": "Cheap Queen",
+          "year": "2019",
+          "artist": "King Princess"
+        },
+        {
+          "title": "Americana",
+          "year": "1998",
+          "artist": "The Offspring"
+        },
+        {
+          "title": "Freudian",
+          "year": "2017",
+          "artist": "Daniel Caesar"
+        },
+        {
+          "title": "Saturation II",
+          "year": "2007",
+          "artist": "BROCKHAMPTON"
+        },
+        {
+          "title": "The King of Limbs",
+          "year": "2011",
+          "artist": "Radiohead"
+        },
+        {
+          "title": "The Soft Bulletin",
+          "year": "1999",
+          "artist": "The Flaming Lips"
+        },
+        {
+          "title": "Reputation",
+          "year": "2017",
+          "artist": "Taylor Swift"
+        },
+        {
+          "title": "Breakfast in America",
+          "year": "1978",
+          "artist": "Supertramp"
+        },
+        {
+          "title": "Science Fiction",
+          "year": "2017",
+          "artist": "Brand New"
+        },
+        {
+          "title": "69 Love Songs",
+          "year": "1999",
+          "artist": "The Magnetic Fields"
+        },
+        {
+          "title": "Weighing Souls with Sand",
+          "year": "1999",
+          "artist": "The Angelic Process"
+        }
+      ]
+    },
+    {
+      "score": 4.5,
+      "entries": [
+        {
+          "title": "Coloring Book",
+          "year": "2016",
+          "artist": "Chance the Rapper"
+        },
+        {
+          "title": "Hopeless Fountain Kingdom",
+          "year": "2017",
+          "artist": "Halsey"
+        },
+        {
+          "title": "Look at the Fool",
+          "year": "1974",
+          "artist": "Tim Buckley"
+        }
+      ]
+    },
+    {
+      "score": 4,
+      "entries": [
+        {
+          "title": "Astroworld",
+          "year": "2018",
+          "artist": "Travis Scott"
+        },
+        {
+          "title": "Chromatica",
+          "year": "2020",
+          "artist": "Lady Gaga"
+        },
+        {
+          "title": "Gemini Rights",
+          "year": "2022",
+          "artist": "Steve Lacy"
+        },
+        {
+          "title": "(What's the Story) Morning Glory?",
+          "year": "1995",
+          "artist": "Oasis"
+        },
+        {
+          "title": "Art Angels",
+          "year": "2015",
+          "artist": "Grimes"
+        },
+        {
+          "title": "The Great Milenko",
+          "year": "1997",
+          "artist": "Insane Clown Posse"
+        }
+      ]
+    },
+    {
+      "score": 3.5,
+      "entries": []
+    },
+    {
+      "score": 3,
+      "entries": [
+        {
+          "title": "Your Favorite Weapon",
+          "year": "2001",
+          "artist": "Brand New"
+        }
+      ]
+    },
+    {
+      "score": 2.5,
+      "entries": []
+    },
+    {
+      "score": 2,
+      "entries": [
+        {
+          "title": "Goodbye & Good Riddance",
+          "year": "2018",
+          "artist": "Juice WRLD"
+        },
+        {
+          "title": "Acid Rap",
+          "year": "2013",
+          "artist": "Chance the Rapper"
+        },
+        {
+          "title": "The Click",
+          "year": "2017",
+          "artist": "AJR"
+        },
+        {
+          "title": "Certified Lover Boy",
+          "year": "2021",
+          "artist": "Drake"
+        },
+        {
+          "title": "Honestly, Nevermind",
+          "year": "2022",
+          "artist": "Drake"
+        }
+      ]
+    },
+    {
+      "score": 1.5,
+      "entries": [
+        {
+          "title": "St. Anger",
+          "year": "2003",
+          "artist": "Metallica"
+        }
+      ]
+    },
+    {
+      "score": 1,
+      "entries": [
+        {
+          "title": "OK Orchestra",
+          "year": "2021",
+          "artist": "AJR"
+        }
+      ]
+    }
+  ],
+  "seen-live": [
+    {
+      "date": "10/29/16",
+      "program": [
+        {
+          "text": "Piano Concerto in G major (Ravel), Prelude to "
+        },
+        {
+          "text": "Die Meistersinger von Nürnberg",
+          "italic": true
+        },
+        {
+          "text": " (Wagner), Symphony No. 5 (Shostakovich) - Yuja Wang, Gianandrea Noseda, London Symphony Orchestra"
+        }
+      ],
+      "venue": "NJPAC",
+      "location": "Newark, NJ"
+    },
+    {
+      "date": "11/24/17",
+      "program": [
+        {
+          "text": "Requiem (Verdi) - James Levine, Metropolitan Opera Orchestra"
+        }
+      ],
+      "venue": "Metropolitan Opera House",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "1/15/18",
+      "program": [
+        {
+          "text": "Tosca",
+          "italic": true
+        },
+        {
+          "text": " (Puccini) - Emmanuel Villaume, Sonya Yoncheva, Vittorio Grigolo, Zeljko Lucic"
+        }
+      ],
+      "venue": "Metropolitan Opera House",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "11/3/18",
+      "program": [
+        {
+          "text": "Prélude à l'après-midi d'un faune",
+          "italic": true
+        },
+        {
+          "text": " (Debussy), Rhapsody on a Theme of Paganini (Rachmaninoff), Symphony No. 5 (Mahler) - Valery Gergiev, Mariinsky Orchestra"
+        }
+      ],
+      "venue": "NJPAC",
+      "location": "Newark, NJ"
+    },
+    {
+      "date": "3/2/19",
+      "program": [
+        {
+          "text": "Symphony No. 8 (Dvořák), "
+        },
+        {
+          "text": "Peer Gynt",
+          "italic": true
+        },
+        {
+          "text": " Suite No. 1, Piano Concerto (Grieg) - Herbert Blomstedt, Jean-Yves Thibaudet, New York Philharmonic"
+        }
+      ],
+      "venue": "David Geffen Hall",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "4/15/19",
+      "program": [
+        {
+          "text": "Don Giovanni",
+          "italic": true
+        },
+        {
+          "text": " (Mozart) - Cornelius Meister, Peter Mattei, Adam Plachetka, Guanqun Yu, Susanna Phillips"
+        }
+      ],
+      "venue": "Metropolitan Opera House",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "6/18/19",
+      "program": [
+        {
+          "text": "D. 568, D. 784, D. 959 (Schubert) - Mitsuko Uchida"
+        }
+      ],
+      "venue": "Carnegie Hall",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "8/17/19",
+      "program": [
+        {
+          "text": "String Quartet No. 1 (Glazunov), Piano Quartet (Schumann) - St. Petersburg String Quartet, Tao Lin"
+        }
+      ],
+      "venue": "Bargemusic",
+      "location": "Brooklyn, NY"
+    },
+    {
+      "date": "9/21/19",
+      "program": [
+        {
+          "text": "Concerto for Orchestra (Nathan), Concerto for two pianos, "
+        },
+        {
+          "text": "Gloria",
+          "italic": true
+        },
+        {
+          "text": " (Poulenc), Fantasy in C minor (Beethoven) - Andris Nelsons, Lucas and Arthur Jussen"
+        }
+      ],
+      "venue": "Symphony Hall",
+      "location": "Boston, MA"
+    },
+    {
+      "date": "11/30/19",
+      "program": [
+        {
+          "text": "Le nozze di Figaro",
+          "italic": true
+        },
+        {
+          "text": " (Mozart) - Antonello Manacorda, Luca Pisaroni, Susanna Phillips, Adam Plachetka, Gaëlle Arquez, Nadine Sierra, Elizabeth Bishop"
+        }
+      ],
+      "venue": "Metropolitan Opera House",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "?/?/19",
+      "program": [
+        {
+          "text": "La bohème",
+          "italic": true
+        },
+        {
+          "text": " (Puccini)"
+        }
+      ],
+      "venue": "Metropolitan Opera House",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "9/26/21",
+      "program": [
+        {
+          "text": "Phoebe Bridgers · MUNA"
+        }
+      ],
+      "venue": "Leader Bank Pavilion",
+      "location": "Boston, MA"
+    },
+    {
+      "date": "1/11/22",
+      "program": [
+        {
+          "text": "Le nozze di Figaro",
+          "italic": true
+        },
+        {
+          "text": " (Mozart) - Antonio Pappano, Riccardo Fassi, Giulia Semenzato"
+        }
+      ],
+      "venue": "Royal Opera House",
+      "location": "London, UK"
+    },
+    {
+      "date": "3/30/22",
+      "program": [
+        {
+          "text": "black midi · Nnamdi Ogbonnaya"
+        }
+      ],
+      "venue": "Columbus Theatre",
+      "location": "Providence, RI"
+    },
+    {
+      "date": "4/29 - 4/30/22",
+      "program": [
+        {
+          "text": "Flo Milli · Ari Lennox · Hyd"
+        }
+      ],
+      "venue": "Brown University Spring Weekend",
+      "location": "Providence, RI"
+    },
+    {
+      "date": "6/16/22",
+      "program": [
+        {
+          "text": "Mitski · Low · Magdalena Bay · Karate · Japanese Breakfast · Jeff Tweedy · Lucy Dacus · Dry Cleaning"
+        }
+      ],
+      "venue": "Pitchfork Music Festival",
+      "location": "Chicago, IL"
+    },
+    {
+      "date": "8/18/22",
+      "program": [
+        {
+          "text": "Pictures at an Exhibition",
+          "italic": true
+        },
+        {
+          "text": " (Mussorgsky), Violin Concerto (Mendelssohn) - Itzhak Perlman, Peter Oundjian, Chicago Symphony Orchestra"
+        }
+      ],
+      "venue": "Ravinia Music Festival",
+      "location": "Highland Park, IL"
+    },
+    {
+      "date": "11/21/22",
+      "program": [
+        {
+          "text": "Preoccupations · Cindy Lee"
+        }
+      ],
+      "venue": "The Sinclair",
+      "location": "Cambridge, MA"
+    },
+    {
+      "date": "3/5/23",
+      "program": [
+        {
+          "text": "Weyes Blood · Molly Lewis"
+        }
+      ],
+      "venue": "Roadrunner",
+      "location": "Boston, MA"
+    },
+    {
+      "date": "6/2/23",
+      "program": [
+        {
+          "text": "Kendrick Lamar · Unwound · Julia Holter · Four Tet · Depeche Mode · Swans · Yves Tumor"
+        }
+      ],
+      "venue": "Primavera Sound",
+      "location": "Barcelona, Spain"
+    },
+    {
+      "date": "8/8/23",
+      "program": [
+        {
+          "text": "JPEGMAFIA · Danny Brown"
+        }
+      ],
+      "venue": "Franklin Music Hall",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "9/23/23",
+      "program": [
+        {
+          "text": "Natural Information Society"
+        }
+      ],
+      "venue": "Solar Myth Cafe",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "5/28/24",
+      "program": [
+        {
+          "text": "Negativland"
+        }
+      ],
+      "venue": "PhilaMOCA",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "7/24/24",
+      "program": [
+        {
+          "text": "Jah Wobble"
+        }
+      ],
+      "venue": "The Lounge at World Cafe Live",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "8/24/24",
+      "program": [
+        {
+          "text": "P!nk · Sheryl Crow"
+        }
+      ],
+      "venue": "Soldier Field",
+      "location": "Chicago, IL"
+    },
+    {
+      "date": "9/17/24",
+      "program": [
+        {
+          "text": "Magdalena Bay"
+        }
+      ],
+      "venue": "Brooklyn Bowl",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "9/25/24",
+      "program": [
+        {
+          "text": "Charli xcx · Troye Sivan"
+        }
+      ],
+      "venue": "Wells Fargo Center",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "11/3/24",
+      "program": [
+        {
+          "text": "The Go! Team · La Sécurité"
+        }
+      ],
+      "venue": "The Fillmore @ The Foundry",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "11/25/24",
+      "program": [
+        {
+          "text": "Adrianne Lenker · Suzanne Vallie"
+        }
+      ],
+      "venue": "Union Transfer",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "12/5/24",
+      "program": [
+        {
+          "text": "GZA · Raekwon · Ghostface Killah · Cappadonna · State Property"
+        }
+      ],
+      "venue": "Franklin Music Hall",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "2/5/25",
+      "program": [
+        {
+          "text": "Complete solo piano works (Ravel) - Seong-Jin Cho"
+        }
+      ],
+      "venue": "Carnegie Hall",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "4/26/25",
+      "program": [
+        {
+          "text": "Magdalena Bay · Sam Austins"
+        }
+      ],
+      "venue": "Franklin Music Hall",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "5/6/25",
+      "program": [
+        {
+          "text": "Black Country, New Road"
+        }
+      ],
+      "venue": "Rough Trade Above",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "7/12/25",
+      "program": [
+        {
+          "text": "Jane Remover · Jockstrap · Kenny Mason · Dazegxd · HiTech"
+        }
+      ],
+      "venue": "Outline at Knockdown Center",
+      "location": "New York City, NY"
+    },
+    {
+      "date": "8/5/25",
+      "program": [
+        {
+          "text": "Clipse · Ab Liva · Re-Up Gang"
+        }
+      ],
+      "venue": "Franklin Music Hall",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "9/7/25",
+      "program": [
+        {
+          "text": "Unwound"
+        }
+      ],
+      "venue": "First Unitarian Church",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "9/18/25",
+      "program": [
+        {
+          "text": "billy woods · Gabe 'Nandez"
+        }
+      ],
+      "venue": "Underground Arts",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "9/24/25",
+      "program": [
+        {
+          "text": "Stereolab"
+        }
+      ],
+      "venue": "Union Transfer",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "10/11/25",
+      "program": [
+        {
+          "text": "Violin Concerto No. 1 (Bruch), "
+        },
+        {
+          "text": "Une barque sur l'océan",
+          "italic": true
+        },
+        {
+          "text": " (Ravel), "
+        },
+        {
+          "text": "Eine Alpensinfonie",
+          "italic": true
+        },
+        {
+          "text": " (Strauss) - Gil Shaham, Stéphane Denève, Philadelphia Orchestra"
+        }
+      ],
+      "venue": "Marion Anderson Hall",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "10/18/25",
+      "program": [
+        {
+          "text": "Symphony No. 4 (Bruckner), Sinfonia Concertante for Four Winds (Mozart?) - Esa-Pekka Salonen, Philadelphia Orchestra"
+        }
+      ],
+      "venue": "Marion Anderson Hall",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "10/23/25",
+      "program": [
+        {
+          "text": "Big Thief · Lomelda"
+        }
+      ],
+      "venue": "The Met",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "1/11/26",
+      "program": [
+        {
+          "text": "Symphony No. 4 (Mahler), Violin Concerto (Barber), "
+        },
+        {
+          "text": "Short Ride in a Fast Machine",
+          "italic": true
+        },
+        {
+          "text": " (Adams) - Augustin Hadelich, Joélle Harvey, Dalia Stasevska, Philadelphia Orchestra"
+        }
+      ],
+      "venue": "Marion Anderson Hall",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "1/14/26",
+      "program": [
+        {
+          "text": "Cello Concerto (Dvořák), Symphony No. 4 (Mendelssohn), Nocturne in D major (Akimenko) - Yo-Yo Ma, Dalia Stasevska, Philadelphia Orchestra"
+        }
+      ],
+      "venue": "Marion Anderson Hall",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "date": "2/1/26",
+      "program": [
+        {
+          "text": "The Rite of Spring",
+          "italic": true
+        },
+        {
+          "text": " (Stravinsky), Piano Concerto No. 1 (Shostakovich), "
+        },
+        {
+          "text": "Mother Goose",
+          "italic": true
+        },
+        {
+          "text": " Suite (Ravel) - Seong-Jin Cho, Yannick Nézet-Séguin, Philadelphia Orchestra"
+        }
+      ],
+      "venue": "Marion Anderson Hall",
+      "location": "Philadelphia, PA"
+    }
+  ],
+  "classical-records": [
+    {
+      "title": "Strauss - Vier letzte Lieder",
+      "year": "1997",
+      "artist": "Elisabeth Schwarzkopf, George Szell"
+    },
+    {
+      "title": "Beethoven - Missa Solemnis",
+      "year": "1966",
+      "artist": "Otto Klemperer, New Philharmonia Orchestra"
+    },
+    {
+      "title": "Bach - A State of Wonder (The Goldberg Variations)",
+      "year": "1955, 1981",
+      "artist": "Glenn Gould"
+    },
+    {
+      "title": "Wagner - Tristan und Isolde",
+      "year": "1953",
+      "artist": "Wilhelm Furtwängler, Philharmonia Orchestra"
+    },
+    {
+      "title": "Wagner - Der Ring des Nibelungen",
+      "year": "1965",
+      "artist": "Georg Solti, Wiener Philharmoniker"
+    },
+    {
+      "title": "Mahler - Das Lied von der Erde",
+      "year": "1967",
+      "artist": "James King, Dietrich Fischer-Dieskau, Leonard Bernstein, Wiener Philharmoniker"
+    },
+    {
+      "title": "Wagner - Die Meistersinger von Nürnberg",
+      "year": "1967",
+      "artist": "Rafael Kubelik, Symphonieorchester des Bayerischen Rundfunks"
+    },
+    {
+      "title": "Bartók - Concerto for Orchestra",
+      "year": "1956",
+      "artist": "Fritz Reiner, Chicago Symphony Orchestra"
+    },
+    {
+      "title": "Beethoven - Symphonies 5 & 7",
+      "year": "1995",
+      "artist": "Carlos Kleiber, Wiener Philharmoniker"
+    },
+    {
+      "title": "Beethoven - Violin Concerto",
+      "year": "1953",
+      "artist": "Yehudi Menuhin, Wilhelm Furtwängler, Philharmonia Orchestra"
+    },
+    {
+      "title": "Shostakovich - 24 Preludes and Fugues",
+      "year": "1991",
+      "artist": "Tatiana Nikolayeva"
+    },
+    {
+      "title": "Fauré - Piano Quartets",
+      "year": "1992",
+      "artist": "Yo-Yo-Ma, Isaac Stern, Jaime Laredo, Emanuel Ax"
+    },
+    {
+      "title": "Schubert - Winterreise",
+      "year": "1985",
+      "artist": "Dietrich Fischer-Dieskau, Gerald Moore"
+    },
+    {
+      "title": "Albéniz - Iberia, Navarra, Suite Española",
+      "year": "1988",
+      "artist": "Alicia de Larrocha"
+    }
+  ],
+  "composers": [
+    {
+      "name": "Johann Sebastian Bach",
+      "nationality": "German",
+      "years": "1685-1750"
+    },
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "nationality": "Austrian",
+      "years": "1756-1791"
+    },
+    {
+      "name": "Richard Wagner",
+      "nationality": "German",
+      "years": "1813-1883"
+    },
+    {
+      "name": "Maurice Ravel",
+      "nationality": "French",
+      "years": "1875-1937"
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "nationality": "German",
+      "years": "1770-1827"
+    },
+    {
+      "name": "Igor Stravinsky",
+      "nationality": "Russian",
+      "years": "1882-1971"
+    },
+    {
+      "name": "Arnold Schoenberg",
+      "nationality": "Austrian",
+      "years": "1874-1951"
+    },
+    {
+      "name": "Franz Liszt",
+      "nationality": "Hungarian",
+      "years": "1811-1886"
+    },
+    {
+      "name": "Béla Bartók",
+      "nationality": "Hungarian",
+      "years": "1881-1945"
+    },
+    {
+      "name": "Franz Schubert",
+      "nationality": "Austrian",
+      "years": "1797-1828"
+    },
+    {
+      "name": "Giuseppe Verdi",
+      "nationality": "Italian",
+      "years": "1813-1901"
+    },
+    {
+      "name": "Richard Strauss",
+      "nationality": "German",
+      "years": "1864-1949"
+    },
+    {
+      "name": "Claude Debussy",
+      "nationality": "French",
+      "years": "1862-1918"
+    },
+    {
+      "name": "Dmitri Shostakovich",
+      "nationality": "Russian",
+      "years": "1906-1975"
+    },
+    {
+      "name": "György Ligeti",
+      "nationality": "Hungarian",
+      "years": "1923-2006"
+    },
+    {
+      "name": "Felix Mendelssohn",
+      "nationality": "German",
+      "years": "1809-1847"
+    },
+    {
+      "name": "Paul Hindemith",
+      "nationality": "German",
+      "years": "1895-1963"
+    },
+    {
+      "name": "Claudio Monteverdi",
+      "nationality": "Italian",
+      "years": "1567-1643"
+    },
+    {
+      "name": "Gustav Mahler",
+      "nationality": "Austrian",
+      "years": "1860-1911"
+    },
+    {
+      "name": "Philip Glass",
+      "nationality": "American",
+      "years": "1937-"
+    },
+    {
+      "name": "César Franck",
+      "nationality": "Belgian",
+      "years": "1822-1890"
+    },
+    {
+      "name": "Antonín Dvořák",
+      "nationality": "Czech",
+      "years": "1841-1904"
+    },
+    {
+      "name": "Frédéric Chopin",
+      "nationality": "Polish",
+      "years": "1810-1849"
+    },
+    {
+      "name": "Sergei Prokofiev",
+      "nationality": "Russian",
+      "years": "1891-1953"
+    },
+    {
+      "name": "Olivier Messiaen",
+      "nationality": "French",
+      "years": "1908-1992"
+    },
+    {
+      "name": "Alban Berg",
+      "nationality": "Austrian",
+      "years": "1885-1935"
+    },
+    {
+      "name": "Pyotr Ilyich Tchaikovsky",
+      "nationality": "Russian",
+      "years": "1840-1893"
+    },
+    {
+      "name": "Gabriel Fauré",
+      "nationality": "French",
+      "years": "1845-1924"
+    },
+    {
+      "name": "Alexander Scriabin",
+      "nationality": "Russian",
+      "years": "1872-1915"
+    },
+    {
+      "name": "Arvo Pärt",
+      "nationality": "Estonian",
+      "years": "1935-"
+    },
+    {
+      "name": "Federico Mompou",
+      "nationality": "Catalan",
+      "years": "1893-1987"
+    },
+    {
+      "name": "Josquin des Prez",
+      "nationality": "French",
+      "years": "1450-1521"
+    },
+    {
+      "name": "Benjamin Britten",
+      "nationality": "English",
+      "years": "1913-1976"
+    },
+    {
+      "name": "Robert Schumann",
+      "nationality": "German",
+      "years": "1810-1856"
+    },
+    {
+      "name": "Johannes Brahms",
+      "nationality": "German",
+      "years": "1833-1897"
+    },
+    {
+      "name": "Allan Pettersson",
+      "nationality": "Swedish",
+      "years": "1911-1980"
+    },
+    {
+      "name": "George Frideric Handel",
+      "nationality": "German",
+      "years": "1685-1759"
+    },
+    {
+      "name": "Giacomo Puccini",
+      "nationality": "Italian",
+      "years": "1858-1924"
+    },
+    {
+      "name": "Nikolai Rimsky-Korsakov",
+      "nationality": "Russian",
+      "years": "1844-1908"
+    },
+    {
+      "name": "Charles Ives",
+      "nationality": "American",
+      "years": "1874-1954"
+    },
+    {
+      "name": "Leoš Janáček",
+      "nationality": "Czech",
+      "years": "1854-1928"
+    },
+    {
+      "name": "Jean Sibelius",
+      "nationality": "Finnish",
+      "years": "1865-1957"
+    },
+    {
+      "name": "Isaac Albéniz",
+      "nationality": "Spanish",
+      "years": "1860-1909"
+    },
+    {
+      "name": "Franz Joseph Haydn",
+      "nationality": "Austrian",
+      "years": "1732-1809"
+    },
+    {
+      "name": "Francisco Tárrega",
+      "nationality": "Spanish",
+      "years": "1852-1909"
+    },
+    {
+      "name": "Hector Berlioz",
+      "nationality": "French",
+      "years": "1803-1869"
+    },
+    {
+      "name": "Gaetano Donizetti",
+      "nationality": "Italian",
+      "years": "1797-1848"
+    },
+    {
+      "name": "Gioachino Rossini",
+      "nationality": "Italian",
+      "years": "1792-1868"
+    },
+    {
+      "name": "Christoph Willibald Gluck",
+      "nationality": "German",
+      "years": "1714-1787"
+    },
+    {
+      "name": "Sergei Rachmaninoff",
+      "nationality": "Russian",
+      "years": "1873-1943"
+    },
+    {
+      "name": "Aram Khachaturian",
+      "nationality": "Armenian",
+      "years": "1903-1978"
+    },
+    {
+      "name": "Alexander Borodin",
+      "nationality": "Russian",
+      "years": "1833-1887"
+    },
+    {
+      "name": "Erik Satie",
+      "nationality": "French",
+      "years": "1866-1925"
+    },
+    {
+      "name": "Anton Bruckner",
+      "nationality": "Austrian",
+      "years": "1824-1896"
+    },
+    {
+      "name": "Modest Mussorgsky",
+      "nationality": "Russian",
+      "years": "1839-1881"
+    },
+    {
+      "name": "Georges Bizet",
+      "nationality": "French",
+      "years": "1838-1875"
+    },
+    {
+      "name": "Ralph Vaughan Williams",
+      "nationality": "English",
+      "years": "1872-1958"
+    },
+    {
+      "name": "Vincenzo Bellini",
+      "nationality": "Italian",
+      "years": "1801-1835"
+    }
+  ],
+  "conductors": [
+    {
+      "name": "Wilhelm Furtwängler",
+      "nationality": "German",
+      "years": "1886-1954"
+    },
+    {
+      "name": "Sergiu Celibidache",
+      "nationality": "Romanian",
+      "years": "1912-1996"
+    },
+    {
+      "name": "Carlos Kleiber",
+      "nationality": "German",
+      "years": "1930-2004"
+    },
+    {
+      "name": "Arturo Toscanini",
+      "nationality": "Italian",
+      "years": "1867-1957"
+    },
+    {
+      "name": "Georg Solti",
+      "nationality": "Hungarian",
+      "years": "1912-1977"
+    },
+    {
+      "name": "Otto Klemperer",
+      "nationality": "German",
+      "years": "1885-1973"
+    },
+    {
+      "name": "André Previn",
+      "nationality": "American",
+      "years": "1929-2019"
+    },
+    {
+      "name": "Rafael Kubelik",
+      "nationality": "Czech",
+      "years": "1914-1996"
+    },
+    {
+      "name": "Seiji Ozawa",
+      "nationality": "Japanese",
+      "years": "1935-"
+    },
+    {
+      "name": "Leonard Bernstein",
+      "nationality": "American",
+      "years": "1918-1990"
+    },
+    {
+      "name": "Daniel Barenboim",
+      "nationality": "Israeli",
+      "years": "1942-"
+    }
+  ],
+  "pianists": [
+    {
+      "name": "Sviatoslav Richter",
+      "nationality": "Russian",
+      "years": "1915-1997"
+    },
+    {
+      "name": "Glenn Gould",
+      "nationality": "Canadian",
+      "years": "1932-1982"
+    },
+    {
+      "name": "Vladimir Horowitz",
+      "nationality": "Russian",
+      "years": "1903-1989"
+    },
+    {
+      "name": "Martha Argerich",
+      "nationality": "Argentine",
+      "years": "1941-"
+    },
+    {
+      "name": "Krystian Zimerman",
+      "nationality": "Polish",
+      "years": "1956-"
+    },
+    {
+      "name": "Mitsuko Uchida",
+      "nationality": "Japanese",
+      "years": "1948-"
+    },
+    {
+      "name": "Arturo Benedetti Michelangeli",
+      "nationality": "Italian",
+      "years": "1920-1995"
+    }
+  ]
+}
