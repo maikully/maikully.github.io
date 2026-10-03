@@ -1,0 +1,34 @@
+{
+  "slug": "doors",
+  "cover": "images/doors.jpg",
+  "coverAlt": "The Doors",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 10,
+      "tracks": [
+        "The End",
+        "Break on Through (To the Other Side)"
+      ]
+    },
+    {
+      "score": 9,
+      "tracks": [
+        "The Crystal Ship",
+        "Light My Fire",
+        "Soul Kitchen",
+        "Take It as It Comes",
+        "Alabama Song (Whisky Bar)",
+        "Twentieth Century Fox"
+      ]
+    },
+    {
+      "score": 8,
+      "tracks": [
+        "End of the Night",
+        "I Looked at You",
+        "Back Door Man"
+      ]
+    }
+  ]
+}

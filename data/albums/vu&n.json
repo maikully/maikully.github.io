@@ -1,0 +1,29 @@
+{
+  "slug": "vu&n",
+  "cover": "images/vu&n.jpg",
+  "coverAlt": "Velvet Underground & Nico",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 10,
+      "tracks": [
+        "I'll Be Your Mirror",
+        "Venus in Furs",
+        "Sunday Morning",
+        "Heroin",
+        "I'm Waiting For The Man"
+      ]
+    },
+    {
+      "score": 9,
+      "tracks": [
+        "Femme Fatale",
+        "There She Goes Again",
+        "All Tomorrow's Parties",
+        "Run Run Run",
+        "The Black Angel's Death Song",
+        "European Son"
+      ]
+    }
+  ]
+}

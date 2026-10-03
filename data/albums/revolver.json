@@ -1,0 +1,47 @@
+{
+  "slug": "revolver",
+  "cover": "images/revolver.jpg",
+  "coverAlt": "Revolver",
+  "review": [],
+  "trackRatings": [
+    {
+      "score": 10,
+      "tracks": [
+        "Tomorrow Never Knows",
+        "I'm Only Sleeping"
+      ]
+    },
+    {
+      "score": 9,
+      "tracks": [
+        "For No One",
+        "Eleanor Rigby"
+      ]
+    },
+    {
+      "score": 8,
+      "tracks": [
+        "Taxman",
+        "Here, There And Everywhere",
+        "She Said She Said",
+        "Got To Get You Into My Life",
+        "And Your Bird Can Sing",
+        "I Want To Tell You",
+        "Yellow Submarine"
+      ]
+    },
+    {
+      "score": 7,
+      "tracks": [
+        "Love You To",
+        "Doctor Robert"
+      ]
+    },
+    {
+      "score": 6,
+      "tracks": [
+        "Good Day Sunshine"
+      ]
+    }
+  ]
+}
